@@ -1,0 +1,15 @@
+C:\School\Funprojecten nieuw\for statement\bin\Debug\for statement.exe.config
+C:\School\Funprojecten nieuw\for statement\bin\Debug\for statement.exe
+C:\School\Funprojecten nieuw\for statement\bin\Debug\for statement.pdb
+C:\School\Funprojecten nieuw\for statement\obj\Debug\for statement.csproj.AssemblyReference.cache
+C:\School\Funprojecten nieuw\for statement\obj\Debug\MainWindow.g.cs
+C:\School\Funprojecten nieuw\for statement\obj\Debug\App.g.cs
+C:\School\Funprojecten nieuw\for statement\obj\Debug\for statement_MarkupCompile.cache
+C:\School\Funprojecten nieuw\for statement\obj\Debug\for statement_MarkupCompile.lref
+C:\School\Funprojecten nieuw\for statement\obj\Debug\MainWindow.baml
+C:\School\Funprojecten nieuw\for statement\obj\Debug\for statement.g.resources
+C:\School\Funprojecten nieuw\for statement\obj\Debug\for_statement.Properties.Resources.resources
+C:\School\Funprojecten nieuw\for statement\obj\Debug\for statement.csproj.GenerateResource.cache
+C:\School\Funprojecten nieuw\for statement\obj\Debug\for statement.csproj.CoreCompileInputs.cache
+C:\School\Funprojecten nieuw\for statement\obj\Debug\for statement.exe
+C:\School\Funprojecten nieuw\for statement\obj\Debug\for statement.pdb

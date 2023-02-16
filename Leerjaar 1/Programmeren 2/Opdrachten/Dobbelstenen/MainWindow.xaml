@@ -1,0 +1,47 @@
+﻿<Window x:Class="Dobbelstenen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Dobbelstenen"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="50" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="20" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="20" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="20" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="20" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="50" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="NewFolder1/dices2.jpg"></ImageBrush>
+        </Grid.Background>
+        <Image x:Name="imgOne" Source="NewFolder1/waiting.jpg" Grid.Row="1" Grid.Column="1"></Image>
+        <Image x:Name="imgTwo" Source="NewFolder1/waiting.jpg" Grid.Row="1" Grid.Column="3"></Image>
+        <Image x:Name="imgThree" Source="NewFolder1/waiting.jpg" Grid.Row="1" Grid.Column="5"></Image>
+        <Image x:Name="imgFour" Source="NewFolder1/waiting.jpg" Grid.Row="1" Grid.Column="7"></Image>
+        <Image x:Name="imgFive" Source="NewFolder1/waiting.jpg" Grid.Row="1" Grid.Column="9"></Image>
+        <CheckBox x:Name="cbOne" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+        <CheckBox x:Name="cbTwo" Grid.Row="2" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+        <CheckBox x:Name="cbThree" Grid.Row="2" Grid.Column="5" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+        <CheckBox x:Name="cbFour" Grid.Row="2" Grid.Column="7" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+        <CheckBox x:Name="cbFive" Grid.Row="2" Grid.Column="9" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+
+        <Button x:Name="btThrow" Grid.Row="3" Grid.Column="5" Content="Throw" Click="btThrow_Click"></Button>
+        <Button x:Name="btReset" Grid.Row="3" Grid.Column="7" Content="Reset" Click="btReset_Click"></Button>
+    </Grid>
+</Window>

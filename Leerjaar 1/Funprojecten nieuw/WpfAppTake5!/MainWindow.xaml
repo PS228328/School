@@ -1,0 +1,118 @@
+﻿<Window x:Class="WpfAppTake5_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppTake5_"
+        mc:Ignorable="d"
+        Title="Take5!" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1.5*"></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition Height="1.5*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="3*"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Row="10" HorizontalAlignment="Right">
+            <TextBlock Visibility="Hidden" x:Name="textselBtplayer">Speler</TextBlock>
+            <StackPanel Width="60" Height="70" x:Name="selectedButton"></StackPanel>
+        </StackPanel>
+        <StackPanel Visibility="Hidden" Background="WhiteSmoke" Grid.Row="10" Grid.Column="1" Orientation="Horizontal" x:Name="cardsPlayer" HorizontalAlignment="Center">
+
+        </StackPanel>
+        <StackPanel Grid.Column="2" HorizontalAlignment="Center">
+            <TextBlock Visibility="Hidden" x:Name="textselBtCPU1">CPU1</TextBlock>
+            <StackPanel Width="60" Height="70" x:Name="selectedButtonCPU1"></StackPanel>
+        </StackPanel>
+        <StackPanel Visibility="Hidden" Background="WhiteSmoke" Grid.Row="0" Grid.Column="1" Orientation="Horizontal" x:Name="cardsCPU1" HorizontalAlignment="Center" RenderTransformOrigin="0.5,0.5" >
+            <StackPanel.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="180"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </StackPanel.RenderTransform>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Center" RenderTransformOrigin="0.5,0.5">
+            <StackPanel.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </StackPanel.RenderTransform>
+            <TextBlock Visibility="Hidden" x:Name="textselBtCPU2">CPU1</TextBlock>
+            <StackPanel Width="60" Height="70" x:Name="selectedButtonCPU2"></StackPanel>
+        </StackPanel>
+        <StackPanel Visibility="Hidden" Height="100" Background="WhiteSmoke" Grid.Row="0" Grid.RowSpan="11" Grid.Column="0" Orientation="Horizontal" x:Name="cardsCPU2" HorizontalAlignment="Center" RenderTransformOrigin="0.5,0.5" >
+            <StackPanel.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="270"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </StackPanel.RenderTransform>
+        </StackPanel>
+        <StackPanel Grid.Column="2" Grid.Row="12" HorizontalAlignment="Center" RenderTransformOrigin="0.5,0.5">
+            <StackPanel.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="270"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </StackPanel.RenderTransform>
+            <TextBlock Visibility="Hidden" x:Name="textselBtCPU3">CPU2</TextBlock>
+            <StackPanel Width="60" Height="70" x:Name="selectedButtonCPU3"></StackPanel>
+        </StackPanel>
+        <StackPanel Visibility="Hidden" Height="100" Background="WhiteSmoke" Grid.Row="0" Grid.RowSpan="11" Grid.Column="2" Orientation="Horizontal" x:Name="cardsCPU3" HorizontalAlignment="Center" RenderTransformOrigin="0.5,0.5" >
+            <StackPanel.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="270"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </StackPanel.RenderTransform>
+        </StackPanel>
+        <Button x:Name="btStartgame" Grid.Row="2" Grid.RowSpan="3" Width="200" Height="60" Grid.Column="1" Content="Start game" FontSize="30" FontWeight="Black" Click="btStartgame_Click"></Button>
+        <StackPanel x:Name="aantalSpelers" Grid.Row="4" Grid.RowSpan="5" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Background="Beige" Width="200" Height="30" TextAlignment="Center" FontSize="20" FontWeight="Bold">Aantal spelers</TextBlock>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock x:Name="tbPlayers" Background="Azure" Width="150" Height="40" TextAlignment="Center" FontSize="30">2</TextBlock>
+                <StackPanel>
+                    <Button x:Name="btaddplayer" Width="50" Height="20" Click="btaddplayer_Click">^</Button>
+                    <Button x:Name="btsubtrplayer" Width="50" Height="20" Click="btsubtrplayer_Click" RenderTransformOrigin="0.5,0.5">
+                        <Button.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="180"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Button.RenderTransform> ^
+                    </Button>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" x:Name="tafel1" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Left"></StackPanel>
+        <StackPanel Orientation="Horizontal" x:Name="tafel2" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Left"></StackPanel>
+        <StackPanel Orientation="Horizontal" x:Name="tafel3" Grid.Row="6" Grid.Column="1" HorizontalAlignment="Left"></StackPanel>
+        <StackPanel Orientation="Horizontal" x:Name="tafel4" Grid.Row="8" Grid.Column="1" HorizontalAlignment="Left"></StackPanel>
+    </Grid>
+</Window>

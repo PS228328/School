@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Views\UitjeBioscoop.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\UitjeMuseum.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\WedstrijdBinnen.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\WedstrijdBuiten.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Views\UitjeBioscoop.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\UitjeMuseum.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\WedstrijdBinnen.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\WedstrijdBuiten.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

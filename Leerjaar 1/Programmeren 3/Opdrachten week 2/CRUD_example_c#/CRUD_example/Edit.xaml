@@ -1,0 +1,32 @@
+﻿<Window x:Class="CRUD_example.Edit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CRUD_example"
+        mc:Ignorable="d"
+        Title="Student aanpassen" Height="450" Width="800">
+    <StackPanel>
+        <DockPanel>
+            <TextBlock Width="80" Text="ID:"/>
+            <TextBlock x:Name="tbId"/>
+        </DockPanel>
+        <DockPanel>
+            <TextBlock Width="80" Text="Voornaam:"/>
+            <TextBox x:Name="tbFirstName"/>
+        </DockPanel>
+        <DockPanel>
+            <TextBlock Width="80" Text="Tussenvoegsel:"/>
+            <TextBox x:Name="tbPreposition"/>
+        </DockPanel>
+        <DockPanel>
+            <TextBlock Width="80" Text="Achternaam:"/>
+            <TextBox x:Name="tbLastName"/>
+        </DockPanel>
+        <DockPanel>
+            <TextBlock Width="80" Text="Klas:"/>
+            <TextBox x:Name="tbClass"/>
+        </DockPanel>
+        <Button Content="Wijzig" Click="Update_Click"/>
+    </StackPanel>
+</Window>

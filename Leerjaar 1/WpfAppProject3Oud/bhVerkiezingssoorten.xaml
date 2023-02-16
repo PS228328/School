@@ -1,0 +1,34 @@
+﻿<Window x:Class="WpfAppProject3.bhVerkiezingssoorten"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppProject3"
+        mc:Ignorable="d"
+        Title="bhVerkiezingssoorten" Height="600" Width="1050" ResizeMode="CanMinimize">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets/Stemmen.jpg"></ImageBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBlock FontSize="30" Background="#FF6DCAE8" Foreground="White" Height="40" Grid.ColumnSpan="2" TextAlignment="Center" FontWeight="Bold" >Beheer verkiezingssoorten</TextBlock>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Bottom">
+            <TextBlock FontSize="14" Background="#FF6DCAE8" Foreground="White" Width="150" TextAlignment="Center" FontWeight="Bold" >Verkiezingssoort</TextBlock>
+            <TextBlock FontSize="14" Background="#FF6DCAE8" Foreground="Black" Width="80" TextAlignment="Center" FontWeight="Bold" >Wijzig</TextBlock>
+            <TextBlock FontSize="14" Background="#FF6DCAE8" Foreground="Black" Width="80" TextAlignment="Center" FontWeight="Bold" >Verwijder</TextBlock>
+        </StackPanel>
+        <ListBox x:Name="databaseitems" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center">
+
+        </ListBox>
+        <Button x:Name="btGoBack" Grid.Row="3" Grid.Column="2" Width="100" Height="40" Content="Terug" FontSize="20" Background="White" FontWeight="Bold" Click="btGoBack_Click"></Button>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\School\Funprojecten nieuw\NS Bord\bin\Debug\NS Bord.exe.config
+C:\School\Funprojecten nieuw\NS Bord\bin\Debug\NS Bord.exe
+C:\School\Funprojecten nieuw\NS Bord\bin\Debug\NS Bord.pdb
+C:\School\Funprojecten nieuw\NS Bord\obj\Debug\NS Bord.csproj.AssemblyReference.cache
+C:\School\Funprojecten nieuw\NS Bord\obj\Debug\MainWindow.g.cs
+C:\School\Funprojecten nieuw\NS Bord\obj\Debug\App.g.cs
+C:\School\Funprojecten nieuw\NS Bord\obj\Debug\NS Bord_MarkupCompile.cache
+C:\School\Funprojecten nieuw\NS Bord\obj\Debug\NS Bord_MarkupCompile.lref
+C:\School\Funprojecten nieuw\NS Bord\obj\Debug\MainWindow.baml
+C:\School\Funprojecten nieuw\NS Bord\obj\Debug\NS Bord.g.resources
+C:\School\Funprojecten nieuw\NS Bord\obj\Debug\NS_Bord.Properties.Resources.resources
+C:\School\Funprojecten nieuw\NS Bord\obj\Debug\NS Bord.csproj.GenerateResource.cache
+C:\School\Funprojecten nieuw\NS Bord\obj\Debug\NS Bord.csproj.CoreCompileInputs.cache
+C:\School\Funprojecten nieuw\NS Bord\obj\Debug\NS Bord.exe
+C:\School\Funprojecten nieuw\NS Bord\obj\Debug\NS Bord.pdb

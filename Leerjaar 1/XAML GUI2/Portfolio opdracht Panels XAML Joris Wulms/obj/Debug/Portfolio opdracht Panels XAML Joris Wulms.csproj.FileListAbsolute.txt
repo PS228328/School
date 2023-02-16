@@ -1,0 +1,15 @@
+C:\School\XAML GUI2\Portfolio opdracht Panels XAML Joris Wulms\bin\Debug\Portfolio opdracht Panels XAML Joris Wulms.exe.config
+C:\School\XAML GUI2\Portfolio opdracht Panels XAML Joris Wulms\bin\Debug\Portfolio opdracht Panels XAML Joris Wulms.exe
+C:\School\XAML GUI2\Portfolio opdracht Panels XAML Joris Wulms\bin\Debug\Portfolio opdracht Panels XAML Joris Wulms.pdb
+C:\School\XAML GUI2\Portfolio opdracht Panels XAML Joris Wulms\obj\Debug\Portfolio opdracht Panels XAML Joris Wulms.csproj.AssemblyReference.cache
+C:\School\XAML GUI2\Portfolio opdracht Panels XAML Joris Wulms\obj\Debug\MainWindow.g.cs
+C:\School\XAML GUI2\Portfolio opdracht Panels XAML Joris Wulms\obj\Debug\App.g.cs
+C:\School\XAML GUI2\Portfolio opdracht Panels XAML Joris Wulms\obj\Debug\Portfolio opdracht Panels XAML Joris Wulms_MarkupCompile.cache
+C:\School\XAML GUI2\Portfolio opdracht Panels XAML Joris Wulms\obj\Debug\Portfolio opdracht Panels XAML Joris Wulms_MarkupCompile.lref
+C:\School\XAML GUI2\Portfolio opdracht Panels XAML Joris Wulms\obj\Debug\MainWindow.baml
+C:\School\XAML GUI2\Portfolio opdracht Panels XAML Joris Wulms\obj\Debug\Portfolio opdracht Panels XAML Joris Wulms.g.resources
+C:\School\XAML GUI2\Portfolio opdracht Panels XAML Joris Wulms\obj\Debug\Portfolio_opdracht_Panels_XAML_Joris_Wulms.Properties.Resources.resources
+C:\School\XAML GUI2\Portfolio opdracht Panels XAML Joris Wulms\obj\Debug\Portfolio opdracht Panels XAML Joris Wulms.csproj.GenerateResource.cache
+C:\School\XAML GUI2\Portfolio opdracht Panels XAML Joris Wulms\obj\Debug\Portfolio opdracht Panels XAML Joris Wulms.csproj.CoreCompileInputs.cache
+C:\School\XAML GUI2\Portfolio opdracht Panels XAML Joris Wulms\obj\Debug\Portfolio opdracht Panels XAML Joris Wulms.exe
+C:\School\XAML GUI2\Portfolio opdracht Panels XAML Joris Wulms\obj\Debug\Portfolio opdracht Panels XAML Joris Wulms.pdb

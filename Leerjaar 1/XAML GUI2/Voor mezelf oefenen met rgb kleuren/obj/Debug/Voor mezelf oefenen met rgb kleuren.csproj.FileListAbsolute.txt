@@ -1,0 +1,15 @@
+C:\School\XAML GUI2\Voor mezelf oefenen met rgb kleuren\bin\Debug\Voor mezelf oefenen met rgb kleuren.exe.config
+C:\School\XAML GUI2\Voor mezelf oefenen met rgb kleuren\bin\Debug\Voor mezelf oefenen met rgb kleuren.exe
+C:\School\XAML GUI2\Voor mezelf oefenen met rgb kleuren\bin\Debug\Voor mezelf oefenen met rgb kleuren.pdb
+C:\School\XAML GUI2\Voor mezelf oefenen met rgb kleuren\obj\Debug\Voor mezelf oefenen met rgb kleuren.csproj.AssemblyReference.cache
+C:\School\XAML GUI2\Voor mezelf oefenen met rgb kleuren\obj\Debug\MainWindow.g.cs
+C:\School\XAML GUI2\Voor mezelf oefenen met rgb kleuren\obj\Debug\App.g.cs
+C:\School\XAML GUI2\Voor mezelf oefenen met rgb kleuren\obj\Debug\Voor mezelf oefenen met rgb kleuren_MarkupCompile.cache
+C:\School\XAML GUI2\Voor mezelf oefenen met rgb kleuren\obj\Debug\Voor mezelf oefenen met rgb kleuren_MarkupCompile.lref
+C:\School\XAML GUI2\Voor mezelf oefenen met rgb kleuren\obj\Debug\MainWindow.baml
+C:\School\XAML GUI2\Voor mezelf oefenen met rgb kleuren\obj\Debug\Voor mezelf oefenen met rgb kleuren.g.resources
+C:\School\XAML GUI2\Voor mezelf oefenen met rgb kleuren\obj\Debug\Voor_mezelf_oefenen_met_rgb_kleuren.Properties.Resources.resources
+C:\School\XAML GUI2\Voor mezelf oefenen met rgb kleuren\obj\Debug\Voor mezelf oefenen met rgb kleuren.csproj.GenerateResource.cache
+C:\School\XAML GUI2\Voor mezelf oefenen met rgb kleuren\obj\Debug\Voor mezelf oefenen met rgb kleuren.csproj.CoreCompileInputs.cache
+C:\School\XAML GUI2\Voor mezelf oefenen met rgb kleuren\obj\Debug\Voor mezelf oefenen met rgb kleuren.exe
+C:\School\XAML GUI2\Voor mezelf oefenen met rgb kleuren\obj\Debug\Voor mezelf oefenen met rgb kleuren.pdb

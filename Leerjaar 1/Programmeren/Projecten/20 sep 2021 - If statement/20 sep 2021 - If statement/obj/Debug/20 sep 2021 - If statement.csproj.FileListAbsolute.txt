@@ -1,0 +1,34 @@
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\20 sep 2021 - If statement\20 sep 2021 - If statement\bin\Debug\Assets\H2Odipolemoment.jpg
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\20 sep 2021 - If statement\20 sep 2021 - If statement\bin\Debug\20 sep 2021 - If statement.exe.config
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\20 sep 2021 - If statement\20 sep 2021 - If statement\bin\Debug\20 sep 2021 - If statement.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\20 sep 2021 - If statement\20 sep 2021 - If statement\bin\Debug\20 sep 2021 - If statement.pdb
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\20 sep 2021 - If statement.csproj.AssemblyReference.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\MainWindow.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\App.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\20 sep 2021 - If statement_Content.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\20 sep 2021 - If statement_MarkupCompile.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\20 sep 2021 - If statement_MarkupCompile.lref
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\MainWindow.baml
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\20 sep 2021 - If statement.g.resources
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\_20_sep_2021___If_statement.Properties.Resources.resources
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\20 sep 2021 - If statement.csproj.GenerateResource.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\20 sep 2021 - If statement.csproj.CoreCompileInputs.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\20 sep 2021 - If statement.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\20 sep 2021 - If statement.pdb
+C:\School\Programmeren\Projecten\20 sep 2021 - If statement\20 sep 2021 - If statement\bin\Debug\Assets\H2Odipolemoment.jpg
+C:\School\Programmeren\Projecten\20 sep 2021 - If statement\20 sep 2021 - If statement\bin\Debug\20 sep 2021 - If statement.exe.config
+C:\School\Programmeren\Projecten\20 sep 2021 - If statement\20 sep 2021 - If statement\bin\Debug\20 sep 2021 - If statement.exe
+C:\School\Programmeren\Projecten\20 sep 2021 - If statement\20 sep 2021 - If statement\bin\Debug\20 sep 2021 - If statement.pdb
+C:\School\Programmeren\Projecten\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\20 sep 2021 - If statement.csproj.AssemblyReference.cache
+C:\School\Programmeren\Projecten\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\MainWindow.g.cs
+C:\School\Programmeren\Projecten\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\App.g.cs
+C:\School\Programmeren\Projecten\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\20 sep 2021 - If statement_Content.g.cs
+C:\School\Programmeren\Projecten\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\20 sep 2021 - If statement_MarkupCompile.cache
+C:\School\Programmeren\Projecten\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\20 sep 2021 - If statement_MarkupCompile.lref
+C:\School\Programmeren\Projecten\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\MainWindow.baml
+C:\School\Programmeren\Projecten\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\20 sep 2021 - If statement.g.resources
+C:\School\Programmeren\Projecten\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\_20_sep_2021___If_statement.Properties.Resources.resources
+C:\School\Programmeren\Projecten\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\20 sep 2021 - If statement.csproj.GenerateResource.cache
+C:\School\Programmeren\Projecten\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\20 sep 2021 - If statement.csproj.CoreCompileInputs.cache
+C:\School\Programmeren\Projecten\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\20 sep 2021 - If statement.exe
+C:\School\Programmeren\Projecten\20 sep 2021 - If statement\20 sep 2021 - If statement\obj\Debug\20 sep 2021 - If statement.pdb

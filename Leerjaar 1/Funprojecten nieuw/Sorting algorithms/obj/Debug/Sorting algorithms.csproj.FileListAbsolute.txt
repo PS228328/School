@@ -1,0 +1,15 @@
+C:\School\Funprojecten nieuw\Sorting algorithms\bin\Debug\Sorting algorithms.exe.config
+C:\School\Funprojecten nieuw\Sorting algorithms\bin\Debug\Sorting algorithms.exe
+C:\School\Funprojecten nieuw\Sorting algorithms\bin\Debug\Sorting algorithms.pdb
+C:\School\Funprojecten nieuw\Sorting algorithms\obj\Debug\Sorting algorithms.csproj.AssemblyReference.cache
+C:\School\Funprojecten nieuw\Sorting algorithms\obj\Debug\MainWindow.g.cs
+C:\School\Funprojecten nieuw\Sorting algorithms\obj\Debug\App.g.cs
+C:\School\Funprojecten nieuw\Sorting algorithms\obj\Debug\Sorting algorithms_MarkupCompile.cache
+C:\School\Funprojecten nieuw\Sorting algorithms\obj\Debug\Sorting algorithms_MarkupCompile.lref
+C:\School\Funprojecten nieuw\Sorting algorithms\obj\Debug\MainWindow.baml
+C:\School\Funprojecten nieuw\Sorting algorithms\obj\Debug\Sorting algorithms.g.resources
+C:\School\Funprojecten nieuw\Sorting algorithms\obj\Debug\Sorting_algorithms.Properties.Resources.resources
+C:\School\Funprojecten nieuw\Sorting algorithms\obj\Debug\Sorting algorithms.csproj.GenerateResource.cache
+C:\School\Funprojecten nieuw\Sorting algorithms\obj\Debug\Sorting algorithms.csproj.CoreCompileInputs.cache
+C:\School\Funprojecten nieuw\Sorting algorithms\obj\Debug\Sorting algorithms.exe
+C:\School\Funprojecten nieuw\Sorting algorithms\obj\Debug\Sorting algorithms.pdb

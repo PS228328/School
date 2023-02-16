@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfAppps228328Oefentoets.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppps228328Oefentoets"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="Black">
+        <StackPanel Orientation="Vertical" Width="300" Background="LightGray" Margin="0,25,0,25">
+            <TextBox x:Name="Joris" Background="DarkGray" Foreground="Black" Text="textbox behorende bij de if opdracht" Margin="0,25,0,0" TextAlignment="Center" />
+            <Button Background="Black" Foreground="White" Content="Button If" Margin="0,25,0,0" Click="btIf_Click"/>
+            <TextBox x:Name="Joris2" Background="DarkGray" Foreground="Black" Text="textbox behorende bij de while opdracht" Margin="0,25,0,0" TextAlignment="Center" />
+            <Button Background="Black" Foreground="White" Content="Button While" Margin="0,25,0,0" Click="btWhile_Click" />
+            <Button Background="Black" Foreground="White" Content="Button If and While" Margin="0,25,0,0" Click="btIfAndWhile_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

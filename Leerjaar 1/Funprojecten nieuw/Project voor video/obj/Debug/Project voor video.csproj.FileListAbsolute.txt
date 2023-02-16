@@ -1,0 +1,15 @@
+C:\School\Funprojecten nieuw\Project voor video\bin\Debug\Project voor video.exe.config
+C:\School\Funprojecten nieuw\Project voor video\bin\Debug\Project voor video.exe
+C:\School\Funprojecten nieuw\Project voor video\bin\Debug\Project voor video.pdb
+C:\School\Funprojecten nieuw\Project voor video\obj\Debug\Project voor video.csproj.AssemblyReference.cache
+C:\School\Funprojecten nieuw\Project voor video\obj\Debug\MainWindow.g.cs
+C:\School\Funprojecten nieuw\Project voor video\obj\Debug\App.g.cs
+C:\School\Funprojecten nieuw\Project voor video\obj\Debug\Project voor video_MarkupCompile.cache
+C:\School\Funprojecten nieuw\Project voor video\obj\Debug\Project voor video_MarkupCompile.lref
+C:\School\Funprojecten nieuw\Project voor video\obj\Debug\MainWindow.baml
+C:\School\Funprojecten nieuw\Project voor video\obj\Debug\Project voor video.g.resources
+C:\School\Funprojecten nieuw\Project voor video\obj\Debug\Project_voor_video.Properties.Resources.resources
+C:\School\Funprojecten nieuw\Project voor video\obj\Debug\Project voor video.csproj.GenerateResource.cache
+C:\School\Funprojecten nieuw\Project voor video\obj\Debug\Project voor video.csproj.CoreCompileInputs.cache
+C:\School\Funprojecten nieuw\Project voor video\obj\Debug\Project voor video.exe
+C:\School\Funprojecten nieuw\Project voor video\obj\Debug\Project voor video.pdb

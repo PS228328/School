@@ -1,0 +1,15 @@
+C:\School\Funprojecten nieuw\WpfAppRekenmachine\bin\Debug\WpfAppRekenmachine.exe.config
+C:\School\Funprojecten nieuw\WpfAppRekenmachine\bin\Debug\WpfAppRekenmachine.exe
+C:\School\Funprojecten nieuw\WpfAppRekenmachine\bin\Debug\WpfAppRekenmachine.pdb
+C:\School\Funprojecten nieuw\WpfAppRekenmachine\obj\Debug\WpfAppRekenmachine.csproj.AssemblyReference.cache
+C:\School\Funprojecten nieuw\WpfAppRekenmachine\obj\Debug\MainWindow.g.cs
+C:\School\Funprojecten nieuw\WpfAppRekenmachine\obj\Debug\App.g.cs
+C:\School\Funprojecten nieuw\WpfAppRekenmachine\obj\Debug\WpfAppRekenmachine_MarkupCompile.cache
+C:\School\Funprojecten nieuw\WpfAppRekenmachine\obj\Debug\WpfAppRekenmachine_MarkupCompile.lref
+C:\School\Funprojecten nieuw\WpfAppRekenmachine\obj\Debug\MainWindow.baml
+C:\School\Funprojecten nieuw\WpfAppRekenmachine\obj\Debug\WpfAppRekenmachine.g.resources
+C:\School\Funprojecten nieuw\WpfAppRekenmachine\obj\Debug\WpfAppRekenmachine.Properties.Resources.resources
+C:\School\Funprojecten nieuw\WpfAppRekenmachine\obj\Debug\WpfAppRekenmachine.csproj.GenerateResource.cache
+C:\School\Funprojecten nieuw\WpfAppRekenmachine\obj\Debug\WpfAppRekenmachine.csproj.CoreCompileInputs.cache
+C:\School\Funprojecten nieuw\WpfAppRekenmachine\obj\Debug\WpfAppRekenmachine.exe
+C:\School\Funprojecten nieuw\WpfAppRekenmachine\obj\Debug\WpfAppRekenmachine.pdb

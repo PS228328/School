@@ -1,0 +1,15 @@
+C:\School\Funprojecten nieuw\Euro Truck Simulator 2 - Levelrankings\bin\Debug\Euro Truck Simulator 2 - Levelrankings.exe.config
+C:\School\Funprojecten nieuw\Euro Truck Simulator 2 - Levelrankings\bin\Debug\Euro Truck Simulator 2 - Levelrankings.exe
+C:\School\Funprojecten nieuw\Euro Truck Simulator 2 - Levelrankings\bin\Debug\Euro Truck Simulator 2 - Levelrankings.pdb
+C:\School\Funprojecten nieuw\Euro Truck Simulator 2 - Levelrankings\obj\Debug\Euro Truck Simulator 2 - Levelrankings.csproj.AssemblyReference.cache
+C:\School\Funprojecten nieuw\Euro Truck Simulator 2 - Levelrankings\obj\Debug\MainWindow.g.cs
+C:\School\Funprojecten nieuw\Euro Truck Simulator 2 - Levelrankings\obj\Debug\App.g.cs
+C:\School\Funprojecten nieuw\Euro Truck Simulator 2 - Levelrankings\obj\Debug\Euro Truck Simulator 2 - Levelrankings_MarkupCompile.cache
+C:\School\Funprojecten nieuw\Euro Truck Simulator 2 - Levelrankings\obj\Debug\Euro Truck Simulator 2 - Levelrankings_MarkupCompile.lref
+C:\School\Funprojecten nieuw\Euro Truck Simulator 2 - Levelrankings\obj\Debug\MainWindow.baml
+C:\School\Funprojecten nieuw\Euro Truck Simulator 2 - Levelrankings\obj\Debug\Euro Truck Simulator 2 - Levelrankings.g.resources
+C:\School\Funprojecten nieuw\Euro Truck Simulator 2 - Levelrankings\obj\Debug\Euro_Truck_Simulator_2___Levelrankings.Properties.Resources.resources
+C:\School\Funprojecten nieuw\Euro Truck Simulator 2 - Levelrankings\obj\Debug\Euro Truck Simulator 2 - Levelrankings.csproj.GenerateResource.cache
+C:\School\Funprojecten nieuw\Euro Truck Simulator 2 - Levelrankings\obj\Debug\Euro Truck Simulator 2 - Levelrankings.csproj.CoreCompileInputs.cache
+C:\School\Funprojecten nieuw\Euro Truck Simulator 2 - Levelrankings\obj\Debug\Euro Truck Simulator 2 - Levelrankings.exe
+C:\School\Funprojecten nieuw\Euro Truck Simulator 2 - Levelrankings\obj\Debug\Euro Truck Simulator 2 - Levelrankings.pdb

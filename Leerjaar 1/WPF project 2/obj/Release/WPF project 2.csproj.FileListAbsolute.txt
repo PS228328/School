@@ -1,0 +1,32 @@
+C:\School\WPF project 2\bin\Release\Images\2euro.jpeg
+C:\School\WPF project 2\bin\Release\Images\10 euro.png
+C:\School\WPF project 2\bin\Release\Images\100 euro.jpg
+C:\School\WPF project 2\bin\Release\Images\10eurocent.jpg
+C:\School\WPF project 2\bin\Release\Images\1euro.jpg
+C:\School\WPF project 2\bin\Release\Images\20 euro.jpg
+C:\School\WPF project 2\bin\Release\Images\200 euro.jpg
+C:\School\WPF project 2\bin\Release\Images\20eurocent.jpg
+C:\School\WPF project 2\bin\Release\Images\5 euro.png
+C:\School\WPF project 2\bin\Release\Images\50 euro.png
+C:\School\WPF project 2\bin\Release\Images\50eurocent.jpg
+C:\School\WPF project 2\bin\Release\Images\5eurocent.jpg
+C:\School\WPF project 2\bin\Release\WPF project 2.exe.config
+C:\School\WPF project 2\bin\Release\WPF project 2.exe
+C:\School\WPF project 2\bin\Release\WPF project 2.pdb
+C:\School\WPF project 2\obj\Release\WPF project 2.csproj.AssemblyReference.cache
+C:\School\WPF project 2\obj\Release\MainWindow.baml
+C:\School\WPF project 2\obj\Release\MainWindow.g.cs
+C:\School\WPF project 2\obj\Release\Rekenmachine.g.cs
+C:\School\WPF project 2\obj\Release\timer.g.cs
+C:\School\WPF project 2\obj\Release\App.g.cs
+C:\School\WPF project 2\obj\Release\WPF project 2_Content.g.cs
+C:\School\WPF project 2\obj\Release\WPF project 2_MarkupCompile.cache
+C:\School\WPF project 2\obj\Release\WPF project 2_MarkupCompile.lref
+C:\School\WPF project 2\obj\Release\Rekenmachine.baml
+C:\School\WPF project 2\obj\Release\timer.baml
+C:\School\WPF project 2\obj\Release\WPF project 2.g.resources
+C:\School\WPF project 2\obj\Release\WPF_project_2.Properties.Resources.resources
+C:\School\WPF project 2\obj\Release\WPF project 2.csproj.GenerateResource.cache
+C:\School\WPF project 2\obj\Release\WPF project 2.csproj.CoreCompileInputs.cache
+C:\School\WPF project 2\obj\Release\WPF project 2.exe
+C:\School\WPF project 2\obj\Release\WPF project 2.pdb

@@ -1,0 +1,56 @@
+﻿<Window x:Class="WpfAppPractiseIfStatement.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppPractiseIfStatement"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Assets/Background.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="30" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="10" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="10" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="30" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" />
+            <RowDefinition Height="2*" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="2*" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="2*" />
+            <RowDefinition Height="30" />
+        </Grid.RowDefinitions>
+
+        <ComboBox x:Name="cbOne" Height="40" Grid.Row="1" Grid.Column="1" >
+            <ComboBoxItem >Eieren, bloem en melk</ComboBoxItem>
+            <ComboBoxItem>Kaas en brood</ComboBoxItem>
+            <ComboBoxItem>Alle ingrediënten zijn op</ComboBoxItem>
+        </ComboBox>
+
+        <ComboBox x:Name="cbTwo" Height="40" Grid.Row="1" Grid.Column="3" >
+            <ComboBoxItem>Koekenpan</ComboBoxItem>
+            <ComboBoxItem>Tosti-ijzer</ComboBoxItem>
+            <ComboBoxItem>Koelkast</ComboBoxItem>
+        </ComboBox>
+
+        <ComboBox x:Name="cbThree" Height="40" Grid.Row="1" Grid.Column="5"  >
+            <ComboBoxItem>Al het keukengerei werkt naar behoren</ComboBoxItem>
+            <ComboBoxItem>Koekenpan is versleten, alles koekt aan</ComboBoxItem>
+            <ComboBoxItem>Kaas is verschimmeld</ComboBoxItem>
+            <ComboBoxItem>Keuken is ontploft</ComboBoxItem>
+        </ComboBox>
+
+        <Button x:Name="btStart" Grid.Row="3" Grid.Column="1" Background="Black" Foreground="White" Click="btStart_Click">Start</Button>
+
+        <TextBlock x:Name="tbGerecht" Background="LightBlue" TextWrapping="Wrap" Foreground="Orange" FontSize="25" Grid.Row="3" Grid.Column="3" Grid.ColumnSpan="3"/>
+
+    </Grid>
+</Window>

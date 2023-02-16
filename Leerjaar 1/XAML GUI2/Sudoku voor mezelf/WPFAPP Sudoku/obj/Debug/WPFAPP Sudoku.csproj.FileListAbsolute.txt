@@ -1,0 +1,15 @@
+C:\School\XAML GUI2\Sudoku voor mezelf\WPFAPP Sudoku\bin\Debug\WPFAPP Sudoku.exe.config
+C:\School\XAML GUI2\Sudoku voor mezelf\WPFAPP Sudoku\bin\Debug\WPFAPP Sudoku.exe
+C:\School\XAML GUI2\Sudoku voor mezelf\WPFAPP Sudoku\bin\Debug\WPFAPP Sudoku.pdb
+C:\School\XAML GUI2\Sudoku voor mezelf\WPFAPP Sudoku\obj\Debug\WPFAPP Sudoku.csproj.AssemblyReference.cache
+C:\School\XAML GUI2\Sudoku voor mezelf\WPFAPP Sudoku\obj\Debug\MainWindow.g.cs
+C:\School\XAML GUI2\Sudoku voor mezelf\WPFAPP Sudoku\obj\Debug\App.g.cs
+C:\School\XAML GUI2\Sudoku voor mezelf\WPFAPP Sudoku\obj\Debug\WPFAPP Sudoku_MarkupCompile.cache
+C:\School\XAML GUI2\Sudoku voor mezelf\WPFAPP Sudoku\obj\Debug\WPFAPP Sudoku_MarkupCompile.lref
+C:\School\XAML GUI2\Sudoku voor mezelf\WPFAPP Sudoku\obj\Debug\MainWindow.baml
+C:\School\XAML GUI2\Sudoku voor mezelf\WPFAPP Sudoku\obj\Debug\WPFAPP Sudoku.g.resources
+C:\School\XAML GUI2\Sudoku voor mezelf\WPFAPP Sudoku\obj\Debug\WPFAPP_Sudoku.Properties.Resources.resources
+C:\School\XAML GUI2\Sudoku voor mezelf\WPFAPP Sudoku\obj\Debug\WPFAPP Sudoku.csproj.GenerateResource.cache
+C:\School\XAML GUI2\Sudoku voor mezelf\WPFAPP Sudoku\obj\Debug\WPFAPP Sudoku.csproj.CoreCompileInputs.cache
+C:\School\XAML GUI2\Sudoku voor mezelf\WPFAPP Sudoku\obj\Debug\WPFAPP Sudoku.exe
+C:\School\XAML GUI2\Sudoku voor mezelf\WPFAPP Sudoku\obj\Debug\WPFAPP Sudoku.pdb

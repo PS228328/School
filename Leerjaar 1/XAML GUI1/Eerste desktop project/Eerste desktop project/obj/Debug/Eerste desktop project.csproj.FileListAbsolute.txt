@@ -1,0 +1,15 @@
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Eerste desktop project\Eerste desktop project\bin\Debug\Eerste desktop project.exe.config
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Eerste desktop project\Eerste desktop project\bin\Debug\Eerste desktop project.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Eerste desktop project\Eerste desktop project\bin\Debug\Eerste desktop project.pdb
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Eerste desktop project\Eerste desktop project\obj\Debug\Eerste desktop project.csproj.AssemblyReference.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Eerste desktop project\Eerste desktop project\obj\Debug\MainWindow.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Eerste desktop project\Eerste desktop project\obj\Debug\App.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Eerste desktop project\Eerste desktop project\obj\Debug\Eerste desktop project_MarkupCompile.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Eerste desktop project\Eerste desktop project\obj\Debug\Eerste desktop project_MarkupCompile.lref
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Eerste desktop project\Eerste desktop project\obj\Debug\MainWindow.baml
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Eerste desktop project\Eerste desktop project\obj\Debug\Eerste desktop project.g.resources
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Eerste desktop project\Eerste desktop project\obj\Debug\Eerste_desktop_project.Properties.Resources.resources
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Eerste desktop project\Eerste desktop project\obj\Debug\Eerste desktop project.csproj.GenerateResource.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Eerste desktop project\Eerste desktop project\obj\Debug\Eerste desktop project.csproj.CoreCompileInputs.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Eerste desktop project\Eerste desktop project\obj\Debug\Eerste desktop project.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Eerste desktop project\Eerste desktop project\obj\Debug\Eerste desktop project.pdb

@@ -1,0 +1,15 @@
+C:\School\Programmeren 2\Opdrachten\Foreach loop\bin\Debug\Foreach loop.exe.config
+C:\School\Programmeren 2\Opdrachten\Foreach loop\bin\Debug\Foreach loop.exe
+C:\School\Programmeren 2\Opdrachten\Foreach loop\bin\Debug\Foreach loop.pdb
+C:\School\Programmeren 2\Opdrachten\Foreach loop\obj\Debug\Foreach loop.csproj.AssemblyReference.cache
+C:\School\Programmeren 2\Opdrachten\Foreach loop\obj\Debug\MainWindow.g.cs
+C:\School\Programmeren 2\Opdrachten\Foreach loop\obj\Debug\App.g.cs
+C:\School\Programmeren 2\Opdrachten\Foreach loop\obj\Debug\Foreach loop_MarkupCompile.cache
+C:\School\Programmeren 2\Opdrachten\Foreach loop\obj\Debug\Foreach loop_MarkupCompile.lref
+C:\School\Programmeren 2\Opdrachten\Foreach loop\obj\Debug\MainWindow.baml
+C:\School\Programmeren 2\Opdrachten\Foreach loop\obj\Debug\Foreach loop.g.resources
+C:\School\Programmeren 2\Opdrachten\Foreach loop\obj\Debug\Foreach_loop.Properties.Resources.resources
+C:\School\Programmeren 2\Opdrachten\Foreach loop\obj\Debug\Foreach loop.csproj.GenerateResource.cache
+C:\School\Programmeren 2\Opdrachten\Foreach loop\obj\Debug\Foreach loop.csproj.CoreCompileInputs.cache
+C:\School\Programmeren 2\Opdrachten\Foreach loop\obj\Debug\Foreach loop.exe
+C:\School\Programmeren 2\Opdrachten\Foreach loop\obj\Debug\Foreach loop.pdb

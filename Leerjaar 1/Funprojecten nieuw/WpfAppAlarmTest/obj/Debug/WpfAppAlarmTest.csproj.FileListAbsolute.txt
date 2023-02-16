@@ -1,0 +1,15 @@
+C:\School\Funprojecten nieuw\WpfAppAlarmTest\bin\Debug\WpfAppAlarmTest.exe.config
+C:\School\Funprojecten nieuw\WpfAppAlarmTest\bin\Debug\WpfAppAlarmTest.exe
+C:\School\Funprojecten nieuw\WpfAppAlarmTest\bin\Debug\WpfAppAlarmTest.pdb
+C:\School\Funprojecten nieuw\WpfAppAlarmTest\obj\Debug\WpfAppAlarmTest.csproj.AssemblyReference.cache
+C:\School\Funprojecten nieuw\WpfAppAlarmTest\obj\Debug\MainWindow.g.cs
+C:\School\Funprojecten nieuw\WpfAppAlarmTest\obj\Debug\App.g.cs
+C:\School\Funprojecten nieuw\WpfAppAlarmTest\obj\Debug\WpfAppAlarmTest_MarkupCompile.cache
+C:\School\Funprojecten nieuw\WpfAppAlarmTest\obj\Debug\WpfAppAlarmTest_MarkupCompile.lref
+C:\School\Funprojecten nieuw\WpfAppAlarmTest\obj\Debug\MainWindow.baml
+C:\School\Funprojecten nieuw\WpfAppAlarmTest\obj\Debug\WpfAppAlarmTest.g.resources
+C:\School\Funprojecten nieuw\WpfAppAlarmTest\obj\Debug\WpfAppAlarmTest.Properties.Resources.resources
+C:\School\Funprojecten nieuw\WpfAppAlarmTest\obj\Debug\WpfAppAlarmTest.csproj.GenerateResource.cache
+C:\School\Funprojecten nieuw\WpfAppAlarmTest\obj\Debug\WpfAppAlarmTest.csproj.CoreCompileInputs.cache
+C:\School\Funprojecten nieuw\WpfAppAlarmTest\obj\Debug\WpfAppAlarmTest.exe
+C:\School\Funprojecten nieuw\WpfAppAlarmTest\obj\Debug\WpfAppAlarmTest.pdb

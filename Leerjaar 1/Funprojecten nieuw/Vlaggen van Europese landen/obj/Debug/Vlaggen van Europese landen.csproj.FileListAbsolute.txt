@@ -1,0 +1,15 @@
+C:\School\Funprojecten nieuw\Vlaggen van Europese landen\bin\Debug\Vlaggen van Europese landen.exe.config
+C:\School\Funprojecten nieuw\Vlaggen van Europese landen\bin\Debug\Vlaggen van Europese landen.exe
+C:\School\Funprojecten nieuw\Vlaggen van Europese landen\bin\Debug\Vlaggen van Europese landen.pdb
+C:\School\Funprojecten nieuw\Vlaggen van Europese landen\obj\Debug\Vlaggen van Europese landen.csproj.AssemblyReference.cache
+C:\School\Funprojecten nieuw\Vlaggen van Europese landen\obj\Debug\MainWindow.g.cs
+C:\School\Funprojecten nieuw\Vlaggen van Europese landen\obj\Debug\App.g.cs
+C:\School\Funprojecten nieuw\Vlaggen van Europese landen\obj\Debug\Vlaggen van Europese landen_MarkupCompile.cache
+C:\School\Funprojecten nieuw\Vlaggen van Europese landen\obj\Debug\Vlaggen van Europese landen_MarkupCompile.lref
+C:\School\Funprojecten nieuw\Vlaggen van Europese landen\obj\Debug\MainWindow.baml
+C:\School\Funprojecten nieuw\Vlaggen van Europese landen\obj\Debug\Vlaggen van Europese landen.g.resources
+C:\School\Funprojecten nieuw\Vlaggen van Europese landen\obj\Debug\Vlaggen_van_Europese_landen.Properties.Resources.resources
+C:\School\Funprojecten nieuw\Vlaggen van Europese landen\obj\Debug\Vlaggen van Europese landen.csproj.GenerateResource.cache
+C:\School\Funprojecten nieuw\Vlaggen van Europese landen\obj\Debug\Vlaggen van Europese landen.csproj.CoreCompileInputs.cache
+C:\School\Funprojecten nieuw\Vlaggen van Europese landen\obj\Debug\Vlaggen van Europese landen.exe
+C:\School\Funprojecten nieuw\Vlaggen van Europese landen\obj\Debug\Vlaggen van Europese landen.pdb

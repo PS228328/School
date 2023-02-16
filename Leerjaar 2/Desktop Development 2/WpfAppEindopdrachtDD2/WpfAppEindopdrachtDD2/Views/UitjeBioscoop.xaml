@@ -1,0 +1,66 @@
+﻿<Window x:Class="WpfAppEindopdrachtDD2.Views.UitjeBioscoop"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppEindopdrachtDD2.Views"
+        mc:Ignorable="d"
+        Title="UitjeBioscoop" Height="450" Width="800">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock FontSize="25" FontWeight="bold" Padding="20,0,20,0" Foreground="Aqua" Background="Black">Bioscoopuitje aanmaken</TextBlock>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock FontSize="15" Width="60" TextAlignment="Center">Naam</TextBlock>
+                <TextBox Width="250" DataContext="{Binding Bioscoopuitje}" Text="{Binding Naam}"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock FontSize="15" Width="90" TextAlignment="Center">Startdatum</TextBlock>
+                <DatePicker Width="220" DataContext="{Binding Bioscoopuitje}" SelectedDate="{Binding StartDatum}"></DatePicker>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock FontSize="15" Width="90" TextAlignment="Center">Doorstroom</TextBlock>
+                <RadioButton x:Name="rbDoorstroomT" Margin="30,3,0,0">Ja</RadioButton>
+                <RadioButton IsChecked="True" x:Name="rbDoorstroomF" Margin="10,3,0,0">Nee</RadioButton>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock FontSize="15" Width="90" TextAlignment="Center">Binnenevent</TextBlock>
+                <RadioButton x:Name="rbBinneneventT" Margin="30,3,0,0">Ja</RadioButton>
+                <RadioButton IsChecked="True" x:Name="rbBinneneventF" Margin="10,3,0,0">Nee</RadioButton>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock FontSize="15" Width="120" TextAlignment="Center">Aanvangstijdstip</TextBlock>
+                <DatePicker Width="190" DataContext="{Binding Bioscoopuitje}" SelectedDate="{Binding AanvangsTijdstip}"></DatePicker>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock FontSize="15" Width="50" TextAlignment="Center">Duur</TextBlock>
+                <TextBox DataContext="{Binding Bioscoopuitje}" Text="{Binding Duur}" FontSize="15" Margin="90,0,0,0"></TextBox>
+                <Button x:Name="btnAdd10" FontSize="15" Background="LightGreen" Margin="10,0,0,0" Click="btnAdd10_Click">10</Button>
+                <Button x:Name="btnAdd1" FontSize="15" Background="LightGreen" Click="btnAdd1_Click">^</Button>
+                <Button x:Name="btnSubtract1" FontSize="15" Background="Red" RenderTransformOrigin="0.5,0.5" Click="btnSubtract1_Click">
+                    <Button.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="180"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Button.RenderTransform> ^
+                </Button>
+                <Button x:Name="btnSubtract10" FontSize="15" Background="Red" RenderTransformOrigin="0.5,0.5" Click="btnSubtract10_Click">10</Button>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock FontSize="15" Width="60" TextAlignment="Center">Film</TextBlock>
+                <TextBox Width="250" DataContext="{Binding Bioscoopuitje}" Text="{Binding Film}"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock FontSize="15" Width="60" TextAlignment="Center">Zaal</TextBlock>
+                <TextBox Width="250" DataContext="{Binding Bioscoopuitje}" Text="{Binding Zaal}"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock FontSize="15" Width="60" TextAlignment="Center">Stoel</TextBlock>
+                <TextBox Width="250" DataContext="{Binding Bioscoopuitje}" Text="{Binding Stoel}"></TextBox>
+            </StackPanel>
+            <Button x:Name="btnCreate" Click="btnCreate_Click">Aanmaken</Button>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,23 @@
+﻿<Window x:Class="WPFappSimpleClock.countdown"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFappSimpleClock"
+        mc:Ignorable="d"
+        Title="countdown" Height="450" Width="800">
+    <Grid Background="red" Opacity="0.6">
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBox Background="Transparent" x:Name="minutes" FontSize="100" FontWeight="ExtraBlack">00</TextBox>
+            <TextBlock Visibility="Hidden"  FontSize="100" FontWeight="ExtraBlack">:</TextBlock>
+            <TextBox Background="Transparent" x:Name="seconds" FontSize="100" FontWeight="ExtraBlack">00</TextBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Visibility="Hidden" Background="Transparent" x:Name="tbminutes" FontSize="100" FontWeight="ExtraBlack">00</TextBlock>
+            <TextBlock FontSize="100" FontWeight="ExtraBlack">:</TextBlock>
+            <TextBlock Visibility="Hidden" Background="Transparent" x:Name="tbseconds" FontSize="100" FontWeight="ExtraBlack">00</TextBlock>
+        </StackPanel>
+        <Button x:Name="btStart" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,200,0,0" Width="140" Height="40" Content="Start" FontSize="20" Click="btStart_Click"></Button>
+        <Button x:Name="btStop" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,300,0,0" Width="140" Height="40" Content="Close screen" FontSize="20" Click="btStop_Click"></Button>
+    </Grid>
+</Window>

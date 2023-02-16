@@ -1,0 +1,15 @@
+C:\School\Funprojecten nieuw\Catan vierkanten\bin\Debug\Catan vierkanten.exe.config
+C:\School\Funprojecten nieuw\Catan vierkanten\bin\Debug\Catan vierkanten.exe
+C:\School\Funprojecten nieuw\Catan vierkanten\bin\Debug\Catan vierkanten.pdb
+C:\School\Funprojecten nieuw\Catan vierkanten\obj\Debug\Catan vierkanten.csproj.AssemblyReference.cache
+C:\School\Funprojecten nieuw\Catan vierkanten\obj\Debug\MainWindow.g.cs
+C:\School\Funprojecten nieuw\Catan vierkanten\obj\Debug\App.g.cs
+C:\School\Funprojecten nieuw\Catan vierkanten\obj\Debug\Catan vierkanten_MarkupCompile.cache
+C:\School\Funprojecten nieuw\Catan vierkanten\obj\Debug\Catan vierkanten_MarkupCompile.lref
+C:\School\Funprojecten nieuw\Catan vierkanten\obj\Debug\MainWindow.baml
+C:\School\Funprojecten nieuw\Catan vierkanten\obj\Debug\Catan vierkanten.g.resources
+C:\School\Funprojecten nieuw\Catan vierkanten\obj\Debug\Catan_vierkanten.Properties.Resources.resources
+C:\School\Funprojecten nieuw\Catan vierkanten\obj\Debug\Catan vierkanten.csproj.GenerateResource.cache
+C:\School\Funprojecten nieuw\Catan vierkanten\obj\Debug\Catan vierkanten.csproj.CoreCompileInputs.cache
+C:\School\Funprojecten nieuw\Catan vierkanten\obj\Debug\Catan vierkanten.exe
+C:\School\Funprojecten nieuw\Catan vierkanten\obj\Debug\Catan vierkanten.pdb

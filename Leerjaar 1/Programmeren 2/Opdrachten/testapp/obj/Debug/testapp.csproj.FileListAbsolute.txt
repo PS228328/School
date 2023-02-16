@@ -1,0 +1,15 @@
+C:\School\Programmeren 2\Opdrachten\testapp\bin\Debug\testapp.exe.config
+C:\School\Programmeren 2\Opdrachten\testapp\bin\Debug\testapp.exe
+C:\School\Programmeren 2\Opdrachten\testapp\bin\Debug\testapp.pdb
+C:\School\Programmeren 2\Opdrachten\testapp\obj\Debug\testapp.csproj.AssemblyReference.cache
+C:\School\Programmeren 2\Opdrachten\testapp\obj\Debug\MainWindow.g.cs
+C:\School\Programmeren 2\Opdrachten\testapp\obj\Debug\App.g.cs
+C:\School\Programmeren 2\Opdrachten\testapp\obj\Debug\testapp_MarkupCompile.cache
+C:\School\Programmeren 2\Opdrachten\testapp\obj\Debug\testapp_MarkupCompile.lref
+C:\School\Programmeren 2\Opdrachten\testapp\obj\Debug\MainWindow.baml
+C:\School\Programmeren 2\Opdrachten\testapp\obj\Debug\testapp.g.resources
+C:\School\Programmeren 2\Opdrachten\testapp\obj\Debug\testapp.Properties.Resources.resources
+C:\School\Programmeren 2\Opdrachten\testapp\obj\Debug\testapp.csproj.GenerateResource.cache
+C:\School\Programmeren 2\Opdrachten\testapp\obj\Debug\testapp.csproj.CoreCompileInputs.cache
+C:\School\Programmeren 2\Opdrachten\testapp\obj\Debug\testapp.exe
+C:\School\Programmeren 2\Opdrachten\testapp\obj\Debug\testapp.pdb

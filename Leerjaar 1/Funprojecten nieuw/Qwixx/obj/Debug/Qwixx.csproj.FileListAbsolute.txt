@@ -1,0 +1,15 @@
+C:\School\Funprojecten nieuw\Qwixx\bin\Debug\Qwixx.exe.config
+C:\School\Funprojecten nieuw\Qwixx\bin\Debug\Qwixx.exe
+C:\School\Funprojecten nieuw\Qwixx\bin\Debug\Qwixx.pdb
+C:\School\Funprojecten nieuw\Qwixx\obj\Debug\Qwixx.csproj.AssemblyReference.cache
+C:\School\Funprojecten nieuw\Qwixx\obj\Debug\MainWindow.g.cs
+C:\School\Funprojecten nieuw\Qwixx\obj\Debug\App.g.cs
+C:\School\Funprojecten nieuw\Qwixx\obj\Debug\Qwixx_MarkupCompile.cache
+C:\School\Funprojecten nieuw\Qwixx\obj\Debug\Qwixx_MarkupCompile.lref
+C:\School\Funprojecten nieuw\Qwixx\obj\Debug\MainWindow.baml
+C:\School\Funprojecten nieuw\Qwixx\obj\Debug\Qwixx.g.resources
+C:\School\Funprojecten nieuw\Qwixx\obj\Debug\Qwixx.Properties.Resources.resources
+C:\School\Funprojecten nieuw\Qwixx\obj\Debug\Qwixx.csproj.GenerateResource.cache
+C:\School\Funprojecten nieuw\Qwixx\obj\Debug\Qwixx.csproj.CoreCompileInputs.cache
+C:\School\Funprojecten nieuw\Qwixx\obj\Debug\Qwixx.exe
+C:\School\Funprojecten nieuw\Qwixx\obj\Debug\Qwixx.pdb

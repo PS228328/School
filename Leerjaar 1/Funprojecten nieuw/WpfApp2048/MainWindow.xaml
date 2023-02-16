@@ -1,0 +1,53 @@
+﻿<Window x:Class="WpfApp2048.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2048"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="680" Width="680" ResizeMode="CanMinimize">
+    <Grid Background="Black">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="10"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="10"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="10"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="10"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+        <StackPanel x:Name="blockA1" Grid.Row="1" Grid.Column="1" Background="Gray" Width="155" Height="155"></StackPanel>
+        <StackPanel x:Name="blockA2" Grid.Row="1" Grid.Column="3" Background="Gray" Width="155" Height="155"></StackPanel>
+        <StackPanel x:Name="blockA3" Grid.Row="1" Grid.Column="5" Background="Gray" Width="155" Height="155"></StackPanel>
+        <StackPanel x:Name="blockA4" Grid.Row="1" Grid.Column="7" Background="Gray" Width="155" Height="155"></StackPanel>
+
+        <StackPanel x:Name="blockB1" Grid.Row="3" Grid.Column="1" Background="Gray" Width="155" Height="155"></StackPanel>
+        <StackPanel x:Name="blockB2" Grid.Row="3" Grid.Column="3" Background="Gray" Width="155" Height="155"></StackPanel>
+        <StackPanel x:Name="blockB3" Grid.Row="3" Grid.Column="5" Background="Gray" Width="155" Height="155"></StackPanel>
+        <StackPanel x:Name="blockB4" Grid.Row="3" Grid.Column="7" Background="Gray" Width="155" Height="155"></StackPanel>
+
+        <StackPanel x:Name="blockC1" Grid.Row="5" Grid.Column="1" Background="Gray" Width="155" Height="155"></StackPanel>
+        <StackPanel x:Name="blockC2" Grid.Row="5" Grid.Column="3" Background="Gray" Width="155" Height="155"></StackPanel>
+        <StackPanel x:Name="blockC3" Grid.Row="5" Grid.Column="5" Background="Gray" Width="155" Height="155"></StackPanel>
+        <StackPanel x:Name="blockC4" Grid.Row="5" Grid.Column="7" Background="Gray" Width="155" Height="155"></StackPanel>
+
+        <StackPanel x:Name="blockD1" Grid.Row="7" Grid.Column="1" Background="Gray" Width="155" Height="155"></StackPanel>
+        <StackPanel x:Name="blockD2" Grid.Row="7" Grid.Column="3" Background="Gray" Width="155" Height="155"></StackPanel>
+        <StackPanel x:Name="blockD3" Grid.Row="7" Grid.Column="5" Background="Gray" Width="155" Height="155"></StackPanel>
+        <StackPanel x:Name="blockD4" Grid.Row="7" Grid.Column="7" Background="Gray" Width="155" Height="155"></StackPanel>
+    </Grid>
+</Window>

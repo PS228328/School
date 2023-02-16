@@ -1,0 +1,40 @@
+﻿<Window x:Class="Vlaggen_van_Europese_landen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vlaggen_van_Europese_landen"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="LightYellow">
+        <StackPanel HorizontalAlignment="Center">
+            <TextBlock FontSize="30" FontWeight="SemiBold">Weet jij welk land bij welke vlag hoort?</TextBlock>
+            <Image Source="Flags/1200px-Flag_of_the_Netherlands.svg.jpg" Width="100" Margin="0,10,370,0"></Image>
+            <Image Source="Flags/Flag_of_Belgium.jpg" Width="120" Height="70" Margin="0,10,370,0"></Image>
+            <Image Source="Flags/Duitsland.jpg" Width="100" Height="70" Margin="0,10,370,0"></Image>
+            <Image Source="Flags/Flag_of_France.jpg" Width="110" Height="70" Margin="0,10,370,0"></Image>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Center">
+            <Image Source="Flags/Italie.jpg" Width="110" Height="70" Margin="200,45,0,0"></Image>
+            <Image Source="Flags/Oostenrijk.jpg" Width="110" Height="70" Margin="200,15,0,0"></Image>
+            <Image Source="Flags/1200px-Flag_of_the_United_Kingdom_reversed.jpg" Width="120" Height="60" Margin="200,15,0,0"></Image>
+        </StackPanel>
+        <StackPanel Margin="0,70,100,0">
+            <TextBox x:Name="tbNederland" Width="130" Height="20"></TextBox>
+            <TextBox x:Name="tbBelgië" Width="130" Height="20" Margin="0,60,0,0"></TextBox>
+            <TextBox x:Name="tbDuitsland" Width="130" Height="20" Margin="0,60,0,0"></TextBox>
+            <TextBox x:Name="tbFrankrijk" Width="130" Height="20" Margin="0,60,0,0"></TextBox>
+        </StackPanel>
+        <StackPanel>
+            <TextBox x:Name="tbItalië" Width="130" Height="20" Margin="480,70,0,0"></TextBox>
+            <TextBox x:Name="tbOostenrijk" Width="130" Height="20" Margin="480,65,0,0"></TextBox>
+            <TextBox x:Name="tbVerenigdKoninkrijk" Width="130" Height="20" Margin="480,60,0,0"></TextBox>
+        </StackPanel>
+        <TextBlock Margin="440,290,0,0">Kies uit: Portugal, Verenigd Koninkrijk, Italië, Spanje, België,  </TextBlock>
+        <TextBlock Margin="440,302,0,0">Frankrijk, Oostenrijk, Nederland, Polen, Tsjechië, Duitsland</TextBlock>
+        <TextBlock Margin="440,332,0,0">Let op! Er blijven 4 landen over</TextBlock>
+
+        <Button x:Name="Checkitout" Width="50" Height="300" HorizontalAlignment="Left" Margin="10,0,0,0" Click="Checkitout_Click">Check!</Button>
+
+    </Grid>
+</Window>

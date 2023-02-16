@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R4rLbHomFwYQyn7guH/2ZRCfhJI9a+xvTevK4uUx4ICeeVEmHuMyF6dr0b5RQlIGHMhjPBKJ1L6P1s53jfPuQA==",
+  "success": true,
+  "projectFilePath": "C:\\School\\Leerjaar 2\\SDLC 1\\Week2\\WpfAppFirstClass\\WpfAppFirstClass\\WpfAppFirstClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joris\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

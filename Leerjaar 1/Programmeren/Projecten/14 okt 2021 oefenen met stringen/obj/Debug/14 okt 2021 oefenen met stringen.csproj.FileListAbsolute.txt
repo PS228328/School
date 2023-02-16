@@ -1,0 +1,15 @@
+C:\School\Programmeren\Projecten\14 okt 2021 oefenen met stringen\bin\Debug\14 okt 2021 oefenen met stringen.exe.config
+C:\School\Programmeren\Projecten\14 okt 2021 oefenen met stringen\bin\Debug\14 okt 2021 oefenen met stringen.exe
+C:\School\Programmeren\Projecten\14 okt 2021 oefenen met stringen\bin\Debug\14 okt 2021 oefenen met stringen.pdb
+C:\School\Programmeren\Projecten\14 okt 2021 oefenen met stringen\obj\Debug\14 okt 2021 oefenen met stringen.csproj.AssemblyReference.cache
+C:\School\Programmeren\Projecten\14 okt 2021 oefenen met stringen\obj\Debug\MainWindow.g.cs
+C:\School\Programmeren\Projecten\14 okt 2021 oefenen met stringen\obj\Debug\App.g.cs
+C:\School\Programmeren\Projecten\14 okt 2021 oefenen met stringen\obj\Debug\14 okt 2021 oefenen met stringen_MarkupCompile.cache
+C:\School\Programmeren\Projecten\14 okt 2021 oefenen met stringen\obj\Debug\14 okt 2021 oefenen met stringen_MarkupCompile.lref
+C:\School\Programmeren\Projecten\14 okt 2021 oefenen met stringen\obj\Debug\MainWindow.baml
+C:\School\Programmeren\Projecten\14 okt 2021 oefenen met stringen\obj\Debug\14 okt 2021 oefenen met stringen.g.resources
+C:\School\Programmeren\Projecten\14 okt 2021 oefenen met stringen\obj\Debug\_14_okt_2021_oefenen_met_stringen.Properties.Resources.resources
+C:\School\Programmeren\Projecten\14 okt 2021 oefenen met stringen\obj\Debug\14 okt 2021 oefenen met stringen.csproj.GenerateResource.cache
+C:\School\Programmeren\Projecten\14 okt 2021 oefenen met stringen\obj\Debug\14 okt 2021 oefenen met stringen.csproj.CoreCompileInputs.cache
+C:\School\Programmeren\Projecten\14 okt 2021 oefenen met stringen\obj\Debug\14 okt 2021 oefenen met stringen.exe
+C:\School\Programmeren\Projecten\14 okt 2021 oefenen met stringen\obj\Debug\14 okt 2021 oefenen met stringen.pdb

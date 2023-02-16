@@ -1,0 +1,276 @@
+﻿<Window x:Class="LED.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LED"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="520" Width="1050">
+    <Grid Margin="0,0,0,0">
+        <StackPanel Margin="0,0,0,0">
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+        </StackPanel>
+        <StackPanel Margin="50,0,0,0">
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="pijlboven1" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="pijlonder1" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+        </StackPanel>
+        <StackPanel Margin="100,0,0,0">
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="pijlboven2" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="pijlonder2" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+        </StackPanel>
+        <StackPanel Margin="150,0,0,0">
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="pijltop" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="pijl2" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="pijl3" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="pijl4" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="pijl5" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="pijl6" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="pijl7" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+        </StackPanel>
+        <StackPanel Margin="200,0,0,0">
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="pijlboven3" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="pijlonder3" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+        </StackPanel>
+        <StackPanel Margin="250,0,0,0">
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="pijlboven4" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="pijlonder4" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+        </StackPanel>
+        <StackPanel Margin="300,0,0,0">
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+        </StackPanel>
+        <StackPanel Margin="350,0,0,0">
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="BovenLinkstiental" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Links2tiental" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Links3tiental" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Links4tiental" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Links5tiental" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Links6tiental" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="OnderLinkstiental" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+        </StackPanel>
+        <StackPanel Margin="400,0,0,0">
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Boven2tiental" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Midden2tiental" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Onder2tiental" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+        </StackPanel>
+        <StackPanel Margin="450,0,0,0">
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Boven3tiental" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Midden3tiental" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Onder3tiental" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+        </StackPanel>
+        <StackPanel Margin="500,0,0,0">
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="BovenRechtstiental" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Rechts2tiental" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Rechts3tiental" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Rechts4tiental" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Rechts5tiental" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Rechts6tiental" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="OnderRechtstiental" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+        </StackPanel>
+        <StackPanel Margin="550,0,0,0">
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+        </StackPanel>
+        <StackPanel Margin="600,0,0,0">
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="BovenLinks" Background="Red" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Links2" Background="Red" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Links3" Background="Red" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Links4" Background="Red" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Links5" Background="Red" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Links6" Background="Red" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="OnderLinks" Background="Red" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+        </StackPanel>
+        <StackPanel Margin="650,0,0,0">
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Boven2" Background="Red" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Midden2" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Onder2" Background="Red" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+        </StackPanel>
+        <StackPanel Margin="700,0,0,0">
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Boven3" Background="Red" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Midden3" Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Onder3" Background="Red" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+        </StackPanel>
+        <StackPanel Margin="750,0,0,0">
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="BovenRechts" Background="Red" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Rechts2" Background="Red" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Rechts3" Background="Red" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Rechts4" Background="Red" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Rechts5" Background="Red" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="Rechts6" Background="Red" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button x:Name="OnderRechts" Background="Red" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+        </StackPanel>
+        <StackPanel Margin="800,0,0,0">
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+        </StackPanel>
+        <StackPanel Margin="850,0,0,0">
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+        </StackPanel>
+        <StackPanel Margin="900,0,0,0">
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+        </StackPanel>
+        <StackPanel Margin="950,0,0,0">
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Blue" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top" Click="Up_Click" FontSize="20" FontWeight="heavy">+1</Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Blue" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" FontWeight="heavy" Click="Down_Click">-1</Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+        </StackPanel>
+        <StackPanel Margin="1000,0,0,0">
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+        </StackPanel>
+        <StackPanel Margin="1050,0,0,0">
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+            <Button Background="Black" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top"></Button>
+        </StackPanel>
+
+    </Grid>
+</Window>

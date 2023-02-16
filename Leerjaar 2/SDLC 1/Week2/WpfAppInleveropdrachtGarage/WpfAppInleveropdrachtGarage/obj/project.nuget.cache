@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gI1AzF9jaOEKR9CEOvSJ9zEibMffVXHtB1Cu3Fcje2FGscv9rXZma4mlPJNtV9nSRxEgicowRKJ4oA+I/tstiQ==",
+  "success": true,
+  "projectFilePath": "C:\\School\\Leerjaar 2\\SDLC 1\\Week2\\WpfAppInleveropdrachtGarage\\WpfAppInleveropdrachtGarage\\WpfAppInleveropdrachtGarage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joris\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

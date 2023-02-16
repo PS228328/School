@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27 sep 2021 While statement", "27 sep 2021 While statement\27 sep 2021 While statement.csproj", "{98DB1351-8484-40BA-99B7-D97A8D909611}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98DB1351-8484-40BA-99B7-D97A8D909611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98DB1351-8484-40BA-99B7-D97A8D909611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98DB1351-8484-40BA-99B7-D97A8D909611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98DB1351-8484-40BA-99B7-D97A8D909611}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7BE5095-97A2-4C9D-BF6C-D200B31C6C2E}
+	EndGlobalSection
+EndGlobal

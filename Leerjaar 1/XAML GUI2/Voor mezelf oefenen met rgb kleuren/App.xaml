@@ -1,0 +1,9 @@
+﻿<Application x:Class="Voor_mezelf_oefenen_met_rgb_kleuren.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Voor_mezelf_oefenen_met_rgb_kleuren"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

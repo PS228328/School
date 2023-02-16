@@ -1,0 +1,15 @@
+C:\School\XAML GUI1\Gui1 Desktop eind-portfolio-opdracht Joris Wulms\bin\Debug\Gui1 Desktop eind-portfolio-opdracht Joris Wulms.exe.config
+C:\School\XAML GUI1\Gui1 Desktop eind-portfolio-opdracht Joris Wulms\bin\Debug\Gui1 Desktop eind-portfolio-opdracht Joris Wulms.exe
+C:\School\XAML GUI1\Gui1 Desktop eind-portfolio-opdracht Joris Wulms\bin\Debug\Gui1 Desktop eind-portfolio-opdracht Joris Wulms.pdb
+C:\School\XAML GUI1\Gui1 Desktop eind-portfolio-opdracht Joris Wulms\obj\Debug\Gui1 Desktop eind-portfolio-opdracht Joris Wulms.csproj.AssemblyReference.cache
+C:\School\XAML GUI1\Gui1 Desktop eind-portfolio-opdracht Joris Wulms\obj\Debug\MainWindow.g.cs
+C:\School\XAML GUI1\Gui1 Desktop eind-portfolio-opdracht Joris Wulms\obj\Debug\App.g.cs
+C:\School\XAML GUI1\Gui1 Desktop eind-portfolio-opdracht Joris Wulms\obj\Debug\Gui1 Desktop eind-portfolio-opdracht Joris Wulms_MarkupCompile.cache
+C:\School\XAML GUI1\Gui1 Desktop eind-portfolio-opdracht Joris Wulms\obj\Debug\Gui1 Desktop eind-portfolio-opdracht Joris Wulms_MarkupCompile.lref
+C:\School\XAML GUI1\Gui1 Desktop eind-portfolio-opdracht Joris Wulms\obj\Debug\MainWindow.baml
+C:\School\XAML GUI1\Gui1 Desktop eind-portfolio-opdracht Joris Wulms\obj\Debug\Gui1 Desktop eind-portfolio-opdracht Joris Wulms.g.resources
+C:\School\XAML GUI1\Gui1 Desktop eind-portfolio-opdracht Joris Wulms\obj\Debug\Gui1_Desktop_eind_portfolio_opdracht_Joris_Wulms.Properties.Resources.resources
+C:\School\XAML GUI1\Gui1 Desktop eind-portfolio-opdracht Joris Wulms\obj\Debug\Gui1 Desktop eind-portfolio-opdracht Joris Wulms.csproj.GenerateResource.cache
+C:\School\XAML GUI1\Gui1 Desktop eind-portfolio-opdracht Joris Wulms\obj\Debug\Gui1 Desktop eind-portfolio-opdracht Joris Wulms.csproj.CoreCompileInputs.cache
+C:\School\XAML GUI1\Gui1 Desktop eind-portfolio-opdracht Joris Wulms\obj\Debug\Gui1 Desktop eind-portfolio-opdracht Joris Wulms.exe
+C:\School\XAML GUI1\Gui1 Desktop eind-portfolio-opdracht Joris Wulms\obj\Debug\Gui1 Desktop eind-portfolio-opdracht Joris Wulms.pdb

@@ -1,0 +1,15 @@
+C:\School\Programmeren\Projecten\Demo Method\bin\Debug\Demo Method.exe.config
+C:\School\Programmeren\Projecten\Demo Method\bin\Debug\Demo Method.exe
+C:\School\Programmeren\Projecten\Demo Method\bin\Debug\Demo Method.pdb
+C:\School\Programmeren\Projecten\Demo Method\obj\Debug\Demo Method.csproj.AssemblyReference.cache
+C:\School\Programmeren\Projecten\Demo Method\obj\Debug\MainWindow.g.cs
+C:\School\Programmeren\Projecten\Demo Method\obj\Debug\App.g.cs
+C:\School\Programmeren\Projecten\Demo Method\obj\Debug\Demo Method_MarkupCompile.cache
+C:\School\Programmeren\Projecten\Demo Method\obj\Debug\Demo Method_MarkupCompile.lref
+C:\School\Programmeren\Projecten\Demo Method\obj\Debug\MainWindow.baml
+C:\School\Programmeren\Projecten\Demo Method\obj\Debug\Demo Method.g.resources
+C:\School\Programmeren\Projecten\Demo Method\obj\Debug\Demo_Method.Properties.Resources.resources
+C:\School\Programmeren\Projecten\Demo Method\obj\Debug\Demo Method.csproj.GenerateResource.cache
+C:\School\Programmeren\Projecten\Demo Method\obj\Debug\Demo Method.csproj.CoreCompileInputs.cache
+C:\School\Programmeren\Projecten\Demo Method\obj\Debug\Demo Method.exe
+C:\School\Programmeren\Projecten\Demo Method\obj\Debug\Demo Method.pdb

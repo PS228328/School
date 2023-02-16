@@ -1,0 +1,15 @@
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\17-9-21 Ontwerp-Scherm Joris Wulms\17-9-21 Ontwerp-Scherm Joris Wulms\bin\Debug\17-9-21 Ontwerp-Scherm Joris Wulms.exe.config
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\17-9-21 Ontwerp-Scherm Joris Wulms\17-9-21 Ontwerp-Scherm Joris Wulms\bin\Debug\17-9-21 Ontwerp-Scherm Joris Wulms.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\17-9-21 Ontwerp-Scherm Joris Wulms\17-9-21 Ontwerp-Scherm Joris Wulms\bin\Debug\17-9-21 Ontwerp-Scherm Joris Wulms.pdb
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\17-9-21 Ontwerp-Scherm Joris Wulms\17-9-21 Ontwerp-Scherm Joris Wulms\obj\Debug\17-9-21 Ontwerp-Scherm Joris Wulms.csproj.AssemblyReference.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\17-9-21 Ontwerp-Scherm Joris Wulms\17-9-21 Ontwerp-Scherm Joris Wulms\obj\Debug\MainWindow.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\17-9-21 Ontwerp-Scherm Joris Wulms\17-9-21 Ontwerp-Scherm Joris Wulms\obj\Debug\App.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\17-9-21 Ontwerp-Scherm Joris Wulms\17-9-21 Ontwerp-Scherm Joris Wulms\obj\Debug\17-9-21 Ontwerp-Scherm Joris Wulms_MarkupCompile.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\17-9-21 Ontwerp-Scherm Joris Wulms\17-9-21 Ontwerp-Scherm Joris Wulms\obj\Debug\17-9-21 Ontwerp-Scherm Joris Wulms_MarkupCompile.lref
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\17-9-21 Ontwerp-Scherm Joris Wulms\17-9-21 Ontwerp-Scherm Joris Wulms\obj\Debug\MainWindow.baml
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\17-9-21 Ontwerp-Scherm Joris Wulms\17-9-21 Ontwerp-Scherm Joris Wulms\obj\Debug\17-9-21 Ontwerp-Scherm Joris Wulms.g.resources
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\17-9-21 Ontwerp-Scherm Joris Wulms\17-9-21 Ontwerp-Scherm Joris Wulms\obj\Debug\_17_9_21_Ontwerp_Scherm_Joris_Wulms.Properties.Resources.resources
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\17-9-21 Ontwerp-Scherm Joris Wulms\17-9-21 Ontwerp-Scherm Joris Wulms\obj\Debug\17-9-21 Ontwerp-Scherm Joris Wulms.csproj.GenerateResource.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\17-9-21 Ontwerp-Scherm Joris Wulms\17-9-21 Ontwerp-Scherm Joris Wulms\obj\Debug\17-9-21 Ontwerp-Scherm Joris Wulms.csproj.CoreCompileInputs.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\17-9-21 Ontwerp-Scherm Joris Wulms\17-9-21 Ontwerp-Scherm Joris Wulms\obj\Debug\17-9-21 Ontwerp-Scherm Joris Wulms.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\17-9-21 Ontwerp-Scherm Joris Wulms\17-9-21 Ontwerp-Scherm Joris Wulms\obj\Debug\17-9-21 Ontwerp-Scherm Joris Wulms.pdb

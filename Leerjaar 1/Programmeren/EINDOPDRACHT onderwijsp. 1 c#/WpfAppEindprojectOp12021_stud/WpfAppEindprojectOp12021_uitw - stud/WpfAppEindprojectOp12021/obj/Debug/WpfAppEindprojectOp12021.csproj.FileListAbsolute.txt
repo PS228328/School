@@ -1,0 +1,51 @@
+C:\School\Programmeren\Projecten\WpfAppEindprojectOp12021\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021.csproj.AssemblyReference.cache
+C:\School\Programmeren\Projecten\WpfAppEindprojectOp12021\WpfAppEindprojectOp12021\obj\Debug\MainWindow.g.cs
+C:\School\Programmeren\Projecten\WpfAppEindprojectOp12021\WpfAppEindprojectOp12021\obj\Debug\App.g.cs
+C:\School\Programmeren\Projecten\WpfAppEindprojectOp12021\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021_MarkupCompile.cache
+C:\School\Programmeren\Projecten\WpfAppEindprojectOp12021\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021_MarkupCompile.lref
+C:\School\Programmeren\Projecten\WpfAppEindprojectOp12021\WpfAppEindprojectOp12021\bin\Debug\WpfAppEindprojectOp12021.exe.config
+C:\School\Programmeren\Projecten\WpfAppEindprojectOp12021\WpfAppEindprojectOp12021\bin\Debug\WpfAppEindprojectOp12021.exe
+C:\School\Programmeren\Projecten\WpfAppEindprojectOp12021\WpfAppEindprojectOp12021\bin\Debug\WpfAppEindprojectOp12021.pdb
+C:\School\Programmeren\Projecten\WpfAppEindprojectOp12021\WpfAppEindprojectOp12021\obj\Debug\MainWindow.baml
+C:\School\Programmeren\Projecten\WpfAppEindprojectOp12021\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021.g.resources
+C:\School\Programmeren\Projecten\WpfAppEindprojectOp12021\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021.Properties.Resources.resources
+C:\School\Programmeren\Projecten\WpfAppEindprojectOp12021\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021.csproj.GenerateResource.cache
+C:\School\Programmeren\Projecten\WpfAppEindprojectOp12021\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021.csproj.CoreCompileInputs.cache
+C:\School\Programmeren\Projecten\WpfAppEindprojectOp12021\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021.exe
+C:\School\Programmeren\Projecten\WpfAppEindprojectOp12021\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021.pdb
+C:\School\Programmeren\Projecten\WpfAppEindprojectOp12021\WpfAppEindprojectOp12021\bin\Debug\Assets\horizon.jpg
+C:\School\Programmeren\Projecten\WpfAppEindprojectOp12021\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021_Content.g.cs
+X:\Niveau 4\SD Cohort 21-25\OP1\Vakken\Programmeren 1\Eindopdracht\Wpf C#\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\bin\Debug\Assets\horizon.jpg
+X:\Niveau 4\SD Cohort 21-25\OP1\Vakken\Programmeren 1\Eindopdracht\Wpf C#\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\bin\Debug\WpfAppEindprojectOp12021.exe.config
+X:\Niveau 4\SD Cohort 21-25\OP1\Vakken\Programmeren 1\Eindopdracht\Wpf C#\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\bin\Debug\WpfAppEindprojectOp12021.exe
+X:\Niveau 4\SD Cohort 21-25\OP1\Vakken\Programmeren 1\Eindopdracht\Wpf C#\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\bin\Debug\WpfAppEindprojectOp12021.pdb
+X:\Niveau 4\SD Cohort 21-25\OP1\Vakken\Programmeren 1\Eindopdracht\Wpf C#\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021.csproj.AssemblyReference.cache
+X:\Niveau 4\SD Cohort 21-25\OP1\Vakken\Programmeren 1\Eindopdracht\Wpf C#\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\MainWindow.g.cs
+X:\Niveau 4\SD Cohort 21-25\OP1\Vakken\Programmeren 1\Eindopdracht\Wpf C#\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\App.g.cs
+X:\Niveau 4\SD Cohort 21-25\OP1\Vakken\Programmeren 1\Eindopdracht\Wpf C#\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021_Content.g.cs
+X:\Niveau 4\SD Cohort 21-25\OP1\Vakken\Programmeren 1\Eindopdracht\Wpf C#\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021_MarkupCompile.cache
+X:\Niveau 4\SD Cohort 21-25\OP1\Vakken\Programmeren 1\Eindopdracht\Wpf C#\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021_MarkupCompile.lref
+X:\Niveau 4\SD Cohort 21-25\OP1\Vakken\Programmeren 1\Eindopdracht\Wpf C#\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\MainWindow.baml
+X:\Niveau 4\SD Cohort 21-25\OP1\Vakken\Programmeren 1\Eindopdracht\Wpf C#\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021.g.resources
+X:\Niveau 4\SD Cohort 21-25\OP1\Vakken\Programmeren 1\Eindopdracht\Wpf C#\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021.Properties.Resources.resources
+X:\Niveau 4\SD Cohort 21-25\OP1\Vakken\Programmeren 1\Eindopdracht\Wpf C#\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021.csproj.GenerateResource.cache
+X:\Niveau 4\SD Cohort 21-25\OP1\Vakken\Programmeren 1\Eindopdracht\Wpf C#\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021.csproj.CoreCompileInputs.cache
+X:\Niveau 4\SD Cohort 21-25\OP1\Vakken\Programmeren 1\Eindopdracht\Wpf C#\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021.exe
+X:\Niveau 4\SD Cohort 21-25\OP1\Vakken\Programmeren 1\Eindopdracht\Wpf C#\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021.pdb
+C:\School\Programmeren\EINDOPDRACHT onderwijsp. 1 c#\WpfAppEindprojectOp12021_stud\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\bin\Debug\Assets\horizon.jpg
+C:\School\Programmeren\EINDOPDRACHT onderwijsp. 1 c#\WpfAppEindprojectOp12021_stud\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\bin\Debug\WpfAppEindprojectOp12021.exe.config
+C:\School\Programmeren\EINDOPDRACHT onderwijsp. 1 c#\WpfAppEindprojectOp12021_stud\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\bin\Debug\WpfAppEindprojectOp12021.exe
+C:\School\Programmeren\EINDOPDRACHT onderwijsp. 1 c#\WpfAppEindprojectOp12021_stud\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\bin\Debug\WpfAppEindprojectOp12021.pdb
+C:\School\Programmeren\EINDOPDRACHT onderwijsp. 1 c#\WpfAppEindprojectOp12021_stud\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021.csproj.AssemblyReference.cache
+C:\School\Programmeren\EINDOPDRACHT onderwijsp. 1 c#\WpfAppEindprojectOp12021_stud\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\MainWindow.g.cs
+C:\School\Programmeren\EINDOPDRACHT onderwijsp. 1 c#\WpfAppEindprojectOp12021_stud\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\App.g.cs
+C:\School\Programmeren\EINDOPDRACHT onderwijsp. 1 c#\WpfAppEindprojectOp12021_stud\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021_Content.g.cs
+C:\School\Programmeren\EINDOPDRACHT onderwijsp. 1 c#\WpfAppEindprojectOp12021_stud\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021_MarkupCompile.cache
+C:\School\Programmeren\EINDOPDRACHT onderwijsp. 1 c#\WpfAppEindprojectOp12021_stud\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021_MarkupCompile.lref
+C:\School\Programmeren\EINDOPDRACHT onderwijsp. 1 c#\WpfAppEindprojectOp12021_stud\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\MainWindow.baml
+C:\School\Programmeren\EINDOPDRACHT onderwijsp. 1 c#\WpfAppEindprojectOp12021_stud\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021.g.resources
+C:\School\Programmeren\EINDOPDRACHT onderwijsp. 1 c#\WpfAppEindprojectOp12021_stud\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021.Properties.Resources.resources
+C:\School\Programmeren\EINDOPDRACHT onderwijsp. 1 c#\WpfAppEindprojectOp12021_stud\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021.csproj.GenerateResource.cache
+C:\School\Programmeren\EINDOPDRACHT onderwijsp. 1 c#\WpfAppEindprojectOp12021_stud\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021.csproj.CoreCompileInputs.cache
+C:\School\Programmeren\EINDOPDRACHT onderwijsp. 1 c#\WpfAppEindprojectOp12021_stud\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021.exe
+C:\School\Programmeren\EINDOPDRACHT onderwijsp. 1 c#\WpfAppEindprojectOp12021_stud\WpfAppEindprojectOp12021_uitw - stud\WpfAppEindprojectOp12021\obj\Debug\WpfAppEindprojectOp12021.pdb

@@ -1,0 +1,64 @@
+﻿<Window x:Class="Gewoon_maar_wat_programmeren.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gewoon_maar_wat_programmeren"
+        mc:Ignorable="d"
+        Title="Catan willekeurige landkaart" Height="1080" Width="1920">
+    <Grid Background="LightBlue">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal">
+            <Button x:Name="Middleleft" Width="200" Height="100" Background="Gray" BorderBrush="Black" BorderThickness="3"></Button>
+            <Button x:Name="Middleleft2" Width="200" Height="100" Background="Gray" BorderBrush="Black" BorderThickness="3"></Button>
+            <Button x:Name="Middlemiddle" Width="200" Height="100" Background="Gray" BorderBrush="Black" BorderThickness="3"></Button>
+            <Button x:Name="Middleright2" Width="200" Height="100" Background="Gray" BorderBrush="Black" BorderThickness="3"></Button>
+            <Button x:Name="Middleright" Width="200" Height="100" Background="Gray" BorderBrush="Black" BorderThickness="3"></Button>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal" Margin="0,0,0,200">
+            <Button x:Name="top2left" Width="200" Height="100" Background="Gray" BorderBrush="Black" BorderThickness="3"></Button>
+            <Button x:Name="top2left2" Width="200" Height="100" Background="Gray" BorderBrush="Black" BorderThickness="3"></Button>
+            <Button x:Name="top2right2" Width="200" Height="100" Background="Gray" BorderBrush="Black" BorderThickness="3"></Button>
+            <Button x:Name="top2right" Width="200" Height="100" Background="Gray" BorderBrush="Black" BorderThickness="3"></Button>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal" Margin="0,200,0,0">
+            <Button x:Name="bottom2left" Width="200" Height="100" Background="Gray" BorderBrush="Black" BorderThickness="3"></Button>
+            <Button x:Name="bottom2left2" Width="200" Height="100" Background="Gray" BorderBrush="Black" BorderThickness="3"></Button>
+            <Button x:Name="bottom2right2" Width="200" Height="100" Background="Gray" BorderBrush="Black" BorderThickness="3"></Button>
+            <Button x:Name="bottom2right" Width="200" Height="100" Background="Gray" BorderBrush="Black" BorderThickness="3"></Button>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal" Margin="0,0,0,400">
+            <Button x:Name="topleft" Width="200" Height="100" Background="Gray" BorderBrush="Black" BorderThickness="3"></Button>
+            <Button x:Name="topmiddle" Width="200" Height="100" Background="Gray" BorderBrush="Black" BorderThickness="3"></Button>
+            <Button x:Name="topright" Width="200" Height="100" Background="Gray" BorderBrush="Black" BorderThickness="3"></Button>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal" Margin="0,400,0,0">
+            <Button x:Name="bottomleft" Width="200" Height="100" Background="Gray" BorderBrush="Black" BorderThickness="3"></Button>
+            <Button x:Name="bottommiddle" Width="200" Height="100" Background="Gray" BorderBrush="Black" BorderThickness="3"></Button>
+            <Button x:Name="bottomright" Width="200" Height="100" Background="Gray" BorderBrush="Black" BorderThickness="3"></Button>
+        </StackPanel>
+        <Button x:Name="Speelveldcreeren" Width="200" Height="80" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,100,200,0" Content="Create" FontSize="40" FontWeight="Bold" Click="Speelveldcreeren_Click"></Button>
+
+        <Button Width="50" Height="50" Margin="0,100,0,0" Background="Transparent" BorderBrush="White" BorderThickness="2"></Button>
+        <Button Width="50" Height="50" Margin="0,0,0,100" Background="Transparent" BorderBrush="White" BorderThickness="2"></Button>
+        <Button Width="50" Height="50" Margin="0,0,200,100" Background="Transparent" BorderBrush="White" BorderThickness="2"></Button>
+        <Button Width="50" Height="50" Margin="0,100,200,0" Background="Transparent" BorderBrush="White" BorderThickness="2"></Button>
+        <Button Width="50" Height="50" Margin="200,0,0,100" Background="Transparent" BorderBrush="White" BorderThickness="2"></Button>
+        <Button Width="50" Height="50" Margin="200,100,0,0" Background="Transparent" BorderBrush="White" BorderThickness="2"></Button>
+        <Button Width="50" Height="50" Margin="400,0,0,100" Background="Transparent" BorderBrush="White" BorderThickness="2"></Button>
+        <Button Width="50" Height="50" Margin="400,100,0,0" Background="Transparent" BorderBrush="White" BorderThickness="2"></Button>
+        <Button Width="50" Height="50" Margin="600,0,0,100" Background="Transparent" BorderBrush="White" BorderThickness="2"></Button>
+        <Button Width="50" Height="50" Margin="600,100,0,0" Background="Transparent" BorderBrush="White" BorderThickness="2"></Button>
+        <Button Width="50" Height="50" Margin="800,0,0,100" Background="Transparent" BorderBrush="White" BorderThickness="2"></Button>
+        <Button Width="50" Height="50" Margin="800,100,0,0" Background="Transparent" BorderBrush="White" BorderThickness="2"></Button>
+        <Button Width="50" Height="50" Margin="1000,0,0,100" Background="Transparent" BorderBrush="White" BorderThickness="2"></Button>
+        <Button Width="50" Height="50" Margin="1000,100,0,0" Background="Transparent" BorderBrush="White" BorderThickness="2"></Button>
+        <Button Width="50" Height="50" Margin="0,0,400,100" Background="Transparent" BorderBrush="White" BorderThickness="2"></Button>
+        <Button Width="50" Height="50" Margin="0,100,400,0" Background="Transparent" BorderBrush="White" BorderThickness="2"></Button>
+        <Button Width="50" Height="50" Margin="0,0,600,100" Background="Transparent" BorderBrush="White" BorderThickness="2"></Button>
+        <Button Width="50" Height="50" Margin="0,100,600,0" Background="Transparent" BorderBrush="White" BorderThickness="2"></Button>
+        <Button Width="50" Height="50" Margin="0,0,800,100" Background="Transparent" BorderBrush="White" BorderThickness="2"></Button>
+        <Button Width="50" Height="50" Margin="0,100,800,0" Background="Transparent" BorderBrush="White" BorderThickness="2"></Button>
+        <Button Width="50" Height="50" Margin="0,0,1000,100" Background="Transparent" BorderBrush="White" BorderThickness="2"></Button>
+        <Button Width="50" Height="50" Margin="0,100,1000,0" Background="Transparent" BorderBrush="White" BorderThickness="2"></Button>
+    </Grid>
+</Window>

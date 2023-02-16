@@ -1,0 +1,22 @@
+﻿<Window x:Class="SimplePlaying.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimplePlaying"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="627" Width="900">
+    <Grid x:Name="myGrid">
+        <Image Source="foto/Rekenen.jpg"></Image>
+        <TextBlock x:Name="rekensomblok" Background="White" Opacity="0.70" Width="600" Height="400" HorizontalAlignment="Center" VerticalAlignment="Center" TextAlignment="Center" FontSize="14" FontWeight="Bold">Welkom bij de rekentest! Je krijgt zodadelijk 10 sommen die je moet beantwoorden.</TextBlock>
+        <Button x:Name="btStart" Width="100" Height="50" FontFamily="Arial" FontSize="20" Background="Green" Click="Button_Click">START!</Button>
+        <Button x:Name="Volgende" Width="100" Height="40" Margin="450,300,0,0" FontFamily="Arial" FontSize="20" Background="Green" Visibility="Hidden" Click="Volgende_Click">Volgende</Button>
+        <TextBlock x:Name="Vraagbalk" Background="Transparent" Text="Vraag 0 / 10" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,460,350" FontSize="20" FontWeight="Bold" Visibility="Hidden"></TextBlock>
+        <TextBlock x:Name="getal1" Background="White" Width="50" Height="50" Margin="0,0,100,100" Visibility="Hidden" TextAlignment="Center" FontSize="40" FontWeight="Bold"></TextBlock>
+        <TextBlock x:Name="getal2" Background="White" Width="50" Height="50" Margin="100,0,0,100" Visibility="Hidden" TextAlignment="Center" FontSize="40" FontWeight="Bold"></TextBlock>
+        <TextBox x:Name="getaluitkomst" Background="White" Width="50" Height="50" Margin="300,0,0,100" Visibility="Hidden" TextAlignment="Center" FontSize="40" FontWeight="Bold"></TextBox>
+        <TextBlock x:Name="operators" Background="Transparent" Width="50" Height="50" Margin="0,0,0,100" Visibility="Hidden" TextAlignment="Center" FontSize="40" FontWeight="Bold" Text="+"></TextBlock>
+        <TextBlock x:Name="isgelijkaan" Background="Transparent" Width="50" Height="50" Margin="200,0,0,100" Visibility="Hidden" TextAlignment="Center" FontSize="40" FontWeight="Bold" Text="="></TextBlock>
+        <TextBlock x:Name="Geslaagdgezakt" HorizontalAlignment="Center" VerticalAlignment="Center" Width="250" Height="40" Margin="0,0,0,100" Background="Transparent" TextAlignment="Center" FontSize="16" FontWeight="UltraBlack"></TextBlock>
+    </Grid>
+</Window>

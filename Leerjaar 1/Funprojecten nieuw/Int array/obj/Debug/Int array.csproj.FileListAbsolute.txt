@@ -1,0 +1,15 @@
+C:\School\Funprojecten nieuw\Int array\bin\Debug\Int array.exe.config
+C:\School\Funprojecten nieuw\Int array\bin\Debug\Int array.exe
+C:\School\Funprojecten nieuw\Int array\bin\Debug\Int array.pdb
+C:\School\Funprojecten nieuw\Int array\obj\Debug\Int array.csproj.AssemblyReference.cache
+C:\School\Funprojecten nieuw\Int array\obj\Debug\MainWindow.g.cs
+C:\School\Funprojecten nieuw\Int array\obj\Debug\App.g.cs
+C:\School\Funprojecten nieuw\Int array\obj\Debug\Int array_MarkupCompile.cache
+C:\School\Funprojecten nieuw\Int array\obj\Debug\Int array_MarkupCompile.lref
+C:\School\Funprojecten nieuw\Int array\obj\Debug\MainWindow.baml
+C:\School\Funprojecten nieuw\Int array\obj\Debug\Int array.g.resources
+C:\School\Funprojecten nieuw\Int array\obj\Debug\Int_array.Properties.Resources.resources
+C:\School\Funprojecten nieuw\Int array\obj\Debug\Int array.csproj.GenerateResource.cache
+C:\School\Funprojecten nieuw\Int array\obj\Debug\Int array.csproj.CoreCompileInputs.cache
+C:\School\Funprojecten nieuw\Int array\obj\Debug\Int array.exe
+C:\School\Funprojecten nieuw\Int array\obj\Debug\Int array.pdb

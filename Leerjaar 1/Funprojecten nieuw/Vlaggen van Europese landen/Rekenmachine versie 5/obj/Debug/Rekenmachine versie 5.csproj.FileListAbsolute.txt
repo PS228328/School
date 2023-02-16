@@ -1,0 +1,5 @@
+C:\School\Funprojecten nieuw\Rekenmachine versie 5\obj\Debug\Rekenmachine versie 5.csproj.AssemblyReference.cache
+C:\School\Funprojecten nieuw\Rekenmachine versie 5\obj\Debug\MainWindow.g.cs
+C:\School\Funprojecten nieuw\Rekenmachine versie 5\obj\Debug\App.g.cs
+C:\School\Funprojecten nieuw\Rekenmachine versie 5\obj\Debug\Rekenmachine versie 5_MarkupCompile.cache
+C:\School\Funprojecten nieuw\Rekenmachine versie 5\obj\Debug\Rekenmachine versie 5_MarkupCompile.lref

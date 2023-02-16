@@ -1,0 +1,34 @@
+C:\Temp\WpfAppWhileCharString\WpfAppWhileCharString\bin\Debug\Assets\wpf.png
+C:\Temp\WpfAppWhileCharString\WpfAppWhileCharString\bin\Debug\WpfAppWhileCharString.exe.config
+C:\Temp\WpfAppWhileCharString\WpfAppWhileCharString\bin\Debug\WpfAppWhileCharString.exe
+C:\Temp\WpfAppWhileCharString\WpfAppWhileCharString\bin\Debug\WpfAppWhileCharString.pdb
+C:\Temp\WpfAppWhileCharString\WpfAppWhileCharString\obj\Debug\WpfAppWhileCharString.csproj.AssemblyReference.cache
+C:\Temp\WpfAppWhileCharString\WpfAppWhileCharString\obj\Debug\MainWindow.g.cs
+C:\Temp\WpfAppWhileCharString\WpfAppWhileCharString\obj\Debug\App.g.cs
+C:\Temp\WpfAppWhileCharString\WpfAppWhileCharString\obj\Debug\WpfAppWhileCharString_Content.g.cs
+C:\Temp\WpfAppWhileCharString\WpfAppWhileCharString\obj\Debug\WpfAppWhileCharString_MarkupCompile.cache
+C:\Temp\WpfAppWhileCharString\WpfAppWhileCharString\obj\Debug\WpfAppWhileCharString_MarkupCompile.lref
+C:\Temp\WpfAppWhileCharString\WpfAppWhileCharString\obj\Debug\MainWindow.baml
+C:\Temp\WpfAppWhileCharString\WpfAppWhileCharString\obj\Debug\WpfAppWhileCharString.g.resources
+C:\Temp\WpfAppWhileCharString\WpfAppWhileCharString\obj\Debug\WpfAppWhileCharString.Properties.Resources.resources
+C:\Temp\WpfAppWhileCharString\WpfAppWhileCharString\obj\Debug\WpfAppWhileCharString.csproj.GenerateResource.cache
+C:\Temp\WpfAppWhileCharString\WpfAppWhileCharString\obj\Debug\WpfAppWhileCharString.csproj.CoreCompileInputs.cache
+C:\Temp\WpfAppWhileCharString\WpfAppWhileCharString\obj\Debug\WpfAppWhileCharString.exe
+C:\Temp\WpfAppWhileCharString\WpfAppWhileCharString\obj\Debug\WpfAppWhileCharString.pdb
+C:\Programmeren\_Bewaren\WpfOefenenWhileChar\Medium\WpfAppWhileCharString - Studenten\WpfAppWhileCharString\bin\Debug\Assets\wpf.png
+C:\Programmeren\_Bewaren\WpfOefenenWhileChar\Medium\WpfAppWhileCharString - Studenten\WpfAppWhileCharString\bin\Debug\WpfAppWhileCharString.exe.config
+C:\Programmeren\_Bewaren\WpfOefenenWhileChar\Medium\WpfAppWhileCharString - Studenten\WpfAppWhileCharString\bin\Debug\WpfAppWhileCharString.exe
+C:\Programmeren\_Bewaren\WpfOefenenWhileChar\Medium\WpfAppWhileCharString - Studenten\WpfAppWhileCharString\bin\Debug\WpfAppWhileCharString.pdb
+C:\Programmeren\_Bewaren\WpfOefenenWhileChar\Medium\WpfAppWhileCharString - Studenten\WpfAppWhileCharString\obj\Debug\WpfAppWhileCharString.csproj.AssemblyReference.cache
+C:\Programmeren\_Bewaren\WpfOefenenWhileChar\Medium\WpfAppWhileCharString - Studenten\WpfAppWhileCharString\obj\Debug\MainWindow.g.cs
+C:\Programmeren\_Bewaren\WpfOefenenWhileChar\Medium\WpfAppWhileCharString - Studenten\WpfAppWhileCharString\obj\Debug\App.g.cs
+C:\Programmeren\_Bewaren\WpfOefenenWhileChar\Medium\WpfAppWhileCharString - Studenten\WpfAppWhileCharString\obj\Debug\WpfAppWhileCharString_Content.g.cs
+C:\Programmeren\_Bewaren\WpfOefenenWhileChar\Medium\WpfAppWhileCharString - Studenten\WpfAppWhileCharString\obj\Debug\WpfAppWhileCharString_MarkupCompile.cache
+C:\Programmeren\_Bewaren\WpfOefenenWhileChar\Medium\WpfAppWhileCharString - Studenten\WpfAppWhileCharString\obj\Debug\WpfAppWhileCharString_MarkupCompile.lref
+C:\Programmeren\_Bewaren\WpfOefenenWhileChar\Medium\WpfAppWhileCharString - Studenten\WpfAppWhileCharString\obj\Debug\MainWindow.baml
+C:\Programmeren\_Bewaren\WpfOefenenWhileChar\Medium\WpfAppWhileCharString - Studenten\WpfAppWhileCharString\obj\Debug\WpfAppWhileCharString.g.resources
+C:\Programmeren\_Bewaren\WpfOefenenWhileChar\Medium\WpfAppWhileCharString - Studenten\WpfAppWhileCharString\obj\Debug\WpfAppWhileCharString.Properties.Resources.resources
+C:\Programmeren\_Bewaren\WpfOefenenWhileChar\Medium\WpfAppWhileCharString - Studenten\WpfAppWhileCharString\obj\Debug\WpfAppWhileCharString.csproj.GenerateResource.cache
+C:\Programmeren\_Bewaren\WpfOefenenWhileChar\Medium\WpfAppWhileCharString - Studenten\WpfAppWhileCharString\obj\Debug\WpfAppWhileCharString.csproj.CoreCompileInputs.cache
+C:\Programmeren\_Bewaren\WpfOefenenWhileChar\Medium\WpfAppWhileCharString - Studenten\WpfAppWhileCharString\obj\Debug\WpfAppWhileCharString.exe
+C:\Programmeren\_Bewaren\WpfOefenenWhileChar\Medium\WpfAppWhileCharString - Studenten\WpfAppWhileCharString\obj\Debug\WpfAppWhileCharString.pdb

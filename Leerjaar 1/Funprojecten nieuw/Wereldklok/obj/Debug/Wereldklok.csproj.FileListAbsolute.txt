@@ -1,0 +1,15 @@
+C:\School\Funprojecten nieuw\Wereldklok\bin\Debug\Wereldklok.exe.config
+C:\School\Funprojecten nieuw\Wereldklok\bin\Debug\Wereldklok.exe
+C:\School\Funprojecten nieuw\Wereldklok\bin\Debug\Wereldklok.pdb
+C:\School\Funprojecten nieuw\Wereldklok\obj\Debug\Wereldklok.csproj.AssemblyReference.cache
+C:\School\Funprojecten nieuw\Wereldklok\obj\Debug\MainWindow.g.cs
+C:\School\Funprojecten nieuw\Wereldklok\obj\Debug\App.g.cs
+C:\School\Funprojecten nieuw\Wereldklok\obj\Debug\Wereldklok_MarkupCompile.cache
+C:\School\Funprojecten nieuw\Wereldklok\obj\Debug\Wereldklok_MarkupCompile.lref
+C:\School\Funprojecten nieuw\Wereldklok\obj\Debug\MainWindow.baml
+C:\School\Funprojecten nieuw\Wereldklok\obj\Debug\Wereldklok.g.resources
+C:\School\Funprojecten nieuw\Wereldklok\obj\Debug\Wereldklok.Properties.Resources.resources
+C:\School\Funprojecten nieuw\Wereldklok\obj\Debug\Wereldklok.csproj.GenerateResource.cache
+C:\School\Funprojecten nieuw\Wereldklok\obj\Debug\Wereldklok.csproj.CoreCompileInputs.cache
+C:\School\Funprojecten nieuw\Wereldklok\obj\Debug\Wereldklok.exe
+C:\School\Funprojecten nieuw\Wereldklok\obj\Debug\Wereldklok.pdb

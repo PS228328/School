@@ -1,0 +1,198 @@
+﻿<Window x:Class="WPF_project_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Fietsverhuur 'De Fluitende Fietser' – Facturering" Height="450" Width="800">
+    <Grid x:Name="myGrid"> 
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5"/>
+            <RowDefinition />
+            <RowDefinition Height="5"/>
+            <RowDefinition />
+            <RowDefinition Height="5"/>
+            <RowDefinition />
+            <RowDefinition Height="5"/>
+            <RowDefinition />
+            <RowDefinition Height="5"/>
+            <RowDefinition />
+            <RowDefinition Height="5"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="5"/>
+            <RowDefinition />
+            <RowDefinition Height="5"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="5"/>
+            <RowDefinition />
+            <RowDefinition Height="5"/>
+            <RowDefinition />
+            <RowDefinition Height="5"/>
+            <RowDefinition />
+            <RowDefinition Height="5"/>
+            <RowDefinition />
+            <RowDefinition Height="5"/>
+            <RowDefinition Height="0.8*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="15" />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition Width="5"/>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition Width="0.5*"/>
+            <ColumnDefinition Width="0.5*"/>
+            <ColumnDefinition Width="5"/>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition Width="15"/>
+        </Grid.ColumnDefinitions>
+        
+        <StackPanel Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="4" Background="Black" Orientation="Horizontal"></StackPanel>
+        <TextBlock Grid.Row="1" Grid.Column="1" Text="5 eurocent" Foreground="White"></TextBlock>
+        <Image Grid.Row="1" Grid.Column="2" Source="Images/5eurocent.jpg"></Image>
+        <TextBox Width="20" Grid.Row="1" Grid.Column="3" x:Name="ct5" TextAlignment="Center" HorizontalAlignment="Right" Margin="0,0,5,0" Foreground="White" Background="Black" TextChanged="ct5_TextChanged"></TextBox>
+        <TextBlock Grid.Row="1" Grid.Column="4" Text="keer" Foreground="White"></TextBlock>
+
+        <StackPanel Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="4" Background="Black" Orientation="Horizontal"></StackPanel>
+        <TextBlock Grid.Row="3" Grid.Column="1" Text="10 eurocent" Foreground="White"></TextBlock>
+        <Image Grid.Row="3" Grid.Column="2" Source="Images/10eurocent.jpg"></Image>
+        <TextBox Width="20" Grid.Row="3" Grid.Column="3" x:Name="ct10" TextAlignment="Center" HorizontalAlignment="Right" Margin="0,0,5,0" Foreground="White" Background="Black" TextChanged="ct10_TextChanged"></TextBox>
+        <TextBlock Grid.Row="3" Grid.Column="4" Text="keer" Foreground="White"></TextBlock>
+
+        <StackPanel Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="4" Background="Black" Orientation="Horizontal"></StackPanel>
+        <TextBlock Grid.Row="5" Grid.Column="1" Text="20 eurocent" Foreground="White"></TextBlock>
+        <Image Grid.Row="5" Grid.Column="2" Source="Images/20eurocent.jpg"></Image>
+        <TextBox Width="20" Grid.Row="5" Grid.Column="3" x:Name="ct20" TextAlignment="Center" HorizontalAlignment="Right" Margin="0,0,5,0" Foreground="White" Background="Black" TextChanged="ct20_TextChanged"></TextBox>
+        <TextBlock Grid.Row="5" Grid.Column="4" Text="keer" Foreground="White"></TextBlock>
+
+        <StackPanel Grid.Row="7" Grid.Column="1" Grid.ColumnSpan="4" Background="Black" Orientation="Horizontal"></StackPanel>
+        <TextBlock Grid.Row="7" Grid.Column="1" Text="50 eurocent" Foreground="White"></TextBlock>
+        <Image Grid.Row="7" Grid.Column="2" Source="Images/50eurocent.jpg"></Image>
+        <TextBox Width="20" Grid.Row="7" Grid.Column="3" x:Name="ct50" TextAlignment="Center" HorizontalAlignment="Right" Margin="0,0,5,0" Foreground="White" Background="Black" TextChanged="ct50_TextChanged"></TextBox>
+        <TextBlock Grid.Row="7" Grid.Column="4" Text="keer" Foreground="White"></TextBlock>
+
+        <StackPanel Grid.Row="9" Grid.Column="1" Grid.ColumnSpan="4" Background="Black" Orientation="Horizontal"></StackPanel>
+        <TextBlock Grid.Row="9" Grid.Column="1" Text="1 euro" Foreground="White"></TextBlock>
+        <Image Grid.Row="9" Grid.Column="2" Source="Images/1euro.jpg"></Image>
+        <TextBox Width="20" Grid.Row="9" Grid.Column="3" x:Name="eur1" TextAlignment="Center" HorizontalAlignment="Right" Margin="0,0,5,0" Foreground="White" Background="Black" TextChanged="eur1_TextChanged"></TextBox>
+        <TextBlock Grid.Row="9" Grid.Column="4" Text="keer" Foreground="White"></TextBlock>
+
+        <StackPanel Grid.Row="11" Grid.Column="1" Grid.ColumnSpan="4" Grid.RowSpan="2" Background="Black" Orientation="Horizontal"></StackPanel>
+        <TextBlock Grid.Row="11" Grid.Column="1" Text="2 euro" Foreground="White" Grid.RowSpan="2"></TextBlock>
+        <Image Grid.Row="11" Grid.Column="2" Source="Images/2euro.jpeg" Grid.RowSpan="2"></Image>
+        <TextBox Width="20" Grid.Row="11" Grid.Column="3" x:Name="eur2" TextAlignment="Center" HorizontalAlignment="Right" Margin="0,0,5,0" Foreground="White" Background="Black" Grid.RowSpan="2" TextChanged="eur2_TextChanged"></TextBox>
+        <TextBlock Grid.Row="11" Grid.Column="4" Text="keer" Foreground="White" Grid.RowSpan="2"></TextBlock>
+
+        <StackPanel Grid.Row="14" Grid.Column="1" Grid.ColumnSpan="4" Background="Black" Orientation="Horizontal"></StackPanel>
+        <TextBlock Grid.Row="14" Grid.Column="1" Text="5 euro" Foreground="White"></TextBlock>
+        <Image Grid.Row="14" Grid.Column="2" Source="Images/5 euro.png"></Image>
+        <TextBox Width="20" Grid.Row="14" Grid.Column="3" x:Name="eur5" TextAlignment="Center" HorizontalAlignment="Right" Margin="0,0,5,0" Foreground="White" Background="Black" TextChanged="eur5_TextChanged"></TextBox>
+        <TextBlock Grid.Row="14" Grid.Column="4" Text="keer" Foreground="White"></TextBlock>
+
+        <StackPanel Grid.Row="16" Grid.Column="1" Grid.ColumnSpan="4" Grid.RowSpan="2" Background="Black" Orientation="Horizontal"></StackPanel>
+        <TextBlock Grid.Row="16" Grid.Column="1" Text="10 euro" Grid.RowSpan="2" Foreground="White"></TextBlock>
+        <Image Grid.Row="16" Grid.Column="2" Source="Images/10 euro.png" Grid.RowSpan="2"></Image>
+        <TextBox Width="20" Grid.Row="16" Grid.RowSpan="2" Grid.Column="3" x:Name="eur10" TextAlignment="Center" HorizontalAlignment="Right" Margin="0,0,5,0" Foreground="White" Background="Black" TextChanged="eur10_TextChanged"></TextBox>
+        <TextBlock Grid.Row="16" Grid.Column="4" Grid.RowSpan="2" Text="keer" Foreground="White"></TextBlock>
+
+        <StackPanel Grid.Row="19" Grid.Column="1" Grid.ColumnSpan="4" Background="Black" Orientation="Horizontal"></StackPanel>
+        <TextBlock Grid.Row="19" Grid.Column="1" Text="20 euro" Foreground="White"></TextBlock>
+        <Image Grid.Row="19" Grid.Column="2" Source="Images/20 euro.jpg"></Image>
+        <TextBox Width="20" Grid.Row="19" Grid.Column="3" x:Name="eur20" TextAlignment="Center" HorizontalAlignment="Right" Margin="0,0,5,0" Foreground="White" Background="Black" TextChanged="eur20_TextChanged"></TextBox>
+        <TextBlock Grid.Row="19" Grid.Column="4" Text="keer" Foreground="White"></TextBlock>
+
+        <StackPanel Grid.Row="21" Grid.Column="1" Grid.ColumnSpan="4" Background="Black" Orientation="Horizontal"></StackPanel>
+        <TextBlock Grid.Row="21" Grid.Column="1" Text="50 euro" Foreground="White"></TextBlock>
+        <Image Grid.Row="21" Grid.Column="2" Source="Images/50 euro.png"></Image>
+        <TextBox Width="20" Grid.Row="21" Grid.Column="3" x:Name="eur50" TextAlignment="Center" HorizontalAlignment="Right" Margin="0,0,5,0" Foreground="White" Background="Black" TextChanged="eur50_TextChanged"></TextBox>
+        <TextBlock Grid.Row="21" Grid.Column="4" Text="keer" Foreground="White"></TextBlock>
+
+        <StackPanel Grid.Row="23" Grid.Column="1" Grid.ColumnSpan="4" Background="Black" Orientation="Horizontal"></StackPanel>
+        <TextBlock Grid.Row="23" Grid.Column="1" Text="100 euro" Foreground="White"></TextBlock>
+        <Image Grid.Row="23" Grid.Column="2" Source="Images/100 euro.jpg"></Image>
+        <TextBox Width="20" Grid.Row="23" Grid.Column="3" x:Name="eur100" TextAlignment="Center" HorizontalAlignment="Right" Margin="0,0,5,0" Foreground="White" Background="Black" TextChanged="eur100_TextChanged"></TextBox>
+        <TextBlock Grid.Row="23" Grid.Column="4" Text="keer" Foreground="White"></TextBlock>
+
+        <StackPanel Grid.Row="25" Grid.Column="1" Grid.ColumnSpan="4" Background="Black" Orientation="Horizontal"></StackPanel>
+        <TextBlock Grid.Row="25" Grid.Column="1" Text="200 euro" Foreground="White"></TextBlock>
+        <Image Grid.Row="25" Grid.Column="2" Source="Images/200 euro.jpg"></Image>
+        <TextBox Width="20" Grid.Row="25" Grid.Column="3" x:Name="eur200" TextAlignment="Center" HorizontalAlignment="Right" Margin="0,0,5,0" Foreground="White" Background="Black" TextChanged="eur200_TextChanged"></TextBox>
+        <TextBlock Grid.Row="25" Grid.Column="4" Text="keer" Foreground="White"></TextBlock>
+
+        <StackPanel Background="Black" Grid.Row="1" Grid.Column="6" Grid.RowSpan="6" Grid.ColumnSpan="5"></StackPanel>
+        <StackPanel Grid.Row="1" Grid.Column="6" Grid.RowSpan="3">
+            <TextBlock Foreground="White" FontSize="10" Margin="0,15,0,0">Bestellen</TextBlock>
+            <TextBlock Foreground="White" FontSize="10" Margin="0,7,0,0">Verzekeringen</TextBlock>
+            <TextBlock Foreground="White" FontSize="10" Margin="0,7,0,0">Services</TextBlock>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.Column="7" Grid.ColumnSpan="3" Grid.RowSpan="3">
+            <ComboBox SelectionChanged="cbBestel_SelectionChanged" x:Name="cbBestel" Height="18" Margin="0,16,0,0" FontSize="9">
+                <ComboBoxItem>Bakfiets € 35,00 / dag</ComboBoxItem>
+                <ComboBoxItem>Driewielfiets € 30,00 / dag </ComboBoxItem>
+                <ComboBoxItem>Elektronische-fiets € 30,00 / dag</ComboBoxItem>
+                <ComboBoxItem>Kinderfiets € 15,00 / dag</ComboBoxItem>
+                <ComboBoxItem>Ligfiets € 45,00 / dag</ComboBoxItem>
+                <ComboBoxItem>Oma-fiets € 12,50 / dag</ComboBoxItem>
+                <ComboBoxItem>Racefiets € 15,00 / dag</ComboBoxItem>
+                <ComboBoxItem>Speed-pedelec € 15,00 / dag</ComboBoxItem>
+                <ComboBoxItem>Stadsfiets € 12,50 / dag</ComboBoxItem>
+                <ComboBoxItem>Vouwfiets € 10,00 / dag</ComboBoxItem>
+                <ComboBoxItem>Zitfiets € 15,00 / dag</ComboBoxItem>
+            </ComboBox>
+            <ComboBox SelectionChanged="cbVerzekering_SelectionChanged" x:Name="cbVerzekering" Height="18" FontSize="9">
+                <ComboBoxItem>Beschadigingen € 5,00 / dag</ComboBoxItem>
+                <ComboBoxItem>Diefstal € 10,00 / dag, eigen risico</ComboBoxItem>
+                <ComboBoxItem>Rechtsbijstand € 5,00 / dag</ComboBoxItem>
+                <ComboBoxItem>Ongevallen € 2,50 / dag</ComboBoxItem>
+            </ComboBox>
+            <ComboBox SelectionChanged="cbServices_SelectionChanged" x:Name="cbServices" Height="18" FontSize="9">
+                <ComboBoxItem>Ophaalservice € 15,00 / dag</ComboBoxItem>
+                <ComboBoxItem>Regenpak € 10,00 / dag</ComboBoxItem>
+                <ComboBoxItem>Lunchpakket-basis € 12,50 / dag</ComboBoxItem>
+                <ComboBoxItem>Lunchpakket-uitgebreid € 20,00 / dag</ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+        <TextBlock Grid.Row="1" Grid.Column="7" Grid.ColumnSpan="2" TextAlignment="Center" Foreground="White" FontSize="10" FontFamily="Gill Sans MT" Margin="0,2,0,0">Bestellen</TextBlock>
+        <TextBlock Grid.Row="4" Grid.RowSpan="2" Grid.Column="7" Grid.ColumnSpan="2" TextAlignment="Center" Foreground="White" FontSize="11" VerticalAlignment="Top" Margin="0,0,25,0">Dagen</TextBlock>
+        <TextBox x:Name="tbDagen" Grid.Row="4" Grid.RowSpan="2" Grid.Column="7" Grid.ColumnSpan="2" Background="Black" Foreground="White" FontSize="11" Margin="25,0,0,0" VerticalAlignment="Top" Height="20" Width="11">1</TextBox>
+        <Button x:Name="btBestel" Grid.Row="5" Grid.RowSpan="2" Grid.Column="6" Grid.ColumnSpan="2" VerticalAlignment="Bottom" Height="20" Width="80" Foreground="White" Background="Blue" Content="Bestel artikel(en)" FontSize="10" Click="btBestel_Click"></Button>
+        <Button x:Name="btReset" Grid.Row="5" Grid.RowSpan="2" Grid.Column="8" Grid.ColumnSpan="2" VerticalAlignment="Bottom" Height="20" Width="80" Foreground="White" Background="Blue" Content="Reset" FontSize="10" Click="btReset_Click"></Button>
+
+        <StackPanel Background="Black" Grid.Row="7" Grid.Column="6" Grid.RowSpan="5" Grid.ColumnSpan="5"></StackPanel>
+        <ListBox x:Name="lbArtikelen" Background="Black" Foreground="White" Grid.Row="7" Grid.Column="6" Grid.RowSpan="5" Grid.ColumnSpan="5" FontSize="14" MouseDoubleClick="lbArtikelen_MouseDoubleClick"></ListBox>
+        
+        <StackPanel Background="Black" Grid.Row="12" Grid.Column="6" Grid.RowSpan="3" Grid.ColumnSpan="5"></StackPanel>
+        <TextBlock Grid.Row="12" Grid.Column="7" Grid.ColumnSpan="2" TextAlignment="Center" Foreground="White" FontSize="10" FontFamily="Gill Sans MT" Margin="0,2,0,0">Te betalen bedrag:</TextBlock>
+        <TextBlock x:Name="tbsubtotaal" Grid.Row="13" Grid.RowSpan="2" Grid.Column="7" Grid.ColumnSpan="2" TextAlignment="Center" Foreground="White" FontSize="18">€ 0,00</TextBlock>
+        
+        <StackPanel Background="Black" Grid.Row="18" Grid.Column="6" Grid.RowSpan="8" Grid.ColumnSpan="5">
+            <TextBlock TextAlignment="Center" Foreground="White" FontSize="12" FontFamily="Gill Sans MT">Betalen:</TextBlock>
+            <TextBlock TextAlignment="Center" Foreground="White" FontSize="10" FontFamily="Gill Sans MT" Margin="0,9,0,0">Geef bedrag in:</TextBlock>
+            <Button x:Name="btgeeftotaal" Foreground="White" Background="Blue" Width="85" FontSize="8" Click="btgeeftotaal_Click">Geef totaalbedrag in</Button>
+            <TextBlock TextAlignment="Center" Foreground="White" FontSize="12" FontFamily="Gill Sans MT" Margin="0,5,0,0">Totaal gegeven bedrag:</TextBlock>
+            <TextBlock Visibility="Visible" x:Name="tbgegeven" Background="Black" TextAlignment="Center" Foreground="White" FontSize="18">€ 0,00</TextBlock>
+        </StackPanel>
+
+
+        <StackPanel Background="Black" Grid.Row="3" Grid.Column="12" Grid.RowSpan="3" Grid.ColumnSpan="4">
+            <TextBlock TextAlignment="Center" Foreground="White" FontSize="12" FontFamily="Gill Sans MT" Margin="0,14,0,0">Betalen:</TextBlock>
+            <TextBlock x:Name="tbTerug" TextAlignment="Center" Foreground="Green" FontSize="18" FontFamily="Gill Sans MT">€ 0,00</TextBlock>
+        </StackPanel>
+
+        <ListBox x:Name="lbterug" Background="Black" Foreground="White" Grid.Row="7" Grid.Column="12" Grid.RowSpan="10" Grid.ColumnSpan="4" FontSize="15"></ListBox>
+        <StackPanel Background="Black" Grid.Row="17" Grid.Column="12" Grid.RowSpan="3" Grid.ColumnSpan="4"></StackPanel>
+        <Button x:Name="btNext" Background="Blue" Foreground="White" VerticalAlignment="Bottom" Grid.Row="17" Grid.Column="12" Grid.RowSpan="3" Grid.ColumnSpan="4" Width="70" Height="40" FontSize="9" Click="btNext_Click">Volgende klant</Button>
+
+        <TextBlock x:Name="tbTijd" Grid.Row="27" Grid.Column="1" Grid.ColumnSpan="15" HorizontalAlignment="Left" Width="2000" Height="16" Background="Green"></TextBlock>
+        <Button x:Name="BtCalculator" Click="BtCalculator_Click" Foreground="White" Background="Black" Grid.Row="23" Grid.Column="13" Grid.ColumnSpan="2">Rekenmachine</Button>
+    </Grid>
+</Window>

@@ -1,0 +1,19 @@
+﻿<Window x:Class="Demo_prg3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Demo_prg3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets/Beast.jpg"></ImageBrush>
+        </Grid.Background>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="The number of the beast is:" FontSize="50" Foreground="Blue" FontWeight="ExtraBold"></TextBlock>
+            <TextBlock x:Name="tbNumber" FontSize="50" Foreground="Blue" FontWeight="ExtraBold" Text="" Margin="0,50,0,0"></TextBlock>
+            <Button x:Name="btGo" Background="Red" Foreground="Black" Content="Go!" FontSize="30" Margin="0,50,0,0" Click="btGo_Click" Width="70"></Button>
+        </StackPanel> 
+    </Grid>
+</Window>

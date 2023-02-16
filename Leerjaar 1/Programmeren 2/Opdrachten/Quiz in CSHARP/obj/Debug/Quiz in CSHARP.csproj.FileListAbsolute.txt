@@ -1,0 +1,21 @@
+C:\School\Programmeren 2\Opdrachten\Quiz in CSHARP\bin\Debug\Quiz in CSHARP.exe.config
+C:\School\Programmeren 2\Opdrachten\Quiz in CSHARP\bin\Debug\Quiz in CSHARP.exe
+C:\School\Programmeren 2\Opdrachten\Quiz in CSHARP\bin\Debug\Quiz in CSHARP.pdb
+C:\School\Programmeren 2\Opdrachten\Quiz in CSHARP\obj\Debug\Quiz in CSHARP.csproj.AssemblyReference.cache
+C:\School\Programmeren 2\Opdrachten\Quiz in CSHARP\obj\Debug\MainWindow.g.cs
+C:\School\Programmeren 2\Opdrachten\Quiz in CSHARP\obj\Debug\App.g.cs
+C:\School\Programmeren 2\Opdrachten\Quiz in CSHARP\obj\Debug\Quiz in CSHARP_MarkupCompile.cache
+C:\School\Programmeren 2\Opdrachten\Quiz in CSHARP\obj\Debug\Quiz in CSHARP_MarkupCompile.lref
+C:\School\Programmeren 2\Opdrachten\Quiz in CSHARP\obj\Debug\MainWindow.baml
+C:\School\Programmeren 2\Opdrachten\Quiz in CSHARP\obj\Debug\Quiz in CSHARP.g.resources
+C:\School\Programmeren 2\Opdrachten\Quiz in CSHARP\obj\Debug\Quiz_in_CSHARP.Properties.Resources.resources
+C:\School\Programmeren 2\Opdrachten\Quiz in CSHARP\obj\Debug\Quiz in CSHARP.csproj.GenerateResource.cache
+C:\School\Programmeren 2\Opdrachten\Quiz in CSHARP\obj\Debug\Quiz in CSHARP.csproj.CoreCompileInputs.cache
+C:\School\Programmeren 2\Opdrachten\Quiz in CSHARP\obj\Debug\Quiz in CSHARP.exe
+C:\School\Programmeren 2\Opdrachten\Quiz in CSHARP\obj\Debug\Quiz in CSHARP.pdb
+C:\School\Programmeren 2\Opdrachten\Quiz in CSHARP\obj\Debug\Instructies.g.cs
+C:\School\Programmeren 2\Opdrachten\Quiz in CSHARP\obj\Debug\Instructies.baml
+C:\School\Programmeren 2\Opdrachten\Quiz in CSHARP\obj\Debug\Onderdeel1.g.cs
+C:\School\Programmeren 2\Opdrachten\Quiz in CSHARP\obj\Debug\Onderdeel1.baml
+C:\School\Programmeren 2\Opdrachten\Quiz in CSHARP\obj\Debug\Onderdeel2.g.cs
+C:\School\Programmeren 2\Opdrachten\Quiz in CSHARP\obj\Debug\Onderdeel2.baml

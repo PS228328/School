@@ -1,0 +1,15 @@
+C:\School\Funprojecten nieuw\Gewoon maar wat programmeren\bin\Debug\Gewoon maar wat programmeren.exe.config
+C:\School\Funprojecten nieuw\Gewoon maar wat programmeren\bin\Debug\Gewoon maar wat programmeren.exe
+C:\School\Funprojecten nieuw\Gewoon maar wat programmeren\bin\Debug\Gewoon maar wat programmeren.pdb
+C:\School\Funprojecten nieuw\Gewoon maar wat programmeren\obj\Debug\Gewoon maar wat programmeren.csproj.AssemblyReference.cache
+C:\School\Funprojecten nieuw\Gewoon maar wat programmeren\obj\Debug\MainWindow.g.cs
+C:\School\Funprojecten nieuw\Gewoon maar wat programmeren\obj\Debug\App.g.cs
+C:\School\Funprojecten nieuw\Gewoon maar wat programmeren\obj\Debug\Gewoon maar wat programmeren_MarkupCompile.cache
+C:\School\Funprojecten nieuw\Gewoon maar wat programmeren\obj\Debug\Gewoon maar wat programmeren_MarkupCompile.lref
+C:\School\Funprojecten nieuw\Gewoon maar wat programmeren\obj\Debug\MainWindow.baml
+C:\School\Funprojecten nieuw\Gewoon maar wat programmeren\obj\Debug\Gewoon maar wat programmeren.g.resources
+C:\School\Funprojecten nieuw\Gewoon maar wat programmeren\obj\Debug\Gewoon_maar_wat_programmeren.Properties.Resources.resources
+C:\School\Funprojecten nieuw\Gewoon maar wat programmeren\obj\Debug\Gewoon maar wat programmeren.csproj.GenerateResource.cache
+C:\School\Funprojecten nieuw\Gewoon maar wat programmeren\obj\Debug\Gewoon maar wat programmeren.csproj.CoreCompileInputs.cache
+C:\School\Funprojecten nieuw\Gewoon maar wat programmeren\obj\Debug\Gewoon maar wat programmeren.exe
+C:\School\Funprojecten nieuw\Gewoon maar wat programmeren\obj\Debug\Gewoon maar wat programmeren.pdb

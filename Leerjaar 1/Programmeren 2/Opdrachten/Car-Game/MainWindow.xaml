@@ -1,0 +1,35 @@
+﻿<Window x:Class="Car_Game.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Car_Game"
+        mc:Ignorable="d"
+        Title="Car game" Height="450" Width="800">
+    <Grid x:Name="myGrid">
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets/background.jpg"></ImageBrush>
+        </Grid.Background>
+        <StackPanel x:Name="spOptions" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock FontFamily="Arial" FontSize="50" Background="Beige" FontWeight="Bold" Foreground="Gray" Width="300" TextAlignment="Center" Height="60">Car Game</TextBlock>
+            <TextBlock FontFamily="Arial" FontSize="21" Background="Indigo" FontWeight="Bold" Foreground="White" Width="300" TextAlignment="Center" Margin="0,10,0,0">Select game</TextBlock>
+            <Button x:Name="btOilRain" Click="btOilRain_Click">Oil rain</Button>
+            <Button>Fast drive</Button>
+        </StackPanel>
+        <StackPanel Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Bottom">
+            <Image Visibility="Hidden" x:Name="car" Width="100" Margin="0,0,0,170" Source="Assets/car right.jpg"></Image>
+        </StackPanel>
+        <StackPanel Visibility="Hidden" HorizontalAlignment="Right" VerticalAlignment="Top" x:Name="spFunctions" Margin="0,20,20,0" Orientation="Horizontal">
+            <TextBlock Text="Time: " TextAlignment="Center" FontSize="35" Margin="100,0,0,0"></TextBlock>
+            <TextBlock x:Name="tbPoints" Text="0" TextAlignment="Center" FontSize="35"></TextBlock>
+            <Button x:Name="btPause" Width="70" Height="40" FontSize="18" Background="Orange" FontWeight="Bold" Margin="30,0,10,0" Click="btPause_Click">Pauze</Button>
+            <Button x:Name="btStop" Width="70" Height="40" FontSize="18" Background="Red" FontWeight="Bold" Click="btStop_Click">Stop</Button>
+        </StackPanel>
+        <StackPanel x:Name="spFaults" Visibility="Hidden" HorizontalAlignment="Center" VerticalAlignment="Top" Orientation="Horizontal" Margin="0,30,0,0">
+            <TextBlock Text="Faults: " TextAlignment="Center" FontSize="35"></TextBlock>
+            <TextBlock x:Name="fault1" TextAlignment="Center" FontSize="35" Width="35" Height="35" Background="Green" Margin="0,0,10,0"></TextBlock>
+            <TextBlock x:Name="fault2" TextAlignment="Center" FontSize="35" Width="35" Height="35" Background="Green" Margin="0,0,10,0"></TextBlock>
+            <TextBlock x:Name="fault3" TextAlignment="Center" FontSize="35" Width="35" Height="35" Background="Green" Margin="0,0,10,0"></TextBlock>
+        </StackPanel>
+    </Grid>
+</Window>

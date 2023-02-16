@@ -1,0 +1,17 @@
+C:\School\Het treinenproject\WpfAppSwitchWindow\bin\Debug\WpfAppSwitchWindow.exe.config
+C:\School\Het treinenproject\WpfAppSwitchWindow\bin\Debug\WpfAppSwitchWindow.exe
+C:\School\Het treinenproject\WpfAppSwitchWindow\bin\Debug\WpfAppSwitchWindow.pdb
+C:\School\Het treinenproject\WpfAppSwitchWindow\obj\Debug\WpfAppSwitchWindow.csproj.AssemblyReference.cache
+C:\School\Het treinenproject\WpfAppSwitchWindow\obj\Debug\Form2.g.cs
+C:\School\Het treinenproject\WpfAppSwitchWindow\obj\Debug\MainWindow.g.cs
+C:\School\Het treinenproject\WpfAppSwitchWindow\obj\Debug\App.g.cs
+C:\School\Het treinenproject\WpfAppSwitchWindow\obj\Debug\WpfAppSwitchWindow_MarkupCompile.cache
+C:\School\Het treinenproject\WpfAppSwitchWindow\obj\Debug\WpfAppSwitchWindow_MarkupCompile.lref
+C:\School\Het treinenproject\WpfAppSwitchWindow\obj\Debug\Form2.baml
+C:\School\Het treinenproject\WpfAppSwitchWindow\obj\Debug\MainWindow.baml
+C:\School\Het treinenproject\WpfAppSwitchWindow\obj\Debug\WpfAppSwitchWindow.g.resources
+C:\School\Het treinenproject\WpfAppSwitchWindow\obj\Debug\WpfAppSwitchWindow.Properties.Resources.resources
+C:\School\Het treinenproject\WpfAppSwitchWindow\obj\Debug\WpfAppSwitchWindow.csproj.GenerateResource.cache
+C:\School\Het treinenproject\WpfAppSwitchWindow\obj\Debug\WpfAppSwitchWindow.csproj.CoreCompileInputs.cache
+C:\School\Het treinenproject\WpfAppSwitchWindow\obj\Debug\WpfAppSwitchWindow.exe
+C:\School\Het treinenproject\WpfAppSwitchWindow\obj\Debug\WpfAppSwitchWindow.pdb

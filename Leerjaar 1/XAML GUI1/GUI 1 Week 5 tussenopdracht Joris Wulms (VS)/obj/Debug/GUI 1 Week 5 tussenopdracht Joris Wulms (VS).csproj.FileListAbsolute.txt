@@ -1,0 +1,15 @@
+C:\School\XAML GUI1\GUI 1 Week 5 tussenopdracht Joris Wulms (VS)\bin\Debug\GUI 1 Week 5 tussenopdracht Joris Wulms (VS).exe.config
+C:\School\XAML GUI1\GUI 1 Week 5 tussenopdracht Joris Wulms (VS)\bin\Debug\GUI 1 Week 5 tussenopdracht Joris Wulms (VS).exe
+C:\School\XAML GUI1\GUI 1 Week 5 tussenopdracht Joris Wulms (VS)\bin\Debug\GUI 1 Week 5 tussenopdracht Joris Wulms (VS).pdb
+C:\School\XAML GUI1\GUI 1 Week 5 tussenopdracht Joris Wulms (VS)\obj\Debug\GUI 1 Week 5 tussenopdracht Joris Wulms (VS).csproj.AssemblyReference.cache
+C:\School\XAML GUI1\GUI 1 Week 5 tussenopdracht Joris Wulms (VS)\obj\Debug\MainWindow.g.cs
+C:\School\XAML GUI1\GUI 1 Week 5 tussenopdracht Joris Wulms (VS)\obj\Debug\App.g.cs
+C:\School\XAML GUI1\GUI 1 Week 5 tussenopdracht Joris Wulms (VS)\obj\Debug\GUI 1 Week 5 tussenopdracht Joris Wulms (VS)_MarkupCompile.cache
+C:\School\XAML GUI1\GUI 1 Week 5 tussenopdracht Joris Wulms (VS)\obj\Debug\GUI 1 Week 5 tussenopdracht Joris Wulms (VS)_MarkupCompile.lref
+C:\School\XAML GUI1\GUI 1 Week 5 tussenopdracht Joris Wulms (VS)\obj\Debug\MainWindow.baml
+C:\School\XAML GUI1\GUI 1 Week 5 tussenopdracht Joris Wulms (VS)\obj\Debug\GUI 1 Week 5 tussenopdracht Joris Wulms (VS).g.resources
+C:\School\XAML GUI1\GUI 1 Week 5 tussenopdracht Joris Wulms (VS)\obj\Debug\GUI_1_Week_5_tussenopdracht_Joris_Wulms__VS_.Properties.Resources.resources
+C:\School\XAML GUI1\GUI 1 Week 5 tussenopdracht Joris Wulms (VS)\obj\Debug\GUI 1 Week 5 tussenopdracht Joris Wulms (VS).csproj.GenerateResource.cache
+C:\School\XAML GUI1\GUI 1 Week 5 tussenopdracht Joris Wulms (VS)\obj\Debug\GUI 1 Week 5 tussenopdracht Joris Wulms (VS).csproj.CoreCompileInputs.cache
+C:\School\XAML GUI1\GUI 1 Week 5 tussenopdracht Joris Wulms (VS)\obj\Debug\GUI 1 Week 5 tussenopdracht Joris Wulms (VS).exe
+C:\School\XAML GUI1\GUI 1 Week 5 tussenopdracht Joris Wulms (VS)\obj\Debug\GUI 1 Week 5 tussenopdracht Joris Wulms (VS).pdb

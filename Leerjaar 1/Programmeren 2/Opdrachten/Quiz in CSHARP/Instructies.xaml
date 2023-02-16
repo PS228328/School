@@ -1,0 +1,38 @@
+﻿<Window x:Class="Quiz_in_CSHARP.Instructies"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Quiz_in_CSHARP"
+        mc:Ignorable="d"
+        Title="Questions" Height="450" Width="800">
+    <Grid>
+        <TextBlock TextAlignment="Center" FontSize="30" FontFamily="Arial" Margin="0,20,0,0">Het rekenexamen bestaat uit 3 onderdelen</TextBlock>
+        <Grid Background="LightGray" Height="90" Width="800"> 
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="30"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition Width="200"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Grid.Row="0" Grid.Column="0" Background="Blue" Width="150" Height="25" TextAlignment="Center" FontSize="14" FontWeight="Bold">Onderdeelsoort:</TextBlock>
+            <TextBlock Grid.Row="1" Grid.Column="0" Background="Blue" Width="150" Height="25" TextAlignment="Center" FontSize="14" FontWeight="Bold">Minimale eis:</TextBlock>
+            <TextBlock Grid.Row="2" Grid.Column="0" Background="Blue" Width="150" Height="25" TextAlignment="Center" FontSize="14" FontWeight="Bold">Tijd:</TextBlock>
+            <TextBlock Grid.Row="0" Grid.Column="1" Background="LightYellow" Width="150" Height="25" TextAlignment="Center" FontSize="11">Onderdeel 1: Plus en min</TextBlock>
+            <TextBlock Grid.Row="0" Grid.Column="2" Background="LightYellow" Width="150" Height="25" TextAlignment="Center" FontSize="11">Onderdeel 2: Lange sommen</TextBlock>
+            <TextBlock Grid.Row="0" Grid.Column="3" Background="LightYellow" Width="150" Height="25" TextAlignment="Center" FontSize="11">Onderdeel 3: Toepassen</TextBlock>
+            <TextBlock Grid.Row="1" Grid.Column="1" Background="LightYellow" Width="150" Height="25" TextAlignment="Center" FontSize="11">25 vragen, minstens 13 goed</TextBlock>
+            <TextBlock Grid.Row="1" Grid.Column="2" Background="LightYellow" Width="150" Height="25" TextAlignment="Center" FontSize="11">12 vragen, minstens 10 goed</TextBlock>
+            <TextBlock Grid.Row="1" Grid.Column="3" Background="LightYellow" Width="150" Height="25" TextAlignment="Center" FontSize="11">28 vragen, minstens 25 goed</TextBlock>
+            <TextBlock Grid.Row="2" Grid.Column="1" Background="LightYellow" Width="150" Height="25" TextAlignment="Center" FontSize="11">8 seconden per vraag</TextBlock>
+            <TextBlock Grid.Row="2" Grid.Column="2" Background="LightYellow" Width="150" Height="25" TextAlignment="Center" FontSize="11">15 minuten over alle vragen</TextBlock>
+            <TextBlock Grid.Row="2" Grid.Column="3" Background="LightYellow" Width="150" Height="25" TextAlignment="Center" FontSize="11">45 minuten over alle vragen</TextBlock>
+        </Grid>
+        <Button x:Name="btStartEx" VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="0,0,0,100" Width="200" Height="30" Click="btStartEx_Click">Start examen</Button>
+    </Grid>
+</Window>

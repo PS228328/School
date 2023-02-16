@@ -1,0 +1,42 @@
+C:\Users\amje\Desktop\Zooi\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MastermindCore6.csproj.AssemblyReference.cache
+C:\Users\amje\Desktop\Zooi\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\amje\Desktop\Zooi\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\amje\Desktop\Zooi\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MastermindCore6_MarkupCompile.cache
+C:\Users\amje\Desktop\Zooi\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MastermindCore6_MarkupCompile.lref
+C:\Users\amje\Desktop\Zooi\MastermindCore6\MastermindCore6\bin\Debug\net6.0-windows\MastermindCore6.exe
+C:\Users\amje\Desktop\Zooi\MastermindCore6\MastermindCore6\bin\Debug\net6.0-windows\MastermindCore6.deps.json
+C:\Users\amje\Desktop\Zooi\MastermindCore6\MastermindCore6\bin\Debug\net6.0-windows\MastermindCore6.runtimeconfig.json
+C:\Users\amje\Desktop\Zooi\MastermindCore6\MastermindCore6\bin\Debug\net6.0-windows\MastermindCore6.dll
+C:\Users\amje\Desktop\Zooi\MastermindCore6\MastermindCore6\bin\Debug\net6.0-windows\MastermindCore6.pdb
+C:\Users\amje\Desktop\Zooi\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\amje\Desktop\Zooi\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MastermindCore6.g.resources
+C:\Users\amje\Desktop\Zooi\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MastermindCore6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amje\Desktop\Zooi\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MastermindCore6.AssemblyInfoInputs.cache
+C:\Users\amje\Desktop\Zooi\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MastermindCore6.AssemblyInfo.cs
+C:\Users\amje\Desktop\Zooi\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MastermindCore6.csproj.CoreCompileInputs.cache
+C:\Users\amje\Desktop\Zooi\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MastermindCore6.dll
+C:\Users\amje\Desktop\Zooi\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\refint\MastermindCore6.dll
+C:\Users\amje\Desktop\Zooi\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MastermindCore6.pdb
+C:\Users\amje\Desktop\Zooi\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MastermindCore6.genruntimeconfig.cache
+C:\Users\amje\Desktop\Zooi\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\ref\MastermindCore6.dll
+C:\School\Leerjaar 2\SDLC 1\Week5\MastermindCore6\MastermindCore6\MastermindCore6\bin\Debug\net6.0-windows\MastermindCore6.exe
+C:\School\Leerjaar 2\SDLC 1\Week5\MastermindCore6\MastermindCore6\MastermindCore6\bin\Debug\net6.0-windows\MastermindCore6.deps.json
+C:\School\Leerjaar 2\SDLC 1\Week5\MastermindCore6\MastermindCore6\MastermindCore6\bin\Debug\net6.0-windows\MastermindCore6.runtimeconfig.json
+C:\School\Leerjaar 2\SDLC 1\Week5\MastermindCore6\MastermindCore6\MastermindCore6\bin\Debug\net6.0-windows\MastermindCore6.dll
+C:\School\Leerjaar 2\SDLC 1\Week5\MastermindCore6\MastermindCore6\MastermindCore6\bin\Debug\net6.0-windows\MastermindCore6.pdb
+C:\School\Leerjaar 2\SDLC 1\Week5\MastermindCore6\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MastermindCore6.csproj.AssemblyReference.cache
+C:\School\Leerjaar 2\SDLC 1\Week5\MastermindCore6\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\School\Leerjaar 2\SDLC 1\Week5\MastermindCore6\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\App.g.cs
+C:\School\Leerjaar 2\SDLC 1\Week5\MastermindCore6\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MastermindCore6_MarkupCompile.cache
+C:\School\Leerjaar 2\SDLC 1\Week5\MastermindCore6\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MastermindCore6_MarkupCompile.lref
+C:\School\Leerjaar 2\SDLC 1\Week5\MastermindCore6\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MainWindow.baml
+C:\School\Leerjaar 2\SDLC 1\Week5\MastermindCore6\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MastermindCore6.g.resources
+C:\School\Leerjaar 2\SDLC 1\Week5\MastermindCore6\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MastermindCore6.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Leerjaar 2\SDLC 1\Week5\MastermindCore6\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MastermindCore6.AssemblyInfoInputs.cache
+C:\School\Leerjaar 2\SDLC 1\Week5\MastermindCore6\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MastermindCore6.AssemblyInfo.cs
+C:\School\Leerjaar 2\SDLC 1\Week5\MastermindCore6\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MastermindCore6.csproj.CoreCompileInputs.cache
+C:\School\Leerjaar 2\SDLC 1\Week5\MastermindCore6\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MastermindCore6.dll
+C:\School\Leerjaar 2\SDLC 1\Week5\MastermindCore6\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\refint\MastermindCore6.dll
+C:\School\Leerjaar 2\SDLC 1\Week5\MastermindCore6\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MastermindCore6.pdb
+C:\School\Leerjaar 2\SDLC 1\Week5\MastermindCore6\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\MastermindCore6.genruntimeconfig.cache
+C:\School\Leerjaar 2\SDLC 1\Week5\MastermindCore6\MastermindCore6\MastermindCore6\obj\Debug\net6.0-windows\ref\MastermindCore6.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d23uF8OZMPqRWptX5RdtvlsmcIeGC61kPFj5sOSw10NatAUHQ4mYvbqVShP7F+kaXHgy5X8oyDp4aYL6nDOoPg==",
+  "success": true,
+  "projectFilePath": "C:\\School\\Leerjaar 2\\SDLC 1\\WpfAppOpdracht2Verhuurbedrijf\\WpfAppOpdracht2Verhuurbedrijf\\WpfAppOpdracht2Verhuurbedrijf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joris\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

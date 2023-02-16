@@ -1,0 +1,80 @@
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers\WpfAppEventhandlers\bin\Debug\WpfAppEventhandlers.exe.config
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers\WpfAppEventhandlers\bin\Debug\WpfAppEventhandlers.exe
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers\WpfAppEventhandlers\bin\Debug\WpfAppEventhandlers.pdb
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.csprojAssemblyReference.cache
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers\WpfAppEventhandlers\obj\Debug\MainWindow.g.cs
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers\WpfAppEventhandlers\obj\Debug\App.g.cs
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers_MarkupCompile.cache
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers_MarkupCompile.lref
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers\WpfAppEventhandlers\obj\Debug\MainWindow.baml
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.g.resources
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.Properties.Resources.resources
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.csproj.GenerateResource.cache
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.exe
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.pdb
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\bin\Debug\WpfAppEventhandlers.exe.config
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\bin\Debug\WpfAppEventhandlers.exe
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\bin\Debug\WpfAppEventhandlers.pdb
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.csprojAssemblyReference.cache
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\MainWindow.g.cs
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\App.g.cs
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers_MarkupCompile.cache
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers_MarkupCompile.lref
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\MainWindow.baml
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.g.resources
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.Properties.Resources.resources
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.csproj.GenerateResource.cache
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.exe
+C:\Programmeren\WPF\_op1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.pdb
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.csproj.AssemblyReference.cache
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\MainWindow.g.cs
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\App.g.cs
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers_MarkupCompile.cache
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers_MarkupCompile.lref
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.exe
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.pdb
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\bin\Debug\WpfAppEventhandlers.exe.config
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\bin\Debug\WpfAppEventhandlers.exe
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\bin\Debug\WpfAppEventhandlers.pdb
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\MainWindow.baml
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.g.resources
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.Properties.Resources.resources
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.csproj.GenerateResource.cache
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.csproj.CoreCompileInputs.cache
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\bin\Debug\WpfAppEventhandlers.exe.config
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\bin\Debug\WpfAppEventhandlers.exe
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\bin\Debug\WpfAppEventhandlers.pdb
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.csproj.AssemblyReference.cache
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\MainWindow.g.cs
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\App.g.cs
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers_MarkupCompile.cache
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers_MarkupCompile.lref
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\MainWindow.baml
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.g.resources
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.Properties.Resources.resources
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.csproj.GenerateResource.cache
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.csproj.CoreCompileInputs.cache
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.exe
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.pdb
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\bin\Debug\WpfAppEventhandlers.exe.config
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\bin\Debug\WpfAppEventhandlers.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\bin\Debug\WpfAppEventhandlers.pdb
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.csproj.AssemblyReference.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\MainWindow.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\App.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers_MarkupCompile.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers_MarkupCompile.lref
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\MainWindow.baml
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.g.resources
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.Properties.Resources.resources
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.csproj.GenerateResource.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.csproj.CoreCompileInputs.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.pdb
+C:\School\Programmeren\Projecten\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.csproj.AssemblyReference.cache
+C:\School\Programmeren\Projecten\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\MainWindow.g.cs
+C:\School\Programmeren\Projecten\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\App.g.cs
+C:\School\Programmeren\Projecten\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers_MarkupCompile.cache
+C:\School\Programmeren\Projecten\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers_MarkupCompile.lref
+C:\School\Programmeren\Projecten\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.exe
+C:\School\Programmeren\Projecten\14 sep 2021 WpfAppEventhandlers_studenten\WpfAppEventhandlers\obj\Debug\WpfAppEventhandlers.pdb

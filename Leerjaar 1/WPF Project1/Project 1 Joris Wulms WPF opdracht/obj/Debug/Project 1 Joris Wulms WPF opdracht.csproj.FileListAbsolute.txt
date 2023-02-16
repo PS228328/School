@@ -1,0 +1,15 @@
+C:\School\WPF Project1\Project 1 Joris Wulms WPF opdracht\bin\Debug\Project 1 Joris Wulms WPF opdracht.exe.config
+C:\School\WPF Project1\Project 1 Joris Wulms WPF opdracht\bin\Debug\Project 1 Joris Wulms WPF opdracht.exe
+C:\School\WPF Project1\Project 1 Joris Wulms WPF opdracht\bin\Debug\Project 1 Joris Wulms WPF opdracht.pdb
+C:\School\WPF Project1\Project 1 Joris Wulms WPF opdracht\obj\Debug\Project 1 Joris Wulms WPF opdracht.csproj.AssemblyReference.cache
+C:\School\WPF Project1\Project 1 Joris Wulms WPF opdracht\obj\Debug\MainWindow.g.cs
+C:\School\WPF Project1\Project 1 Joris Wulms WPF opdracht\obj\Debug\App.g.cs
+C:\School\WPF Project1\Project 1 Joris Wulms WPF opdracht\obj\Debug\Project 1 Joris Wulms WPF opdracht_MarkupCompile.cache
+C:\School\WPF Project1\Project 1 Joris Wulms WPF opdracht\obj\Debug\Project 1 Joris Wulms WPF opdracht_MarkupCompile.lref
+C:\School\WPF Project1\Project 1 Joris Wulms WPF opdracht\obj\Debug\MainWindow.baml
+C:\School\WPF Project1\Project 1 Joris Wulms WPF opdracht\obj\Debug\Project 1 Joris Wulms WPF opdracht.g.resources
+C:\School\WPF Project1\Project 1 Joris Wulms WPF opdracht\obj\Debug\Project_1_Joris_Wulms_WPF_opdracht.Properties.Resources.resources
+C:\School\WPF Project1\Project 1 Joris Wulms WPF opdracht\obj\Debug\Project 1 Joris Wulms WPF opdracht.csproj.GenerateResource.cache
+C:\School\WPF Project1\Project 1 Joris Wulms WPF opdracht\obj\Debug\Project 1 Joris Wulms WPF opdracht.csproj.CoreCompileInputs.cache
+C:\School\WPF Project1\Project 1 Joris Wulms WPF opdracht\obj\Debug\Project 1 Joris Wulms WPF opdracht.exe
+C:\School\WPF Project1\Project 1 Joris Wulms WPF opdracht\obj\Debug\Project 1 Joris Wulms WPF opdracht.pdb

@@ -1,0 +1,15 @@
+C:\School\Funprojecten nieuw\Foreach loops\bin\Debug\Foreach loops.exe.config
+C:\School\Funprojecten nieuw\Foreach loops\bin\Debug\Foreach loops.exe
+C:\School\Funprojecten nieuw\Foreach loops\bin\Debug\Foreach loops.pdb
+C:\School\Funprojecten nieuw\Foreach loops\obj\Debug\Foreach loops.csproj.AssemblyReference.cache
+C:\School\Funprojecten nieuw\Foreach loops\obj\Debug\MainWindow.g.cs
+C:\School\Funprojecten nieuw\Foreach loops\obj\Debug\App.g.cs
+C:\School\Funprojecten nieuw\Foreach loops\obj\Debug\Foreach loops_MarkupCompile.cache
+C:\School\Funprojecten nieuw\Foreach loops\obj\Debug\Foreach loops_MarkupCompile.lref
+C:\School\Funprojecten nieuw\Foreach loops\obj\Debug\MainWindow.baml
+C:\School\Funprojecten nieuw\Foreach loops\obj\Debug\Foreach loops.g.resources
+C:\School\Funprojecten nieuw\Foreach loops\obj\Debug\Foreach_loops.Properties.Resources.resources
+C:\School\Funprojecten nieuw\Foreach loops\obj\Debug\Foreach loops.csproj.GenerateResource.cache
+C:\School\Funprojecten nieuw\Foreach loops\obj\Debug\Foreach loops.csproj.CoreCompileInputs.cache
+C:\School\Funprojecten nieuw\Foreach loops\obj\Debug\Foreach loops.exe
+C:\School\Funprojecten nieuw\Foreach loops\obj\Debug\Foreach loops.pdb

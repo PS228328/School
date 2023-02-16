@@ -1,0 +1,68 @@
+﻿<Window x:Class="Project_1_Joris_Wulms_WPF_opdracht.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project_1_Joris_Wulms_WPF_opdracht"
+        mc:Ignorable="d"
+        Title="Bestelformulier Mario's Pizza" Height="900" Width="1200">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Foto/PizzaWPF.jpg"></ImageBrush>
+        </Grid.Background>
+        <TextBlock Background="White" HorizontalAlignment="Center" VerticalAlignment="Center" Width="1000" Height="700" Opacity="0.65"></TextBlock>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,760,250">
+            <TextBlock Text="Naam" FontSize="20"></TextBlock>
+            <TextBlock Text="Adres" FontSize="20" Margin="0,20,0,0"></TextBlock>
+            <TextBlock Text="Postcode + Plaats" FontSize="20" Margin="0,20,0,0"></TextBlock>
+            <TextBlock x:Name="formaat" Text="Formaat" FontSize="20" Margin="0,100,0,0" Visibility="Hidden"></TextBlock>
+            <TextBlock Text="Aantal" FontSize="20" Margin="0,40,0,0"></TextBlock>
+            <TextBlock Text="Totaalbedrag" FontSize="20" Margin="0,30,0,0"></TextBlock>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,250,500">
+            <TextBox x:Name="Naam" Width="250" FontSize="20"></TextBox>
+            <TextBox x:Name="Adres" Width="250" FontSize="20" Margin="0,20,0,0"></TextBox>
+            <TextBox x:Name="Postcodecijfers" Width="50" FontSize="20" Margin="0,20,0,0" HorizontalAlignment="Left"></TextBox>
+        </StackPanel>
+        <TextBox x:Name="Postcodeletters" Width="30" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,360,403" FontSize="20"></TextBox>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,160,403">
+            <TextBox x:Name="Plaats" Width="160" FontSize="20" HorizontalAlignment="Left"></TextBox>
+        </StackPanel>
+        <ComboBox x:Name="Foodbox" Width="160" Height="30" Margin="0,0,340,290" HorizontalAlignment="Center" VerticalAlignment="Center" SelectionChanged="ComboBox_SelectionChanged" Text="Selecteer gerecht">
+            <ComboBoxItem>Pizza Margarita</ComboBoxItem>
+            <ComboBoxItem>Pizza Napolitana</ComboBoxItem>
+            <ComboBoxItem>Pizza Hawaii</ComboBoxItem>
+            <ComboBoxItem>Pizza Funghi</ComboBoxItem>
+            <ComboBoxItem>Pizza Calzone</ComboBoxItem>
+            <ComboBoxItem>Pizza Peperone</ComboBoxItem>
+            <ComboBoxItem>Pizza Prosciutto</ComboBoxItem>
+            <ComboBoxItem>Pizza Tonno</ComboBoxItem>
+            <ComboBoxItem>Pizza Diavola</ComboBoxItem>
+            <ComboBoxItem>Pizza Quattro Stagoini</ComboBoxItem>
+            <ComboBoxItem>Pizza Frute di Mare</ComboBoxItem>
+            <ComboBoxItem>Macaroni Bolognese</ComboBoxItem>
+            <ComboBoxItem>Farfalle Gorgonzola</ComboBoxItem>
+            <ComboBoxItem>Lasagne Classico</ComboBoxItem>
+            <ComboBoxItem>Fusilli Pesto</ComboBoxItem>
+            <ComboBoxItem>Spaghetti Vongole</ComboBoxItem>
+        </ComboBox>
+        <TextBlock Text="Prijs: €" FontSize="20" Background="Transparent" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,80,290"></TextBlock>
+        <TextBlock x:Name="prijs" Text="0,00" FontSize="20" Background="Transparent" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="25,0,0,290"></TextBlock>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,400,140">
+            <RadioButton x:Name="rb25" TextBlock.TextAlignment="Center" IsChecked="False" Width="80" Height="20" FontSize="12" Visibility="Hidden" Click="rb25_Click">25 cm</RadioButton>
+            <RadioButton x:Name="rb35" TextBlock.TextAlignment="Center" IsChecked="False" Width="80" Height="20" FontSize="12" Visibility="Hidden" Click="rb35_Click">35 cm</RadioButton>
+        </StackPanel>
+        <TextBox x:Name="aantal" Text="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,300,23" Width="200" FontSize="20" TextChanged="aantal_TextChanged"></TextBox>
+        <TextBlock Text="€" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,95,300,0" Width="200" FontSize="20" Background="Transparent"></TextBlock>
+        <TextBlock x:Name="totaal" Text="0,00" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,95,270,0" Width="200" FontSize="20" Background="Transparent"></TextBlock>
+        <Button Content="Toevoegen" Width="150" Height="25" FontSize="14" BorderBrush="Red" BorderThickness="2" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,200,340,0" Click="Button_Click"></Button>
+
+        <TextBlock Background="Transparent" Text="Overzicht" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="400,0,0,605"></TextBlock>
+        <ListBox x:Name="tbOutput" HorizontalAlignment="Center" VerticalAlignment="Center" Background="White" Opacity="0.7" Width="310" Height="450" Margin="630,0,0,80" FontSize="15" FontWeight="Bold" MouseDoubleClick="tbOutput_MouseDoubleClick"></ListBox>
+        <TextBlock Background="Transparent" Text="Totaal: €" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="770,430,0,0"></TextBlock>
+        <TextBlock x:Name="subtotaals" Background="Transparent" Text="0,00" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="900,430,0,0"></TextBlock>
+        <Button Width="310" Height="30" Content="Betalen" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="630,500,0,0" BorderBrush="Red" BorderThickness="2" Click="Button_Click_1"></Button>
+        <TextBlock x:Name="aanbieding" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Pizza's van 25 cm kosten 70% van de normale prijs" Margin="0,0,0,150" FontSize="14" Visibility="Hidden"></TextBlock>
+        <Button x:Name="delete" Content="Verwijder alle maaltijden" Visibility="Visible" Width="250" Height="50" FontSize="20" FontWeight="Bold" FontStyle="Italic" Background="Red" Click="delete_Click" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,500,500,0"></Button>
+    </Grid>
+</Window>

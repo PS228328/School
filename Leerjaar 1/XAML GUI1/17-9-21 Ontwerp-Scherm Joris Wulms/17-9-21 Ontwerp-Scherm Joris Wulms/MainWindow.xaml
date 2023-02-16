@@ -1,0 +1,13 @@
+﻿<Window x:Class="_17_9_21_Ontwerp_Scherm_Joris_Wulms.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_17_9_21_Ontwerp_Scherm_Joris_Wulms"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="Control1" Width="150" Height="150" HorizontalAlignment="Left" Background="LightYellow" Content="Klik mij!" FontSize="30" FontWeight="Bold" Click="Control1_Click"></Button>
+        <TextBlock x:Name="Control2" Text="Selecteer mij" HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="30" FontWeight="Bold" Cursor="Hand"></TextBlock>
+    </Grid>
+</Window>

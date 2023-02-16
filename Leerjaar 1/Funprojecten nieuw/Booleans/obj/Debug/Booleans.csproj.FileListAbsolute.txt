@@ -1,0 +1,15 @@
+C:\School\Funprojecten nieuw\Booleans\bin\Debug\Booleans.exe.config
+C:\School\Funprojecten nieuw\Booleans\bin\Debug\Booleans.exe
+C:\School\Funprojecten nieuw\Booleans\bin\Debug\Booleans.pdb
+C:\School\Funprojecten nieuw\Booleans\obj\Debug\Booleans.csproj.AssemblyReference.cache
+C:\School\Funprojecten nieuw\Booleans\obj\Debug\MainWindow.g.cs
+C:\School\Funprojecten nieuw\Booleans\obj\Debug\App.g.cs
+C:\School\Funprojecten nieuw\Booleans\obj\Debug\Booleans_MarkupCompile.cache
+C:\School\Funprojecten nieuw\Booleans\obj\Debug\Booleans_MarkupCompile.lref
+C:\School\Funprojecten nieuw\Booleans\obj\Debug\MainWindow.baml
+C:\School\Funprojecten nieuw\Booleans\obj\Debug\Booleans.g.resources
+C:\School\Funprojecten nieuw\Booleans\obj\Debug\Booleans.Properties.Resources.resources
+C:\School\Funprojecten nieuw\Booleans\obj\Debug\Booleans.csproj.GenerateResource.cache
+C:\School\Funprojecten nieuw\Booleans\obj\Debug\Booleans.csproj.CoreCompileInputs.cache
+C:\School\Funprojecten nieuw\Booleans\obj\Debug\Booleans.exe
+C:\School\Funprojecten nieuw\Booleans\obj\Debug\Booleans.pdb

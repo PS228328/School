@@ -1,0 +1,213 @@
+﻿<Window x:Class="Portfolio_opdracht_Panels_XAML_Joris_Wulms.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Portfolio_opdracht_Panels_XAML_Joris_Wulms"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="EU-achtergrond/EU background.jpg" Opacity="0.6"></ImageBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="15" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="15" />
+            <ColumnDefinition Width="1.5*" />
+            <ColumnDefinition Width="1.5*" />
+            <ColumnDefinition Width="15" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition Height="4*"></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="70"></RowDefinition>
+        </Grid.RowDefinitions>
+        <ComboBox x:Name="myCombobox" Grid.Row="1" Grid.Column="1" Height="30" SelectionChanged="myCombobox_SelectionChanged">
+            <ComboBoxItem x:Name="Belgie">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Belgiefoto" Source="Countries/Belgie.png" Width="30"></Image>
+                    <TextBlock Text=" Belgie"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Bulgarije">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Bulgarijefoto" Source="Countries/Bulgarije.png" Width="30"></Image>
+                    <TextBlock Text=" Bulgarije"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Cyprus">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Cyprusfoto" Source="Countries/Cyprus.png" Width="30"></Image>
+                    <TextBlock Text=" Cyprus"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Denemarken">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Countries/Denemarken.png" Width="30"></Image>
+                    <TextBlock Text=" Denemarken"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Duitsland">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Duitslandfoto" Source="Countries/Duitsland.png" Width="30"></Image>
+                    <TextBlock Text=" Duitsland"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Estland">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Estlandfoto" Source="Countries/Estland.png" Width="30"></Image>
+                    <TextBlock Text=" Estland"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Finland">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Finlandfoto" Source="Countries/Finland.png" Width="30"></Image>
+                    <TextBlock Text=" Finland"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Frankrijk">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Frankrijkfoto" Source="Countries/Frankrijk.png" Width="30"></Image>
+                    <TextBlock Text=" Frankrijk"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Griekenland">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Griekenlandfoto" Source="Countries/Griekenland.png" Width="30"></Image>
+                    <TextBlock Text=" Griekenland"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Hongarije">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Hongarijefoto" Source="Countries/Hongarije.png" Width="30"></Image>
+                    <TextBlock Text=" Hongarije"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Ierland">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Ierlandfoto" Source="Countries/Ierland.png" Width="30"></Image>
+                    <TextBlock Text=" Ierland"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Italie">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Italiefoto" Source="Countries/Italie.png" Width="30"></Image>
+                    <TextBlock Text=" Italie"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Kroatie">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Kroatiefoto" Source="Countries/Kroatie.png" Width="30"></Image>
+                    <TextBlock Text=" Kroatie"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Letland">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Letlandfoto" Source="Countries/Letland.png" Width="30"></Image>
+                    <TextBlock Text=" Letland"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Litouwen">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Litouwenfoto" Source="Countries/Litouwen.png" Width="30"></Image>
+                    <TextBlock Text=" Litouwen"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Luxemburg">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Luxemburgfoto" Source="Countries/Luxemburg.png" Width="30"></Image>
+                    <TextBlock Text=" Luxemburg"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Malta">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Maltafoto" Source="Countries/Malta.png" Width="30"></Image>
+                    <TextBlock Text=" Malta"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Nederland">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Nederlandfoto" Source="Countries/Nederland.png" Width="30"></Image>
+                    <TextBlock Text=" Nederland"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Oostenrijk">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Oostenrijkfoto" Source="Countries/Oostenrijk.png" Width="30"></Image>
+                    <TextBlock Text=" Oostenrijk"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Polen">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Polenfoto" Source="Countries/Polen.png" Width="30"></Image>
+                    <TextBlock Text=" Polen"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Portugal">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Portugalfoto" Source="Countries/Portugal.png" Width="30"></Image>
+                    <TextBlock Text=" Portugal"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Roemenie">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Roemeniefoto" Source="Countries/Roemenie.png" Width="30"></Image>
+                    <TextBlock Text=" Roemenie"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Slovenie">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Sloveniefoto" Source="Countries/Slovenie.png" Width="30"></Image>
+                    <TextBlock Text=" Slovenie"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Slowakije">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Slowakijefoto" Source="Countries/Slowakije.png" Width="30"></Image>
+                    <TextBlock Text=" Slowakije"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Spanje">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Spanjefoto" Source="Countries/Spanje.png" Width="30"></Image>
+                    <TextBlock Text=" Spanje"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="Tsjechie">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="Tsjechiefoto" Source="Countries/Tsjechie.png" Width="30"></Image>
+                    <TextBlock Text=" Tsjechie"></TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+        </ComboBox>
+        <TextBlock Grid.Row="3" Grid.Column="1" Text="Stackpanel"></TextBlock>
+        <TextBlock Grid.Row="5" Grid.Column="1" Text="Wrappanel"></TextBlock>
+        <TextBlock Grid.Row="7" Grid.Column="1" Text="Docpanel"></TextBlock>
+        <Button Grid.Row="9" Grid.Column="1" Background="Brown" Content="Hallo" Click="Button_Click"></Button>
+        <ComboBox x:Name="sidechoser" Grid.Row="9" Grid.Column="3">
+            <ComboBoxItem>Left</ComboBoxItem>
+            <ComboBoxItem>Right</ComboBoxItem>
+            <ComboBoxItem>Top</ComboBoxItem>
+            <ComboBoxItem>Bottom</ComboBoxItem>
+        </ComboBox>
+        <TextBlock Grid.Row="1" Grid.Column="3" Background="LightGray" Grid.ColumnSpan="2">
+            <StackPanel x:Name="myFlagsPanel" Orientation="Horizontal">
+            </StackPanel>
+        </TextBlock>
+        <TextBlock Grid.Row="3" Grid.Column="3" Background="Red" Grid.ColumnSpan="2">
+            <StackPanel x:Name="myStackpanel" Orientation="Horizontal">
+            </StackPanel>
+        </TextBlock>
+        <WrapPanel x:Name="myWrappanel" Grid.Row="5" Grid.Column="3" Background="LightGreen" Grid.ColumnSpan="2"></WrapPanel>
+        <DockPanel x:Name="myDockpanel" Grid.Row="7" Grid.Column="3" Background="LightGray" Grid.ColumnSpan="2"></DockPanel>
+    </Grid>
+</Window>

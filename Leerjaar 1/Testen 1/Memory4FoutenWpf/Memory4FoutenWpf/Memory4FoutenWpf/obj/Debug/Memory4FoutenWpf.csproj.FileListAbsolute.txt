@@ -1,0 +1,45 @@
+c:\users\amje\documents\visual studio 2017\Projects\Memory4FoutenWpf\Memory4FoutenWpf\bin\Debug\Memory4FoutenWpf.exe.config
+c:\users\amje\documents\visual studio 2017\Projects\Memory4FoutenWpf\Memory4FoutenWpf\bin\Debug\Memory4FoutenWpf.exe
+c:\users\amje\documents\visual studio 2017\Projects\Memory4FoutenWpf\Memory4FoutenWpf\bin\Debug\Memory4FoutenWpf.pdb
+c:\users\amje\documents\visual studio 2017\Projects\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf.csprojResolveAssemblyReference.cache
+c:\users\amje\documents\visual studio 2017\Projects\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\MainWindow.g.cs
+c:\users\amje\documents\visual studio 2017\Projects\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\App.g.cs
+c:\users\amje\documents\visual studio 2017\Projects\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf_MarkupCompile.cache
+c:\users\amje\documents\visual studio 2017\Projects\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf_MarkupCompile.lref
+c:\users\amje\documents\visual studio 2017\Projects\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\MainWindow.baml
+c:\users\amje\documents\visual studio 2017\Projects\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf.g.resources
+c:\users\amje\documents\visual studio 2017\Projects\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf.Properties.Resources.resources
+c:\users\amje\documents\visual studio 2017\Projects\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf.csproj.GenerateResource.Cache
+c:\users\amje\documents\visual studio 2017\Projects\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf.csproj.CoreCompileInputs.cache
+c:\users\amje\documents\visual studio 2017\Projects\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf.exe
+c:\users\amje\documents\visual studio 2017\Projects\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf.pdb
+C:\Users\amje\Desktop\Bibliotheek\CursusTestModule\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\bin\Debug\Memory4FoutenWpf.exe.config
+C:\Users\amje\Desktop\Bibliotheek\CursusTestModule\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\bin\Debug\Memory4FoutenWpf.exe
+C:\Users\amje\Desktop\Bibliotheek\CursusTestModule\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\bin\Debug\Memory4FoutenWpf.pdb
+C:\Users\amje\Desktop\Bibliotheek\CursusTestModule\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf.csprojAssemblyReference.cache
+C:\Users\amje\Desktop\Bibliotheek\CursusTestModule\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\MainWindow.g.cs
+C:\Users\amje\Desktop\Bibliotheek\CursusTestModule\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\App.g.cs
+C:\Users\amje\Desktop\Bibliotheek\CursusTestModule\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf_MarkupCompile.cache
+C:\Users\amje\Desktop\Bibliotheek\CursusTestModule\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf_MarkupCompile.lref
+C:\Users\amje\Desktop\Bibliotheek\CursusTestModule\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\MainWindow.baml
+C:\Users\amje\Desktop\Bibliotheek\CursusTestModule\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf.g.resources
+C:\Users\amje\Desktop\Bibliotheek\CursusTestModule\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf.Properties.Resources.resources
+C:\Users\amje\Desktop\Bibliotheek\CursusTestModule\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf.csproj.GenerateResource.cache
+C:\Users\amje\Desktop\Bibliotheek\CursusTestModule\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf.csproj.CoreCompileInputs.cache
+C:\Users\amje\Desktop\Bibliotheek\CursusTestModule\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf.exe
+C:\Users\amje\Desktop\Bibliotheek\CursusTestModule\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf.pdb
+C:\School\Testen 1\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\bin\Debug\Memory4FoutenWpf.exe.config
+C:\School\Testen 1\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\bin\Debug\Memory4FoutenWpf.exe
+C:\School\Testen 1\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\bin\Debug\Memory4FoutenWpf.pdb
+C:\School\Testen 1\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf.csproj.AssemblyReference.cache
+C:\School\Testen 1\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\MainWindow.g.cs
+C:\School\Testen 1\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\App.g.cs
+C:\School\Testen 1\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf_MarkupCompile.cache
+C:\School\Testen 1\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf_MarkupCompile.lref
+C:\School\Testen 1\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\MainWindow.baml
+C:\School\Testen 1\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf.g.resources
+C:\School\Testen 1\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf.Properties.Resources.resources
+C:\School\Testen 1\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf.csproj.GenerateResource.cache
+C:\School\Testen 1\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf.csproj.CoreCompileInputs.cache
+C:\School\Testen 1\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf.exe
+C:\School\Testen 1\Memory4FoutenWpf\Memory4FoutenWpf\Memory4FoutenWpf\obj\Debug\Memory4FoutenWpf.pdb

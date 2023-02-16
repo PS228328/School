@@ -1,0 +1,41 @@
+C:\Programmeren\WPF\_op1\WpfAppWhile_uitw\WpfAppWhile\WpfAppWhile\bin\Debug\Assets\While.jpg
+C:\Programmeren\WPF\_op1\WpfAppWhile_uitw\WpfAppWhile\WpfAppWhile\bin\Debug\WpfAppWhile.exe.config
+C:\Programmeren\WPF\_op1\WpfAppWhile_uitw\WpfAppWhile\WpfAppWhile\bin\Debug\WpfAppWhile.exe
+C:\Programmeren\WPF\_op1\WpfAppWhile_uitw\WpfAppWhile\WpfAppWhile\bin\Debug\WpfAppWhile.pdb
+C:\Programmeren\WPF\_op1\WpfAppWhile_uitw\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile.csprojAssemblyReference.cache
+C:\Programmeren\WPF\_op1\WpfAppWhile_uitw\WpfAppWhile\WpfAppWhile\obj\Debug\MainWindow.g.cs
+C:\Programmeren\WPF\_op1\WpfAppWhile_uitw\WpfAppWhile\WpfAppWhile\obj\Debug\App.g.cs
+C:\Programmeren\WPF\_op1\WpfAppWhile_uitw\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile_Content.g.cs
+C:\Programmeren\WPF\_op1\WpfAppWhile_uitw\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile_MarkupCompile.cache
+C:\Programmeren\WPF\_op1\WpfAppWhile_uitw\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile_MarkupCompile.lref
+C:\Programmeren\WPF\_op1\WpfAppWhile_uitw\WpfAppWhile\WpfAppWhile\obj\Debug\MainWindow.baml
+C:\Programmeren\WPF\_op1\WpfAppWhile_uitw\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile.g.resources
+C:\Programmeren\WPF\_op1\WpfAppWhile_uitw\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile.Properties.Resources.resources
+C:\Programmeren\WPF\_op1\WpfAppWhile_uitw\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile.csproj.GenerateResource.cache
+C:\Programmeren\WPF\_op1\WpfAppWhile_uitw\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile.exe
+C:\Programmeren\WPF\_op1\WpfAppWhile_uitw\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile.pdb
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\2_ 28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\bin\Debug\Assets\While.jpg
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\2_ 28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\bin\Debug\WpfAppWhile.exe.config
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\2_ 28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\bin\Debug\WpfAppWhile.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\2_ 28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\bin\Debug\WpfAppWhile.pdb
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\2_ 28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile.csproj.AssemblyReference.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\2_ 28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\obj\Debug\MainWindow.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\2_ 28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\obj\Debug\App.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\2_ 28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile_Content.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\2_ 28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile_MarkupCompile.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\2_ 28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile_MarkupCompile.lref
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\2_ 28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\obj\Debug\MainWindow.baml
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\2_ 28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile.g.resources
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\2_ 28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile.Properties.Resources.resources
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\2_ 28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile.csproj.GenerateResource.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\2_ 28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile.csproj.CoreCompileInputs.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\2_ 28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\2_ 28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile.pdb
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile.csproj.AssemblyReference.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\obj\Debug\MainWindow.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\obj\Debug\App.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile_Content.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile_MarkupCompile.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile_MarkupCompile.lref
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\28 sep 2021 WpfAppWhile_studenten\WpfAppWhile_studenten\WpfAppWhile\WpfAppWhile\obj\Debug\WpfAppWhile.pdb

@@ -1,0 +1,89 @@
+﻿<Window x:Class="Catan_vierkanten.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Catan_vierkanten"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1080" Width="1920">
+    <Grid Background="LightBlue">
+        <Button Width="150" Height="50" Margin="0,0,0,90" Click="roll_Click" HorizontalAlignment="Right" VerticalAlignment="Bottom" FontSize="20" FontWeight="Bold">Roll dice</Button>
+        <Button Width="160" Height="80" HorizontalAlignment="Right" VerticalAlignment="Bottom" Background="White"></Button>
+        <Image x:Name="block11" Source="Dobbelstenen1/1.jpg" Visibility="Hidden" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="70"></Image>
+        <Image x:Name="block12" Source="Dobbelstenen1/2.jpg" Visibility="Hidden" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="70"></Image>
+        <Image x:Name="block13" Source="Dobbelstenen1/3.jpg" Visibility="Hidden" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="70"></Image>
+        <Image x:Name="block14" Source="Dobbelstenen1/4.jpg" Visibility="Hidden" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="70"></Image>
+        <Image x:Name="block15" Source="Dobbelstenen1/5.jpg" Visibility="Hidden" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="70"></Image>
+        <Image x:Name="block16" Source="Dobbelstenen1/6.jpg" Visibility="Hidden" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="70"></Image>
+        <Image x:Name="block21" Source="Dobbelstenen2/1.jpg" Visibility="Hidden" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="70" Margin="0,0,80,0"></Image>
+        <Image x:Name="block22" Source="Dobbelstenen2/2.jpg" Visibility="Hidden" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="70" Margin="0,0,80,0"></Image>
+        <Image x:Name="block23" Source="Dobbelstenen2/3.jpg" Visibility="Hidden" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="70" Margin="0,0,80,0"></Image>
+        <Image x:Name="block24" Source="Dobbelstenen2/4.jpg" Visibility="Hidden" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="70" Margin="0,0,80,0"></Image>
+        <Image x:Name="block25" Source="Dobbelstenen2/5.jpg" Visibility="Hidden" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="70" Margin="0,0,80,0"></Image>
+        <Image x:Name="block26" Source="Dobbelstenen2/6.jpg" Visibility="Hidden" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="70" Margin="0,0,80,0"></Image>
+
+
+        <Button x:Name="desert" Width="100" Height="50" Background="LightYellow" Click="desert_Click"></Button>
+        <Button x:Name="wood3" Width="100" Height="50" Background="DarkGreen" Margin="200,0,0,0"></Button>
+        <Button x:Name="wood11" Width="100" Height="50" Background="Darkgreen" Margin="0,0,200,0"></Button>
+        <Button x:Name="ore8" Width="100" Height="50" Background="LightGray" Margin="400,0,0,0"></Button>
+        <Button x:Name="wheat9" Width="100" Height="50" Background="Yellow" Margin="0,0,400,0"></Button>
+        <Button x:Name="sheep4" Width="100" Height="50" Background="LightGreen" Margin="100,0,0,100"></Button>
+        <Button x:Name="brick10" Width="100" Height="50" Background="RosyBrown" Margin="300,0,0,100"></Button>
+        <Button x:Name="wheat4" Width="100" Height="50" Background="Yellow" Margin="100,100,0,0"></Button>
+        <Button x:Name="sheep5" Width="100" Height="50" Background="Lightgreen" Margin="300,100,0,0"></Button>
+        <Button x:Name="brick6" Width="100" Height="50" Background="RosyBrown" Margin="0,0,100,100"></Button>
+        <Button x:Name="wheat12" Width="100" Height="50" Background="Yellow" Margin="0,0,300,100"></Button>
+        <Button x:Name="ore3" Width="100" Height="50" Background="LightGray" Margin="0,100,100,0"></Button>
+        <Button x:Name="wood8" Width="100" Height="50" Background="DarkGreen" Margin="0,100,300,0"></Button>
+        <Button x:Name="wheat6" Width="100" Height="50" Background="Yellow" Margin="0,200,0,0"></Button>
+        <Button x:Name="ore10" Width="100" Height="50" Background="LightGray" Margin="0,0,200,200"></Button>
+        <Button x:Name="brick5" Width="100" Height="50" Background="RosyBrown" Margin="0,200,200,0"></Button>
+        <Button x:Name="sheep11" Width="100" Height="50" Background="LightGreen" Margin="200,200,0,0"></Button>
+        <Button x:Name="wood9" Width="100" Height="50" Background="DarkGreen" Margin="200,0,0,200"></Button>
+        <Button x:Name="sheep2" Width="100" Height="50" Background="LightGreen" Margin="0,0,0,200"></Button>
+        <TextBlock x:Name="ore3block" Width="30" Height="30" Margin="0,100,100,0" Background="White" TextAlignment="Center" FontSize="11" FontWeight="Bold">3</TextBlock>
+        <TextBlock x:Name="wood11block" Width="30" Height="30" Margin="0,0,200,0" Background="White" TextAlignment="Center" FontSize="11" FontWeight="Bold">11</TextBlock>
+        <TextBlock x:Name="brick6block" Width="30" Height="30" Margin="0,0,100,100" Background="White" TextAlignment="Center" FontSize="20" FontWeight="Bold" Foreground="red">6</TextBlock>
+        <TextBlock x:Name="sheep4block" Width="30" Height="30" Margin="100,0,0,100" Background="White" TextAlignment="Center" FontSize="14" FontWeight="Bold">4</TextBlock>
+        <TextBlock x:Name="wood3block" Width="30" Height="30" Margin="200,0,0,0" Background="White" TextAlignment="Center" FontSize="11" FontWeight="Bold">3</TextBlock>
+        <TextBlock x:Name="wheat4block" Width="30" Height="30" Margin="100,100,0,0" Background="White" TextAlignment="Center" FontSize="14" FontWeight="Bold">4</TextBlock>
+        <TextBlock x:Name="wheat6block" Width="30" Height="30" Margin="0,200,0,0" Background="White" TextAlignment="Center" FontSize="20" FontWeight="Bold" Foreground="Red">6</TextBlock>
+        <TextBlock x:Name="brick5block" Width="30" Height="30" Margin="0,200,200,0" Background="White" TextAlignment="Center" FontSize="18" FontWeight="Bold">5</TextBlock>
+        <TextBlock x:Name="wood8block" Width="30" Height="30" Margin="0,100,300,0" Background="White" TextAlignment="Center" FontSize="20" FontWeight="Bold" Foreground="Red">8</TextBlock>
+        <TextBlock x:Name="wheat9block" Width="30" Height="30" Margin="0,0,400,0" Background="White" TextAlignment="Center" FontSize="17" FontWeight="Bold">9</TextBlock>
+        <TextBlock x:Name="wheat12block" Width="30" Height="30" Margin="0,0,300,100" Background="White" TextAlignment="Center" FontSize="9" FontWeight="Bold">12</TextBlock>
+        <TextBlock x:Name="ore10block" Width="30" Height="30" Margin="0,0,200,200" Background="White" TextAlignment="Center" FontSize="14" FontWeight="Bold">10</TextBlock>
+        <TextBlock x:Name="sheep2block" Width="30" Height="30" Margin="0,0,0,200" Background="White" TextAlignment="Center" FontSize="9" FontWeight="Bold">2</TextBlock>
+        <TextBlock x:Name="wood9block" Width="30" Height="30" Margin="200,0,0,200" Background="White" TextAlignment="Center" FontSize="17" FontWeight="Bold">9</TextBlock>
+        <TextBlock x:Name="brick10block" Width="30" Height="30" Margin="300,0,0,100" Background="White" TextAlignment="Center" FontSize="14" FontWeight="Bold">10</TextBlock>
+        <TextBlock x:Name="ore8block" Width="30" Height="30" Margin="400,0,0,0" Background="White" TextAlignment="Center" FontSize="20" FontWeight="Bold" Foreground="Red">8</TextBlock>
+        <TextBlock x:Name="sheep5block" Width="30" Height="30" Margin="300,100,0,0" Background="White" TextAlignment="Center" FontSize="17" FontWeight="Bold">5</TextBlock>
+        <TextBlock x:Name="sheep11block" Width="30" Height="30" Margin="200,200,0,0" Background="White" TextAlignment="Center" FontSize="11" FontWeight="Bold">11</TextBlock>
+        <TextBlock x:Name="Robber" Background="black" Width="20" Height="30" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+        <TextBlock Width="10" Height="20" Background="Brown" Margin="0,0,290,270"></TextBlock>
+        <TextBlock Background="Beige" Width="40" Height="20" Margin="0,0,245,270" Text="3:1" TextAlignment="Center"></TextBlock>
+        <TextBlock Width="10" Height="20" Background="Brown" Margin="0,0,200,270"></TextBlock>
+        <TextBlock Width="10" Height="20" Background="Brown" Margin="0,0,0,270"></TextBlock>
+        <TextBlock Background="Beige" Width="40" Height="20" Margin="45,0,0,270" Text="2:1 wheat" TextAlignment="Center" FontSize="7"></TextBlock>
+        <TextBlock Width="10" Height="20" Background="Brown" Margin="90,0,0,270"></TextBlock>
+        <TextBlock Width="10" Height="20" Background="Brown" Margin="300,0,0,170"></TextBlock>
+        <TextBlock Background="Beige" Width="40" Height="20" Margin="345,0,0,170" Text="2:1 ore" TextAlignment="Center" FontSize="7"></TextBlock>
+        <TextBlock Width="10" Height="20" Background="Brown" Margin="390,0,0,170"></TextBlock>
+        <TextBlock Width="20" Height="10" Background="Brown" Margin="520,40,0,0"></TextBlock>
+        <TextBlock Background="Beige" Width="40" Height="20" Margin="520,0,0,0" Text="3:1" TextAlignment="Center" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock Width="20" Height="10" Background="Brown" Margin="520,0,0,40"></TextBlock>
+        <TextBlock Width="10" Height="20" Background="Brown" Margin="1102,600,801.6,430.4"></TextBlock>
+        <TextBlock Background="Beige" Width="40" Height="20" Margin="345,170,0,0" Text="2:1 sheep" TextAlignment="Center" FontSize="7"></TextBlock>
+        <TextBlock Width="10" Height="20" Background="Brown" Margin="390,170,0,0"></TextBlock>
+    </Grid>
+</Window>

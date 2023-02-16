@@ -1,0 +1,15 @@
+C:\School\Funprojecten nieuw\SimplePlaying\bin\Debug\SimplePlaying.exe.config
+C:\School\Funprojecten nieuw\SimplePlaying\bin\Debug\SimplePlaying.exe
+C:\School\Funprojecten nieuw\SimplePlaying\bin\Debug\SimplePlaying.pdb
+C:\School\Funprojecten nieuw\SimplePlaying\obj\Debug\SimplePlaying.csproj.AssemblyReference.cache
+C:\School\Funprojecten nieuw\SimplePlaying\obj\Debug\MainWindow.g.cs
+C:\School\Funprojecten nieuw\SimplePlaying\obj\Debug\App.g.cs
+C:\School\Funprojecten nieuw\SimplePlaying\obj\Debug\SimplePlaying_MarkupCompile.cache
+C:\School\Funprojecten nieuw\SimplePlaying\obj\Debug\SimplePlaying_MarkupCompile.lref
+C:\School\Funprojecten nieuw\SimplePlaying\obj\Debug\MainWindow.baml
+C:\School\Funprojecten nieuw\SimplePlaying\obj\Debug\SimplePlaying.g.resources
+C:\School\Funprojecten nieuw\SimplePlaying\obj\Debug\SimplePlaying.Properties.Resources.resources
+C:\School\Funprojecten nieuw\SimplePlaying\obj\Debug\SimplePlaying.csproj.GenerateResource.cache
+C:\School\Funprojecten nieuw\SimplePlaying\obj\Debug\SimplePlaying.csproj.CoreCompileInputs.cache
+C:\School\Funprojecten nieuw\SimplePlaying\obj\Debug\SimplePlaying.exe
+C:\School\Funprojecten nieuw\SimplePlaying\obj\Debug\SimplePlaying.pdb

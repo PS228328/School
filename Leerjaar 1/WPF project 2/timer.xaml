@@ -1,0 +1,31 @@
+﻿<Window x:Class="WPF_project_2.timer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_project_2"
+        mc:Ignorable="d"
+        Title="timer" Height="450" Width="800">
+    <Grid Background="Black">
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock x:Name="tbHours" Width="80" Height="80" Foreground="White" FontSize="55" FontWeight="Bold" TextAlignment="Center">00</TextBlock>
+            <TextBlock Width="20" Height="80" Foreground="White" FontSize="55" FontWeight="Bold" TextAlignment="Center">:</TextBlock>
+            <TextBlock x:Name="tbMinutes" Width="80" Height="80" Foreground="White" FontSize="55" FontWeight="Bold" TextAlignment="Center">00</TextBlock>
+            <TextBlock Width="20" Height="80" Foreground="White" FontSize="55" FontWeight="Bold" TextAlignment="Center">:</TextBlock>
+            <TextBlock x:Name="tbSeconds" Width="80" Height="80" Foreground="White" FontSize="55" FontWeight="Bold" TextAlignment="Center">00</TextBlock>
+        </StackPanel>
+        <StackPanel Visibility="Hidden" x:Name="spInfo" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,250">
+            <TextBlock Width="50" Foreground="White">Hours:</TextBlock>
+            <TextBlock Width="50" Foreground="White">Minutes:</TextBlock>
+            <TextBlock Width="50" Foreground="White">Seconds:</TextBlock>
+        </StackPanel>
+        <StackPanel Visibility="Hidden" x:Name="spInput" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,200">
+            <TextBox Width="50" x:Name="tbInputh" FontSize="12" TextAlignment="Center"></TextBox>
+            <TextBox Width="50" x:Name="tbInputm" FontSize="12" TextAlignment="Center"></TextBox>
+            <TextBox Width="50" x:Name="tbInputs" FontSize="12" TextAlignment="Center"></TextBox>
+        </StackPanel>
+        <Button x:Name="btSetTime" Click="btSetTime_Click" VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="0,0,0,110" Width="120" Height="40" Background="Blue" FontWeight="Bold" FontSize="20">Set time</Button>
+        <Button x:Name="btSetTimeManual" Click="btSetTimeManual_Click" VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="0,0,0,50" Width="120" Height="40" Background="Blue" FontWeight="Bold" FontSize="20">Set manual</Button>
+        <Button Visibility="Hidden" x:Name="btSetTimeStop" Click="btSetTimeStop_Click" VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="0,0,0,50" Width="120" Height="40" Background="Blue" FontWeight="Bold" FontSize="20">Stop</Button>
+    </Grid>
+</Window>

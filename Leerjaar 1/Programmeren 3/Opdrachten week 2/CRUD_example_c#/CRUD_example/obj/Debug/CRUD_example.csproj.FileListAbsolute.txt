@@ -1,0 +1,220 @@
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\CRUD_example.exe.config
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\CRUD_example.exe
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\CRUD_example.pdb
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\Google.Protobuf.dll
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\MySql.Data.dll
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\Renci.SshNet.dll
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\System.Buffers.dll
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\System.Memory.dll
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\Zstandard.Net.dll
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\Google.Protobuf.pdb
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\Google.Protobuf.xml
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\MySql.Data.xml
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\Renci.SshNet.xml
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\System.Buffers.xml
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\System.Memory.xml
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\obj\Debug\CRUD_example.csprojAssemblyReference.cache
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\obj\Debug\Create.g.cs
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\obj\Debug\Edit.g.cs
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\obj\Debug\MainWindow.g.cs
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\obj\Debug\App.g.cs
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\obj\Debug\CRUD_example_MarkupCompile.cache
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\obj\Debug\CRUD_example_MarkupCompile.lref
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\obj\Debug\Create.baml
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\obj\Debug\Edit.baml
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\obj\Debug\MainWindow.baml
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\obj\Debug\CRUD_example.g.resources
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\obj\Debug\CRUD_example.Properties.Resources.resources
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\obj\Debug\CRUD_example.csproj.GenerateResource.cache
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\obj\Debug\CRUD_example.csproj.CoreCompileInputs.cache
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\obj\Debug\CRUD_example.csproj.CopyComplete
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\obj\Debug\CRUD_example.exe
+C:\Users\keei\source\repos\CRUD_example\CRUD_example\obj\Debug\CRUD_example.pdb
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\CRUD_example.exe.config
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\CRUD_example.exe
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\CRUD_example.pdb
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\Google.Protobuf.dll
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\MySql.Data.dll
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\Renci.SshNet.dll
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\System.Buffers.dll
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\System.Memory.dll
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\Zstandard.Net.dll
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\Google.Protobuf.pdb
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\Google.Protobuf.xml
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\MySql.Data.xml
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\Renci.SshNet.xml
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\System.Buffers.xml
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\System.Memory.xml
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.csprojAssemblyReference.cache
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\Create.g.cs
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\Edit.g.cs
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\MainWindow.g.cs
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\App.g.cs
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example_MarkupCompile.cache
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example_MarkupCompile.lref
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\Create.baml
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\Edit.baml
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\MainWindow.baml
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.g.resources
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.Properties.Resources.resources
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.csproj.GenerateResource.cache
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.csproj.CoreCompileInputs.cache
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.csproj.CopyComplete
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.exe
+C:\Users\MRMR\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.pdb
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\CRUD_example.exe.config
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\CRUD_example.exe
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\CRUD_example.pdb
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\Google.Protobuf.dll
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\MySql.Data.dll
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\Renci.SshNet.dll
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\System.Buffers.dll
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\System.Memory.dll
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\Zstandard.Net.dll
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\Google.Protobuf.pdb
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\Google.Protobuf.xml
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\MySql.Data.xml
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\Renci.SshNet.xml
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\System.Buffers.xml
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\System.Memory.xml
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.csprojAssemblyReference.cache
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\Create.g.cs
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\Edit.g.cs
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\MainWindow.g.cs
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\App.g.cs
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example_MarkupCompile.cache
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example_MarkupCompile.lref
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\Create.baml
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\Edit.baml
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\MainWindow.baml
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.g.resources
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.Properties.Resources.resources
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.csproj.GenerateResource.cache
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.csproj.CoreCompileInputs.cache
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.csproj.CopyComplete
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.exe
+C:\Users\vsja\Summacollege\SummaICT-AO - Onderwijsontwikkeling\Leerjaar 1\Programmeren-3\CRUD_example\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.pdb
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\CRUD_example.exe.config
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\CRUD_example.exe
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\CRUD_example.pdb
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\BouncyCastle.Crypto.dll
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\Google.Protobuf.dll
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\K4os.Compression.LZ4.dll
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\K4os.Hash.xxHash.dll
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\MySql.Data.dll
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\Renci.SshNet.dll
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\System.Buffers.dll
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\System.Memory.dll
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\System.Numerics.Vectors.dll
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\Ubiety.Dns.Core.dll
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\Zstandard.Net.dll
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\Google.Protobuf.pdb
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\Google.Protobuf.xml
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\K4os.Compression.LZ4.xml
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\K4os.Hash.xxHash.xml
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\MySql.Data.xml
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\Renci.SshNet.xml
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\System.Buffers.xml
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\System.Memory.xml
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\System.Numerics.Vectors.xml
+C:\Temp\CRUD_example_c#\CRUD_example\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Temp\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.csproj.AssemblyReference.cache
+C:\Temp\CRUD_example_c#\CRUD_example\obj\Debug\Create.g.cs
+C:\Temp\CRUD_example_c#\CRUD_example\obj\Debug\Edit.g.cs
+C:\Temp\CRUD_example_c#\CRUD_example\obj\Debug\MainWindow.g.cs
+C:\Temp\CRUD_example_c#\CRUD_example\obj\Debug\App.g.cs
+C:\Temp\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example_MarkupCompile.cache
+C:\Temp\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example_MarkupCompile.lref
+C:\Temp\CRUD_example_c#\CRUD_example\obj\Debug\Create.baml
+C:\Temp\CRUD_example_c#\CRUD_example\obj\Debug\Edit.baml
+C:\Temp\CRUD_example_c#\CRUD_example\obj\Debug\MainWindow.baml
+C:\Temp\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.g.resources
+C:\Temp\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.Properties.Resources.resources
+C:\Temp\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.csproj.GenerateResource.cache
+C:\Temp\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.csproj.CoreCompileInputs.cache
+C:\Temp\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.csproj.CopyComplete
+C:\Temp\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.exe
+C:\Temp\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.pdb
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\CRUD_example.exe.config
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\CRUD_example.exe
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\CRUD_example.pdb
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\BouncyCastle.Crypto.dll
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\Google.Protobuf.dll
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\K4os.Compression.LZ4.dll
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\K4os.Hash.xxHash.dll
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\MySql.Data.dll
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\Renci.SshNet.dll
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\System.Buffers.dll
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\System.Memory.dll
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\System.Numerics.Vectors.dll
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\Ubiety.Dns.Core.dll
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\Zstandard.Net.dll
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\Google.Protobuf.pdb
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\Google.Protobuf.xml
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\K4os.Compression.LZ4.xml
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\K4os.Hash.xxHash.xml
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\MySql.Data.xml
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\Renci.SshNet.xml
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\System.Buffers.xml
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\System.Memory.xml
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\System.Numerics.Vectors.xml
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.csproj.AssemblyReference.cache
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\obj\Debug\Create.g.cs
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\obj\Debug\Edit.g.cs
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\obj\Debug\MainWindow.g.cs
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\obj\Debug\App.g.cs
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example_MarkupCompile.cache
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example_MarkupCompile.lref
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\obj\Debug\Create.baml
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\obj\Debug\Edit.baml
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\obj\Debug\MainWindow.baml
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.g.resources
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.Properties.Resources.resources
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.csproj.GenerateResource.cache
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.csproj.CoreCompileInputs.cache
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.csproj.CopyComplete
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.exe
+C:\School\Programmeren 3\Opdrachten week 2\CRUD_example_c#\CRUD_example\obj\Debug\CRUD_example.pdb

@@ -1,0 +1,30 @@
+C:\School\Programmeren\Projecten\WpfAppps228328Oefentoets\bin\Debug\WpfAppps228328Oefentoets.exe.config
+C:\School\Programmeren\Projecten\WpfAppps228328Oefentoets\bin\Debug\WpfAppps228328Oefentoets.exe
+C:\School\Programmeren\Projecten\WpfAppps228328Oefentoets\bin\Debug\WpfAppps228328Oefentoets.pdb
+C:\School\Programmeren\Projecten\WpfAppps228328Oefentoets\obj\Debug\WpfAppps228328Oefentoets.csproj.AssemblyReference.cache
+C:\School\Programmeren\Projecten\WpfAppps228328Oefentoets\obj\Debug\MainWindow.g.cs
+C:\School\Programmeren\Projecten\WpfAppps228328Oefentoets\obj\Debug\App.g.cs
+C:\School\Programmeren\Projecten\WpfAppps228328Oefentoets\obj\Debug\WpfAppps228328Oefentoets_MarkupCompile.cache
+C:\School\Programmeren\Projecten\WpfAppps228328Oefentoets\obj\Debug\WpfAppps228328Oefentoets_MarkupCompile.lref
+C:\School\Programmeren\Projecten\WpfAppps228328Oefentoets\obj\Debug\MainWindow.baml
+C:\School\Programmeren\Projecten\WpfAppps228328Oefentoets\obj\Debug\WpfAppps228328Oefentoets.g.resources
+C:\School\Programmeren\Projecten\WpfAppps228328Oefentoets\obj\Debug\WpfAppps228328Oefentoets.Properties.Resources.resources
+C:\School\Programmeren\Projecten\WpfAppps228328Oefentoets\obj\Debug\WpfAppps228328Oefentoets.csproj.GenerateResource.cache
+C:\School\Programmeren\Projecten\WpfAppps228328Oefentoets\obj\Debug\WpfAppps228328Oefentoets.csproj.CoreCompileInputs.cache
+C:\School\Programmeren\Projecten\WpfAppps228328Oefentoets\obj\Debug\WpfAppps228328Oefentoets.exe
+C:\School\Programmeren\Projecten\WpfAppps228328Oefentoets\obj\Debug\WpfAppps228328Oefentoets.pdb
+C:\School\Programmeren\Projecten\4 okt 2021 WpfAppps228328Oefentoets\bin\Debug\WpfAppps228328Oefentoets.exe.config
+C:\School\Programmeren\Projecten\4 okt 2021 WpfAppps228328Oefentoets\bin\Debug\WpfAppps228328Oefentoets.exe
+C:\School\Programmeren\Projecten\4 okt 2021 WpfAppps228328Oefentoets\bin\Debug\WpfAppps228328Oefentoets.pdb
+C:\School\Programmeren\Projecten\4 okt 2021 WpfAppps228328Oefentoets\obj\Debug\WpfAppps228328Oefentoets.csproj.AssemblyReference.cache
+C:\School\Programmeren\Projecten\4 okt 2021 WpfAppps228328Oefentoets\obj\Debug\MainWindow.g.cs
+C:\School\Programmeren\Projecten\4 okt 2021 WpfAppps228328Oefentoets\obj\Debug\App.g.cs
+C:\School\Programmeren\Projecten\4 okt 2021 WpfAppps228328Oefentoets\obj\Debug\WpfAppps228328Oefentoets_MarkupCompile.cache
+C:\School\Programmeren\Projecten\4 okt 2021 WpfAppps228328Oefentoets\obj\Debug\WpfAppps228328Oefentoets_MarkupCompile.lref
+C:\School\Programmeren\Projecten\4 okt 2021 WpfAppps228328Oefentoets\obj\Debug\MainWindow.baml
+C:\School\Programmeren\Projecten\4 okt 2021 WpfAppps228328Oefentoets\obj\Debug\WpfAppps228328Oefentoets.g.resources
+C:\School\Programmeren\Projecten\4 okt 2021 WpfAppps228328Oefentoets\obj\Debug\WpfAppps228328Oefentoets.Properties.Resources.resources
+C:\School\Programmeren\Projecten\4 okt 2021 WpfAppps228328Oefentoets\obj\Debug\WpfAppps228328Oefentoets.csproj.GenerateResource.cache
+C:\School\Programmeren\Projecten\4 okt 2021 WpfAppps228328Oefentoets\obj\Debug\WpfAppps228328Oefentoets.csproj.CoreCompileInputs.cache
+C:\School\Programmeren\Projecten\4 okt 2021 WpfAppps228328Oefentoets\obj\Debug\WpfAppps228328Oefentoets.exe
+C:\School\Programmeren\Projecten\4 okt 2021 WpfAppps228328Oefentoets\obj\Debug\WpfAppps228328Oefentoets.pdb

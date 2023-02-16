@@ -1,0 +1,15 @@
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\27 sep 2021 While statement\27 sep 2021 While statement\bin\Debug\27 sep 2021 While statement.exe.config
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\27 sep 2021 While statement\27 sep 2021 While statement\bin\Debug\27 sep 2021 While statement.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\27 sep 2021 While statement\27 sep 2021 While statement\bin\Debug\27 sep 2021 While statement.pdb
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\27 sep 2021 While statement\27 sep 2021 While statement\obj\Debug\27 sep 2021 While statement.csproj.AssemblyReference.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\27 sep 2021 While statement\27 sep 2021 While statement\obj\Debug\MainWindow.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\27 sep 2021 While statement\27 sep 2021 While statement\obj\Debug\App.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\27 sep 2021 While statement\27 sep 2021 While statement\obj\Debug\27 sep 2021 While statement_MarkupCompile.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\27 sep 2021 While statement\27 sep 2021 While statement\obj\Debug\27 sep 2021 While statement_MarkupCompile.lref
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\27 sep 2021 While statement\27 sep 2021 While statement\obj\Debug\MainWindow.baml
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\27 sep 2021 While statement\27 sep 2021 While statement\obj\Debug\27 sep 2021 While statement.g.resources
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\27 sep 2021 While statement\27 sep 2021 While statement\obj\Debug\_27_sep_2021_While_statement.Properties.Resources.resources
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\27 sep 2021 While statement\27 sep 2021 While statement\obj\Debug\27 sep 2021 While statement.csproj.GenerateResource.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\27 sep 2021 While statement\27 sep 2021 While statement\obj\Debug\27 sep 2021 While statement.csproj.CoreCompileInputs.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\27 sep 2021 While statement\27 sep 2021 While statement\obj\Debug\27 sep 2021 While statement.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\27 sep 2021 While statement\27 sep 2021 While statement\obj\Debug\27 sep 2021 While statement.pdb

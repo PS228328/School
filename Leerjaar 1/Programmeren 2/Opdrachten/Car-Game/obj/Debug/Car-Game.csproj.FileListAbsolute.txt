@@ -1,0 +1,15 @@
+C:\School\Programmeren 2\Opdrachten\Car-Game\bin\Debug\Car-Game.exe.config
+C:\School\Programmeren 2\Opdrachten\Car-Game\bin\Debug\Car-Game.exe
+C:\School\Programmeren 2\Opdrachten\Car-Game\bin\Debug\Car-Game.pdb
+C:\School\Programmeren 2\Opdrachten\Car-Game\obj\Debug\Car-Game.csproj.AssemblyReference.cache
+C:\School\Programmeren 2\Opdrachten\Car-Game\obj\Debug\MainWindow.g.cs
+C:\School\Programmeren 2\Opdrachten\Car-Game\obj\Debug\App.g.cs
+C:\School\Programmeren 2\Opdrachten\Car-Game\obj\Debug\Car-Game_MarkupCompile.cache
+C:\School\Programmeren 2\Opdrachten\Car-Game\obj\Debug\Car-Game_MarkupCompile.lref
+C:\School\Programmeren 2\Opdrachten\Car-Game\obj\Debug\MainWindow.baml
+C:\School\Programmeren 2\Opdrachten\Car-Game\obj\Debug\Car-Game.g.resources
+C:\School\Programmeren 2\Opdrachten\Car-Game\obj\Debug\Car_Game.Properties.Resources.resources
+C:\School\Programmeren 2\Opdrachten\Car-Game\obj\Debug\Car-Game.csproj.GenerateResource.cache
+C:\School\Programmeren 2\Opdrachten\Car-Game\obj\Debug\Car-Game.csproj.CoreCompileInputs.cache
+C:\School\Programmeren 2\Opdrachten\Car-Game\obj\Debug\Car-Game.exe
+C:\School\Programmeren 2\Opdrachten\Car-Game\obj\Debug\Car-Game.pdb

@@ -1,0 +1,494 @@
+﻿<Window x:Class="Yahtzee.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Yahtzee"
+        mc:Ignorable="d"
+        Title="Yahtzee" Height="1080" Width="1920">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush x:Name="achtergrond" ImageSource="Yahtzeeachtergrond/Yahtzee.jpg"></ImageBrush>
+        </Grid.Background>
+        <TextBlock x:Name="witteachtergrond" Background="White" Width="450" Height="90" HorizontalAlignment="Right" VerticalAlignment="Bottom" Visibility="Hidden"></TextBlock>
+        <Image x:Name="block11" Source="Dobbelsteenset/Dobbelsteen1/1.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,5,5" Visibility="Hidden"></Image>
+        <Image x:Name="block12" Source="Dobbelsteenset/Dobbelsteen1/2.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,5,5" Visibility="Hidden"></Image>
+        <Image x:Name="block13" Source="Dobbelsteenset/Dobbelsteen1/3.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,5,5" Visibility="Hidden"></Image>
+        <Image x:Name="block14" Source="Dobbelsteenset/Dobbelsteen1/4.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,5,5" Visibility="Hidden"></Image>
+        <Image x:Name="block15" Source="Dobbelsteenset/Dobbelsteen1/5.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,5,5" Visibility="Hidden"></Image>
+        <Image x:Name="block16" Source="Dobbelsteenset/Dobbelsteen1/6.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,5,5" Visibility="Hidden"></Image>
+        <Image x:Name="block21" Source="Dobbelsteenset/Dobbelsteen2/1.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,95,5" Visibility="Hidden"></Image>
+        <Image x:Name="block22" Source="Dobbelsteenset/Dobbelsteen2/2.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,95,5" Visibility="Hidden"></Image>
+        <Image x:Name="block23" Source="Dobbelsteenset/Dobbelsteen2/3.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,95,5" Visibility="Hidden"></Image>
+        <Image x:Name="block24" Source="Dobbelsteenset/Dobbelsteen2/4.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,95,5" Visibility="Hidden"></Image>
+        <Image x:Name="block25" Source="Dobbelsteenset/Dobbelsteen2/5.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,95,5" Visibility="Hidden"></Image>
+        <Image x:Name="block26" Source="Dobbelsteenset/Dobbelsteen2/6.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,95,5" Visibility="Hidden"></Image>
+        <Image x:Name="block31" Source="Dobbelsteenset/Dobbelsteen3/1.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,185,5" Visibility="Hidden"></Image>
+        <Image x:Name="block32" Source="Dobbelsteenset/Dobbelsteen3/2.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,185,5" Visibility="Hidden"></Image>
+        <Image x:Name="block33" Source="Dobbelsteenset/Dobbelsteen3/3.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,185,5" Visibility="Hidden"></Image>
+        <Image x:Name="block34" Source="Dobbelsteenset/Dobbelsteen3/4.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,185,5" Visibility="Hidden"></Image>
+        <Image x:Name="block35" Source="Dobbelsteenset/Dobbelsteen3/5.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,185,5" Visibility="Hidden"></Image>
+        <Image x:Name="block36" Source="Dobbelsteenset/Dobbelsteen3/6.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,185,5" Visibility="Hidden"></Image>
+        <Image x:Name="block41" Source="Dobbelsteenset/Dobbelsteen4/1.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,275,5" Visibility="Hidden"></Image>
+        <Image x:Name="block42" Source="Dobbelsteenset/Dobbelsteen4/2.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,275,5" Visibility="Hidden"></Image>
+        <Image x:Name="block43" Source="Dobbelsteenset/Dobbelsteen4/3.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,275,5" Visibility="Hidden"></Image>
+        <Image x:Name="block44" Source="Dobbelsteenset/Dobbelsteen4/4.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,275,5" Visibility="Hidden"></Image>
+        <Image x:Name="block45" Source="Dobbelsteenset/Dobbelsteen4/5.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,275,5" Visibility="Hidden"></Image>
+        <Image x:Name="block46" Source="Dobbelsteenset/Dobbelsteen4/6.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,275,5" Visibility="Hidden"></Image>
+        <Image x:Name="block51" Source="Dobbelsteenset/Dobbelsteen5/1.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,365,5" Visibility="Hidden"></Image>
+        <Image x:Name="block52" Source="Dobbelsteenset/Dobbelsteen5/2.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,365,5" Visibility="Hidden"></Image>
+        <Image x:Name="block53" Source="Dobbelsteenset/Dobbelsteen5/3.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,365,5" Visibility="Hidden"></Image>
+        <Image x:Name="block54" Source="Dobbelsteenset/Dobbelsteen5/4.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,365,5" Visibility="Hidden"></Image>
+        <Image x:Name="block55" Source="Dobbelsteenset/Dobbelsteen5/5.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,365,5" Visibility="Hidden"></Image>
+        <Image x:Name="block56" Source="Dobbelsteenset/Dobbelsteen5/6.jpg" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="80" Margin="0,0,365,5" Visibility="Hidden"></Image>
+        <Button x:Name="rolldice" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="200" Height="70" Margin="20,0,0,20" FontSize="38" FontWeight="Bold" Click="Button_Click" Visibility="Hidden">Roll dice</Button>
+        <Button x:Name="checkbox1" Width="30" Height="30" Background="Red" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,28,100" Click="checkbox1_Click" Visibility="Hidden"></Button>
+        <Button x:Name="checkbox2" Width="30" Height="30" Background="Red" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,118,100" Click="checkbox2_Click" Visibility="Hidden"></Button>
+        <Button x:Name="checkbox3" Width="30" Height="30" Background="Red" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,208,100" Click="checkbox3_Click" Visibility="Hidden"></Button>
+        <Button x:Name="checkbox4" Width="30" Height="30" Background="Red" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,298,100" Click="checkbox4_Click" Visibility="Hidden"></Button>
+        <Button x:Name="checkbox5" Width="30" Height="30" Background="Red" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,388,100" Click="checkbox5_Click" Visibility="Hidden"></Button>
+        <TextBlock x:Name="aantalwerpen" Width="120" Height="60" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,460,10" Background="Blue" TextAlignment="Center" FontSize="40" FontWeight="Bold" Text="Roll" Visibility="Hidden"></TextBlock>
+        <TextBlock x:Name="nop" Text="Number of players:" Width="650" Height="100" Background="Gray" FontSize="70" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,200,0"></TextBlock>
+        <TextBox x:Name="players" Width="80" Height="100" Background="LightGray" FontSize="70" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="600,0,0,0" TextAlignment="Center" TextChanged="players_TextChanged"></TextBox>
+        <Button x:Name="Norules" Content="No" Width="100" Height="80" Background="Red" FontSize="50" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="150,0,0,0" Click="Button_Click_1" Visibility="Hidden"></Button>
+        <Button x:Name="Yesrules" Content="Yes" Width="100" Height="80" Background="Green" FontSize="50" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,150,0" Visibility="Hidden" Click="Yesrules_Click"></Button>
+        <TextBlock x:Name="question" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,150" FontSize="30" FontWeight="Bold" Background="White" Visibility="Hidden">Do you want to read the rules and an instruction how this application works?</TextBlock>
+        <TextBlock x:Name="backgroundcounter" HorizontalAlignment="Left" VerticalAlignment="Bottom" Background="White" Width="350" Height="100" Margin="500,0,0,20" Visibility="Hidden"></TextBlock>
+        <TextBlock x:Name="playertekst" Text="Player" FontSize="70" FontWeight="UltraBlack" FontStyle="Normal" FontFamily="Times New Roman" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="550,0,0,30" Visibility="Hidden"></TextBlock>
+        <TextBlock x:Name="playernumbercount" Text="1" FontSize="70" FontWeight="UltraBlack" FontStyle="Normal" FontFamily="Times New Roman" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="770,0,0,30" Visibility="Hidden"></TextBlock>
+        <StackPanel x:Name="Part1" Margin="10,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="LightGray" Width="300" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">PART 1</TextBlock>
+            <TextBlock Background="White" Width="300" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0">Ones</TextBlock>
+            <TextBlock Background="White" Width="300" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0">Twos</TextBlock>
+            <TextBlock Background="White" Width="300" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0">Threes</TextBlock>
+            <TextBlock Background="White" Width="300" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0">Fours</TextBlock>
+            <TextBlock Background="White" Width="300" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0">Fives</TextBlock>
+            <TextBlock Background="White" Width="300" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0">Sixes</TextBlock>
+            <TextBlock Background="White" Width="300" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0">Total score</TextBlock>
+            <TextBlock Background="White" Width="300" Height="50" FontSize="23" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0">+35 (if score is 63 or more)</TextBlock>
+            <TextBlock Background="White" Width="300" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0">Total part 1</TextBlock>
+        </StackPanel>
+
+        <StackPanel x:Name="Player1part1" Margin="340,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="White" Width="60" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">P1</TextBlock>
+            <Button x:Name="P1ones" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P1ones_Click"></Button>
+            <Button x:Name="P1twos" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P1twos_Click"></Button>
+            <Button x:Name="P1threes" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P1threes_Click"></Button>
+            <Button x:Name="P1fours" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P1fours_Click"></Button>
+            <Button x:Name="P1fives" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P1fives_Click"></Button>
+            <Button x:Name="P1sixes" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P1sixes_Click"></Button>
+            <TextBlock x:Name="totalP1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="P1bonus" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="grandtotalP1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+        </StackPanel>
+        <StackPanel x:Name="Player2part1" Margin="405,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="Yellow" Width="60" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">P2</TextBlock>
+            <Button x:Name="P2ones" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P2ones_Click"></Button>
+            <Button x:Name="P2twos" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P2twos_Click"></Button>
+            <Button x:Name="P2threes" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P2threes_Click"></Button>
+            <Button x:Name="P2fours" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P2fours_Click"></Button>
+            <Button x:Name="P2fives" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P2fives_Click"></Button>
+            <Button x:Name="P2sixes" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P2sixes_Click"></Button>
+            <TextBlock x:Name="totalP2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="P2bonus" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="grandtotalP2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+        </StackPanel>
+        <StackPanel x:Name="Player3part1" Margin="470,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="Blue" Width="60" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">P3</TextBlock>
+            <Button x:Name="P3ones" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P3ones_Click"></Button>
+            <Button x:Name="P3twos" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P3twos_Click"></Button>
+            <Button x:Name="P3threes" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P3threes_Click"></Button>
+            <Button x:Name="P3fours" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P3fours_Click"></Button>
+            <Button x:Name="P3fives" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P3fives_Click"></Button>
+            <Button x:Name="P3sixes" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P3sixes_Click"></Button>
+            <TextBlock x:Name="totalP3" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="P3bonus" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="grandtotalP3" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+        </StackPanel>
+        <StackPanel x:Name="Player4part1" Margin="535,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="Red" Width="60" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">P4</TextBlock>
+            <Button x:Name="P4ones" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P4ones_Click"></Button>
+            <Button x:Name="P4twos" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P4twos_Click"></Button>
+            <Button x:Name="P4threes" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P4threes_Click"></Button>
+            <Button x:Name="P4fours" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P4fours_Click"></Button>
+            <Button x:Name="P4fives" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P4fives_Click"></Button>
+            <Button x:Name="P4sixes" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P4sixes_Click"></Button>
+            <TextBlock x:Name="totalP4" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="P4bonus" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="grandtotalP4" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+        </StackPanel>
+        <StackPanel x:Name="Player5part1" Margin="600,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="Green" Width="60" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">P5</TextBlock>
+            <Button x:Name="P5ones" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P5ones_Click"></Button>
+            <Button x:Name="P5twos" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P5twos_Click"></Button>
+            <Button x:Name="P5threes" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P5threes_Click"></Button>
+            <Button x:Name="P5fours" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P5fours_Click"></Button>
+            <Button x:Name="P5fives" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P5fives_Click"></Button>
+            <Button x:Name="P5sixes" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P5sixes_Click"></Button>
+            <TextBlock x:Name="totalP5" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="P5bonus" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="grandtotalP5" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+        </StackPanel>
+        <StackPanel x:Name="Player6part1" Margin="665,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="Brown" Width="60" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">P6</TextBlock>
+            <Button x:Name="P6ones" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P6ones_Click"></Button>
+            <Button x:Name="P6twos" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P6twos_Click"></Button>
+            <Button x:Name="P6threes" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P6threes_Click"></Button>
+            <Button x:Name="P6fours" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P6fours_Click"></Button>
+            <Button x:Name="P6fives" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P6fives_Click"></Button>
+            <Button x:Name="P6sixes" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="P6sixes_Click"></Button>
+            <TextBlock x:Name="totalP6" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="P6bonus" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="grandtotalP6" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+        </StackPanel>
+        <StackPanel x:Name="Part2" Margin="750,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="LightGray" Width="300" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">PART 2</TextBlock>
+            <TextBlock Background="White" Width="300" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0">Three of a kind</TextBlock>
+            <TextBlock Background="White" Width="300" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0">Four of a kind</TextBlock>
+            <TextBlock Background="White" Width="300" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0">Full house</TextBlock>
+            <TextBlock Background="White" Width="300" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0">Small straight</TextBlock>
+            <TextBlock Background="White" Width="300" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0">Large straight</TextBlock>
+            <TextBlock Background="White" Width="300" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0">Top score</TextBlock>
+            <TextBlock Background="White" Width="300" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0">Chance</TextBlock>
+            <TextBlock Background="White" Width="300" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0">Total part 2</TextBlock>
+            <TextBlock Background="White" Width="300" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0">Total part 1</TextBlock>
+            <TextBlock Background="White" Width="300" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0">Total score</TextBlock>
+        </StackPanel>
+        <StackPanel x:Name="Player1part2" Margin="1060,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="White" Width="60" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">P1</TextBlock>
+            <Button x:Name="ThreeofakindP1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="ThreeofakindP1_Click"></Button>
+            <Button x:Name="FourofakindP1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="FourofakindP1_Click"></Button>
+            <Button x:Name="FullhouseP1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="FullhouseP1_Click"></Button>
+            <Button x:Name="SmallstraightP1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="SmallstraightP1_Click"></Button>
+            <Button x:Name="LargestraightP1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="LargestraightP1_Click"></Button>
+            <Button x:Name="TopscoreP1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="TopscoreP1_Click"></Button>
+            <Button x:Name="ChanceP1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="ChanceP1_Click"></Button>
+            <TextBlock x:Name="totalP1part1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="totalP1part2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="allP1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+        </StackPanel>
+        <StackPanel x:Name="Player2part2" Margin="1125,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="Yellow" Width="60" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">P2</TextBlock>
+            <Button x:Name="ThreeofakindP2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="ThreeofakindP2_Click"></Button>
+            <Button x:Name="FourofakindP2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="FourofakindP2_Click"></Button>
+            <Button x:Name="FullhouseP2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="FullhouseP2_Click"></Button>
+            <Button x:Name="SmallstraightP2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="SmallstraightP2_Click"></Button>
+            <Button x:Name="LargestraightP2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="LargestraightP2_Click"></Button>
+            <Button x:Name="TopscoreP2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="TopscoreP2_Click"></Button>
+            <Button x:Name="ChanceP2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="ChanceP2_Click"></Button>
+            <TextBlock x:Name="totalP2part1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="totalP2part2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="allP2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+        </StackPanel>
+        <StackPanel x:Name="Player3part2" Margin="1190,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="Blue" Width="60" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">P3</TextBlock>
+            <Button x:Name="ThreeofakindP3" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="ThreeofakindP3_Click"></Button>
+            <Button x:Name="FourofakindP3" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="FourofakindP3_Click"></Button>
+            <Button x:Name="FullhouseP3" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="FullhouseP3_Click"></Button>
+            <Button x:Name="SmallstraightP3" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="SmallstraightP3_Click"></Button>
+            <Button x:Name="LargestraightP3" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="LargestraightP3_Click"></Button>
+            <Button x:Name="TopscoreP3" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="TopscoreP3_Click"></Button>
+            <Button x:Name="ChanceP3" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="ChanceP3_Click"></Button>
+            <TextBlock x:Name="totalP3part1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="totalP3part2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="allP3" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+        </StackPanel>
+        <StackPanel x:Name="Player4part2" Margin="1255,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="Red" Width="60" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">P4</TextBlock>
+            <Button x:Name="ThreeofakindP4" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="ThreeofakindP4_Click"></Button>
+            <Button x:Name="FourofakindP4" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="FourofakindP4_Click"></Button>
+            <Button x:Name="FullhouseP4" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="FullhouseP4_Click"></Button>
+            <Button x:Name="SmallstraightP4" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="SmallstraightP4_Click"></Button>
+            <Button x:Name="LargestraightP4" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="LargestraightP4_Click"></Button>
+            <Button x:Name="TopscoreP4" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="TopscoreP4_Click"></Button>
+            <Button x:Name="ChanceP4" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="ChanceP4_Click"></Button>
+            <TextBlock x:Name="totalP4part1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="totalP4part2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="allP4" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+        </StackPanel>
+        <StackPanel x:Name="Player5part2" Margin="1320,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="Green" Width="60" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">P5</TextBlock>
+            <Button x:Name="ThreeofakindP5" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="ThreeofakindP5_Click"></Button>
+            <Button x:Name="FourofakindP5" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="FourofakindP5_Click"></Button>
+            <Button x:Name="FullhouseP5" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="FullhouseP5_Click"></Button>
+            <Button x:Name="SmallstraightP5" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="SmallstraightP5_Click"></Button>
+            <Button x:Name="LargestraightP5" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="LargestraightP5_Click"></Button>
+            <Button x:Name="TopscoreP5" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="TopscoreP5_Click"></Button>
+            <Button x:Name="ChanceP5" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="ChanceP5_Click"></Button>
+            <TextBlock x:Name="totalP5part1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="totalP5part2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="allP5" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+        </StackPanel>
+        <StackPanel x:Name="Player6part2" Margin="1385,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="Brown" Width="60" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">P6</TextBlock>
+            <Button x:Name="ThreeofakindP6" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="ThreeofakindP6_Click"></Button>
+            <Button x:Name="FourofakindP6" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="FourofakindP6_Click"></Button>
+            <Button x:Name="FullhouseP6" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="FullhouseP6_Click"></Button>
+            <Button x:Name="SmallstraightP6" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="SmallstraightP6_Click"></Button>
+            <Button x:Name="LargestraightP6" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="LargestraightP6_Click"></Button>
+            <Button x:Name="TopscoreP6" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="TopscoreP6_Click"></Button>
+            <Button x:Name="ChanceP6" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Click="ChanceP6_Click"></Button>
+            <TextBlock x:Name="totalP6part1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="totalP6part2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="allP6" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+        </StackPanel>
+
+        <StackPanel x:Name="tbPlayer1part1" Margin="340,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="White" Width="60" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">P1</TextBlock>
+            <TextBlock x:Name="tbP1ones" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP1twos" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP1threes" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP1fours" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP1fives" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP1sixes" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+        </StackPanel>
+
+        <StackPanel x:Name="tbPlayer2part1" Margin="405,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="Yellow" Width="60" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">P2</TextBlock>
+            <TextBlock x:Name="tbP2ones" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP2twos" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP2threes" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP2fours" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP2fives" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP2sixes" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+        </StackPanel>
+
+        <StackPanel x:Name="tbPlayer3part1" Margin="470,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="Blue" Width="60" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">P3</TextBlock>
+            <TextBlock x:Name="tbP3ones" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP3twos" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP3threes" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP3fours" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP3fives" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP3sixes" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+        </StackPanel>
+
+        <StackPanel x:Name="tbPlayer4part1" Margin="535,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="Red" Width="60" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">P4</TextBlock>
+            <TextBlock x:Name="tbP4ones" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP4twos" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP4threes" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP4fours" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP4fives" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP4sixes" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+        </StackPanel>
+
+        <StackPanel x:Name="tblayer5part1" Margin="600,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="Green" Width="60" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">P5</TextBlock>
+            <TextBlock x:Name="tbP5ones" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP5twos" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP5threes" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP5fours" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP5fives" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP5sixes" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+        </StackPanel>
+
+        <StackPanel x:Name="tbPlayer6part1" Margin="665,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="Brown" Width="60" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">P6</TextBlock>
+            <TextBlock x:Name="tbP6ones" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP6twos" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP6threes" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP6fours" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP6fives" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbP6sixes" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+        </StackPanel>
+
+        <StackPanel x:Name="tbPlayer1part2" Margin="1060,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="White" Width="60" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">P1</TextBlock>
+            <TextBlock x:Name="tbThreeofakindP1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbFourofakindP1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbFullhouseP1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbSmallstraightP1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbLargestraightP1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbTopscoreP1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbChanceP1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbtotalP1part1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbtotalP1part2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tballP1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+        </StackPanel>
+        <StackPanel x:Name="tbPlayer2part2" Margin="1125,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="White" Width="60" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">P1</TextBlock>
+            <TextBlock x:Name="tbThreeofakindP2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbFourofakindP2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbFullhouseP2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbSmallstraightP2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbLargestraightP2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbTopscoreP2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbChanceP2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbtotalP2part1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbtotalP2part2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tballP2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+        </StackPanel>
+        <StackPanel x:Name="tbPlayer3part2" Margin="1190,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="White" Width="60" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">P1</TextBlock>
+            <TextBlock x:Name="tbThreeofakindP3" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbFourofakindP3" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbFullhouseP3" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbSmallstraightP3" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbLargestraightP3" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbTopscoreP3" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbChanceP3" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbtotalP3part1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbtotalP3part2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tballP3" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+        </StackPanel>
+        <StackPanel x:Name="tbPlayer4part2" Margin="1255,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="White" Width="60" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">P1</TextBlock>
+            <TextBlock x:Name="tbThreeofakindP4" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbFourofakindP4" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbFullhouseP4" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbSmallstraightP4" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbLargestraightP4" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbTopscoreP4" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbChanceP4" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbtotalP4part1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbtotalP4part2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tballP4" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+        </StackPanel>
+        <StackPanel x:Name="tbPlayer5part2" Margin="1320,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="White" Width="60" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">P1</TextBlock>
+            <TextBlock x:Name="tbThreeofakindP5" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbFourofakindP5" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbFullhouseP5" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbSmallstraightP5" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbLargestraightP5" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbTopscoreP5" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbChanceP5" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbtotalP5part1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbtotalP5part2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tballP5" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+        </StackPanel>
+        <StackPanel x:Name="tbPlayer6part2" Margin="1385,10,0,0" HorizontalAlignment="Left" Visibility="Hidden">
+            <TextBlock Background="White" Width="60" Height="50" FontSize="37" FontWeight="Bold" TextAlignment="Center">P1</TextBlock>
+            <TextBlock x:Name="tbThreeofakindP6" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbFourofakindP6" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbFullhouseP6" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbSmallstraightP6" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbLargestraightP6" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbTopscoreP6" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0"></TextBlock>
+            <TextBlock x:Name="tbChanceP6" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbtotalP6part1" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tbtotalP6part2" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+            <TextBlock x:Name="tballP6" Background="White" Width="60" Height="50" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,0" Text="0"></TextBlock>
+        </StackPanel>
+
+        <Image Source="Yahtzeeachtergrond/Transparante pijl.jpg" Width="400" Margin="180,0,0,200" HorizontalAlignment="Left" VerticalAlignment="Bottom" RenderTransformOrigin="0.5,0.5" Visibility="Hidden" x:Name="pijl">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+
+        <Image Source="Yahtzeeachtergrond/Transparante pijl.jpg" Width="200" Margin="20,0,0,150" HorizontalAlignment="Left" VerticalAlignment="Bottom" RenderTransformOrigin="0.5,0.5" Visibility="Hidden" x:Name="pijl2">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        
+        <Button x:Name="CancelGuide" Width="200" Height="60" Background="Red" Content="Cancel guide" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="280,0,0,30" FontSize="30" FontWeight="Bold" Click="CancelGuide_Click" Visibility="Hidden"></Button>
+
+        <Button x:Name="Next" Width="230" Height="100" Background="Green" Content="Next" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,20,200" FontSize="60" FontWeight="bold" Click="Button_Click_2" Visibility="Hidden"></Button>
+        <Border x:Name="border" BorderBrush="Black" BorderThickness="25" Width="1048" Height="650" Visibility="Hidden"></Border>
+
+        <TextBlock x:Name="Step1" Width="1000" Height="600" FontSize="28" Background="Purple" Foreground="White" TextAlignment="Center" Visibility="Hidden">
+            <Run FontWeight="Bold" Text="Yahtzee is a dice game where people compete to each other."></Run>
+            <LineBreak/>
+            <Run FontWeight="Bold" Text="When it's your turn, you roll five dice. You may set aside dice of your choice."></Run>
+            <LineBreak/>
+            <Run FontWeight="Bold" Text="You can roll up to 3 times. Then, you must select a category of your choice."></Run>
+            <LineBreak/>
+            <Run FontWeight="Bold" Text="There are 13 categories in 2 different parts where you can score points:"></Run>
+            <LineBreak/>
+            <LineBreak/>
+            <Run FontWeight="Bold" FontSize="40" Text="Part 1"></Run>
+            <LineBreak/>
+            <Run Text="Ones - Counts all the 1's you rolled"></Run>
+            <LineBreak/>
+            <Run Text="Twos - Counts all the 2's you rolled"></Run>
+            <LineBreak/>
+            <Run Text="Threes - Counts all the 3's you rolled"></Run>
+            <LineBreak/>
+            <Run Text="Fours - Counts all the 4's you rolled"></Run>
+            <LineBreak/>
+            <Run Text="Fives - Counts all the 5's you rolled"></Run>
+            <LineBreak/>
+            <Run Text="Sixes - Counts all the 6's you rolled"></Run>
+            <LineBreak/>
+            <LineBreak/>
+            <Run FontWeight="bold" Text="Example: You rolled 4, 3, 4, 4 and 1."></Run>
+            <LineBreak/>
+            <Run FontWeight="bold" Text="You choose the category 'Fours'. You get 12 points in this category."></Run>
+        </TextBlock>
+
+        <TextBlock x:Name="Step2" Width="1000" Height="600" FontSize="28" Background="Purple" Foreground="White" TextAlignment="Center" Visibility="Hidden">
+            <Run FontWeight="Bold" Text="You can also get points in part 2:"></Run>
+            <LineBreak/>
+            <LineBreak/>
+            <Run Text="Three of a kind - Three dice with the same value"></Run>
+            <LineBreak/>
+            <Run Text="Four of a kind - Four dice with the same value"></Run>
+            <LineBreak/>
+            <Run Text="Full house - Three + Two dice with the same value (25 points)"></Run>
+            <LineBreak/>
+            <Run Text="Small straight - Four consecutive numbers (30 points)"></Run>
+            <LineBreak/>
+            <Run Text="Large straight - Four consecutive numbers (40 points)"></Run>
+            <LineBreak/>
+            <Run Text="Top score - Five dice with the same value (50 points)"></Run>
+            <LineBreak/>
+            <Run Text="Chance - It doesn't matter what values the dice have"></Run>
+            <LineBreak/>
+            <LineBreak/>
+            <Run Text="For three of a kind, four of a kind and chance;"></Run>
+            <LineBreak/>
+            <Run Text="The number of points is the value of all dice together"></Run>
+            <LineBreak/>
+            <LineBreak/>
+            <Run FontWeight="Bold" Text="Example: You rolled 2, 5, 5, 1 and 5. You choose the category"></Run>
+            <LineBreak/>
+            <Run FontWeight="Bold" Text="'three of a kind', you get 2+5+5+1+5=18 points in this category."></Run>
+        </TextBlock>
+
+        <TextBlock x:Name="Step3" Width="1000" Height="600" FontSize="28" Background="Purple" Foreground="White" TextAlignment="Center" Visibility="Hidden">
+            <Run FontWeight="Bold" Text="It is not mandatory to complete part 1 and part 2 in order."></Run>
+            <LineBreak/>
+            <LineBreak/>
+            <Run FontWeight="Bold" Text="WARNING: When you select a category you're not allowed to choose"></Run>
+            <LineBreak/>
+            <Run FontWeight="Bold" Text="because you didn't roll the right values. Then you automatically"></Run>
+            <LineBreak/>
+            <Run FontWeight="Bold" Text="get 0 points in this category! This cannot be undone."></Run>
+            <LineBreak/>
+            <LineBreak/>
+            <Run FontWeight="Bold" Text="The player who gets the most points, wins the game!"></Run>
+            <LineBreak/>
+        </TextBlock>
+    </Grid>
+</Window>

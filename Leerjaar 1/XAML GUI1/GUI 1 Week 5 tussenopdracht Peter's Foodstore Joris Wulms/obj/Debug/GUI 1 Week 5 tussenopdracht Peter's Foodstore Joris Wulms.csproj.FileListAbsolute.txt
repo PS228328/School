@@ -1,0 +1,7 @@
+C:\School\XAML GUI1\GUI 1 Week 5 tussenopdracht Peter's Foodstore Joris Wulms\obj\Debug\GUI 1 Week 5 tussenopdracht Peter's Foodstore Joris Wulms.csproj.AssemblyReference.cache
+C:\School\XAML GUI1\GUI 1 Week 5 tussenopdracht Peter's Foodstore Joris Wulms\obj\Debug\MainWindow.g.cs
+C:\School\XAML GUI1\GUI 1 Week 5 tussenopdracht Peter's Foodstore Joris Wulms\obj\Debug\App.g.cs
+C:\School\XAML GUI1\GUI 1 Week 5 tussenopdracht Peter's Foodstore Joris Wulms\obj\Debug\GUI 1 Week 5 tussenopdracht Peter's Foodstore Joris Wulms_MarkupCompile.cache
+C:\School\XAML GUI1\GUI 1 Week 5 tussenopdracht Peter's Foodstore Joris Wulms\obj\Debug\GUI 1 Week 5 tussenopdracht Peter's Foodstore Joris Wulms_MarkupCompile.lref
+C:\School\XAML GUI1\GUI 1 Week 5 tussenopdracht Peter's Foodstore Joris Wulms\obj\Debug\GUI 1 Week 5 tussenopdracht Peter's Foodstore Joris Wulms.exe
+C:\School\XAML GUI1\GUI 1 Week 5 tussenopdracht Peter's Foodstore Joris Wulms\obj\Debug\GUI 1 Week 5 tussenopdracht Peter's Foodstore Joris Wulms.pdb

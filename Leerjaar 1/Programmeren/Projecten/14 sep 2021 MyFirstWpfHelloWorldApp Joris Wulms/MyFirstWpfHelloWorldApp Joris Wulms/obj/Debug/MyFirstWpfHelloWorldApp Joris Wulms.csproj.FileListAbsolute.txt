@@ -1,0 +1,60 @@
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\bin\Debug\MyFirstWpfHelloWorldApp Joris Wulms.exe.config
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\bin\Debug\MyFirstWpfHelloWorldApp Joris Wulms.exe
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\bin\Debug\MyFirstWpfHelloWorldApp Joris Wulms.pdb
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms.csproj.AssemblyReference.cache
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MainWindow.g.cs
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\App.g.cs
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms_MarkupCompile.cache
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms_MarkupCompile.lref
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MainWindow.baml
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms.g.resources
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp_Joris_Wulms.Properties.Resources.resources
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms.csproj.GenerateResource.cache
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms.csproj.CoreCompileInputs.cache
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms.exe
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms.pdb
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\bin\Debug\MyFirstWpfHelloWorldApp Joris Wulms.exe.config
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\bin\Debug\MyFirstWpfHelloWorldApp Joris Wulms.exe
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\bin\Debug\MyFirstWpfHelloWorldApp Joris Wulms.pdb
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms.csproj.AssemblyReference.cache
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MainWindow.g.cs
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\App.g.cs
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms_MarkupCompile.cache
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms_MarkupCompile.lref
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MainWindow.baml
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms.g.resources
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp_Joris_Wulms.Properties.Resources.resources
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms.csproj.GenerateResource.cache
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms.csproj.CoreCompileInputs.cache
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms.exe
+C:\Users\joris\Desktop\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms.pdb
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\bin\Debug\MyFirstWpfHelloWorldApp Joris Wulms.exe.config
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\bin\Debug\MyFirstWpfHelloWorldApp Joris Wulms.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\bin\Debug\MyFirstWpfHelloWorldApp Joris Wulms.pdb
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms.csproj.AssemblyReference.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MainWindow.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\App.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms_MarkupCompile.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms_MarkupCompile.lref
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MainWindow.baml
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms.g.resources
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp_Joris_Wulms.Properties.Resources.resources
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms.csproj.GenerateResource.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms.csproj.CoreCompileInputs.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms.pdb
+C:\School\Programmeren\Projecten\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\bin\Debug\MyFirstWpfHelloWorldApp Joris Wulms.exe.config
+C:\School\Programmeren\Projecten\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\bin\Debug\MyFirstWpfHelloWorldApp Joris Wulms.exe
+C:\School\Programmeren\Projecten\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\bin\Debug\MyFirstWpfHelloWorldApp Joris Wulms.pdb
+C:\School\Programmeren\Projecten\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms.csproj.AssemblyReference.cache
+C:\School\Programmeren\Projecten\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MainWindow.g.cs
+C:\School\Programmeren\Projecten\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\App.g.cs
+C:\School\Programmeren\Projecten\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms_MarkupCompile.cache
+C:\School\Programmeren\Projecten\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms_MarkupCompile.lref
+C:\School\Programmeren\Projecten\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MainWindow.baml
+C:\School\Programmeren\Projecten\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms.g.resources
+C:\School\Programmeren\Projecten\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp_Joris_Wulms.Properties.Resources.resources
+C:\School\Programmeren\Projecten\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms.csproj.GenerateResource.cache
+C:\School\Programmeren\Projecten\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms.csproj.CoreCompileInputs.cache
+C:\School\Programmeren\Projecten\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms.exe
+C:\School\Programmeren\Projecten\14 sep 2021 MyFirstWpfHelloWorldApp Joris Wulms\MyFirstWpfHelloWorldApp Joris Wulms\obj\Debug\MyFirstWpfHelloWorldApp Joris Wulms.pdb

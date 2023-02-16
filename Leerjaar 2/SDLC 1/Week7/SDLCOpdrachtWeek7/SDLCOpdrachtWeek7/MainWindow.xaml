@@ -1,0 +1,23 @@
+﻿<Window x:Class="SDLCOpdrachtWeek7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SDLCOpdrachtWeek7"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel x:Name="spLinks" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,200,0">
+            <TextBox x:Name="tbxLinks" Width="140" FontSize="16" FontFamily="Comic Sans MS" KeyUp="tbxLinks_KeyUp">1</TextBox>
+            <RadioButton x:Name="rbEuroLinks" FontSize="14" FontFamily="Comic Sans MS" Margin="0,30,0,0" Checked="radiobuttonLinks_Checked">Euro</RadioButton>
+            <RadioButton x:Name="rbDollarLinks" FontSize="14" FontFamily="Comic Sans MS" Margin="0,10,0,0" Checked="radiobuttonLinks_Checked">US Dollar</RadioButton>
+            <RadioButton x:Name="rbYenLinks" FontSize="14" FontFamily="Comic Sans MS" Margin="0,10,0,0" Checked="radiobuttonLinks_Checked">Yen</RadioButton>
+        </StackPanel>
+        <StackPanel x:Name="spRechts" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="200,0,0,0">
+            <TextBox x:Name="tbxRechts" Width="140" FontSize="16" FontFamily="Comic Sans MS" KeyUp="tbxRechts_KeyUp">1</TextBox>
+            <RadioButton x:Name="rbEuroRechts" FontSize="14" FontFamily="Comic Sans MS" Margin="0,30,0,0" Checked="radiobuttonRechts_Checked">Euro</RadioButton>
+            <RadioButton x:Name="rbDollarRechts" FontSize="14" FontFamily="Comic Sans MS" Margin="0,10,0,0" Checked="radiobuttonRechts_Checked">US Dollar</RadioButton>
+            <RadioButton x:Name="rbYenRechts" FontSize="14" FontFamily="Comic Sans MS" Margin="0,10,0,0" Checked="radiobuttonRechts_Checked">Yen</RadioButton>
+        </StackPanel>
+    </Grid>
+</Window>

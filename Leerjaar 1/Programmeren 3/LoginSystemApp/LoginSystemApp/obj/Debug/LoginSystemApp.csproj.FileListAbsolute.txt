@@ -1,0 +1,15 @@
+C:\School\Programmeren 3\LoginSystemApp\LoginSystemApp\bin\Debug\LoginSystemApp.exe.config
+C:\School\Programmeren 3\LoginSystemApp\LoginSystemApp\bin\Debug\LoginSystemApp.exe
+C:\School\Programmeren 3\LoginSystemApp\LoginSystemApp\bin\Debug\LoginSystemApp.pdb
+C:\School\Programmeren 3\LoginSystemApp\LoginSystemApp\obj\Debug\LoginSystemApp.csproj.AssemblyReference.cache
+C:\School\Programmeren 3\LoginSystemApp\LoginSystemApp\obj\Debug\MainWindow.g.cs
+C:\School\Programmeren 3\LoginSystemApp\LoginSystemApp\obj\Debug\App.g.cs
+C:\School\Programmeren 3\LoginSystemApp\LoginSystemApp\obj\Debug\LoginSystemApp_MarkupCompile.cache
+C:\School\Programmeren 3\LoginSystemApp\LoginSystemApp\obj\Debug\LoginSystemApp_MarkupCompile.lref
+C:\School\Programmeren 3\LoginSystemApp\LoginSystemApp\obj\Debug\MainWindow.baml
+C:\School\Programmeren 3\LoginSystemApp\LoginSystemApp\obj\Debug\LoginSystemApp.g.resources
+C:\School\Programmeren 3\LoginSystemApp\LoginSystemApp\obj\Debug\LoginSystemApp.Properties.Resources.resources
+C:\School\Programmeren 3\LoginSystemApp\LoginSystemApp\obj\Debug\LoginSystemApp.csproj.GenerateResource.cache
+C:\School\Programmeren 3\LoginSystemApp\LoginSystemApp\obj\Debug\LoginSystemApp.csproj.CoreCompileInputs.cache
+C:\School\Programmeren 3\LoginSystemApp\LoginSystemApp\obj\Debug\LoginSystemApp.exe
+C:\School\Programmeren 3\LoginSystemApp\LoginSystemApp\obj\Debug\LoginSystemApp.pdb

@@ -1,0 +1,45 @@
+﻿<Window x:Class="GUI_1_Week_5_tussenopdracht_Peter_s_Foodstore_Joris_Wulms.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI_1_Week_5_tussenopdracht_Peter_s_Foodstore_Joris_Wulms"
+        mc:Ignorable="d"
+        Title="Peter's Foodstore" Height="450" Width="800">
+    <Grid Background="BlanchedAlmond">
+        <TextBlock Foreground="DarkRed" FontWeight="Bold" FontSize="30">Peter's Foodstore - Broodje samenstellen </TextBlock>
+        <TextBlock Foreground="OrangeRed" Margin="35,40,0,0" FontStyle="Italic" FontSize="20">Stel het broodje samen</TextBlock>
+        <TextBlock Margin="35,65,0,0">Kies het soort brood:</TextBlock>
+        <ComboBox Width="260" Height="25" Margin="0,0,463.60,220">
+            <ComboBoxItem>Wit</ComboBoxItem>
+            <ComboBoxItem Background="Yellow">Mais</ComboBoxItem>
+            <ComboBoxItem Background="SandyBrown">Volkoren</ComboBoxItem>
+            <ComboBoxItem Background="Brown">Waldkorn</ComboBoxItem>
+        </ComboBox>
+        <TextBlock Margin="35,120,0,0">Kies hoofdbeleg:</TextBlock>
+        <RadioButton Margin="35,140,0,0">Kipfilet</RadioButton>
+        <RadioButton Margin="35,160,0,0">Rundvlees</RadioButton>
+        <RadioButton Margin="35,180,0,0">Beenham</RadioButton>
+        <RadioButton Margin="135,140,0,0">Kaas (jong)</RadioButton>
+        <RadioButton Margin="135,160,0,0">Kaas (oud)</RadioButton>
+        <RadioButton Margin="135,180,0,0">Hummus (vegan)</RadioButton>
+        <TextBlock Margin="35,210,0,0">Kies groentes:</TextBlock>
+        <CheckBox Margin="35,230,0,0">Sla</CheckBox>
+        <CheckBox Margin="105,230,0,0">Tomaat</CheckBox>
+        <CheckBox Margin="175,230,0,0">Augurk</CheckBox>
+        <CheckBox Margin="245,230,0,0">Komkommer</CheckBox>
+        <TextBlock Margin="35,250,0,0">Kies de saus:</TextBlock>
+        <RadioButton Margin="35,270,0,0">Knoflook</RadioButton>
+        <RadioButton Margin="115,270,0,0">Honingmosterd</RadioButton>
+        <RadioButton Margin="35,290,0,0">Barbecue</RadioButton>
+        <RadioButton Margin="115,290,0,0">Cocktail</RadioButton>
+        <Border Width="3" Height="360" Background="RosyBrown" Margin="0,30,0,0"></Border>
+        <Image Source="Properties/Broodje gezond.jpg" Width="130" Margin="0,300,450,0"/>
+        <TextBlock Foreground="OrangeRed" Margin="660,40,0,0" FontStyle="Italic" FontSize="20">Klantgegevens</TextBlock>
+        <TextBlock Margin="728,65,0,0">Voornaam:</TextBlock>
+        <TextBox Height="18" Width="320" Margin="455,0,0,240"></TextBox>
+        <TextBlock Margin="626,100,0,0">Tussenvoegsel + Achternaam:</TextBlock>
+        <TextBox Height="18" Width="240" Margin="535,0,0,170"></TextBox>
+        <TextBox Height="18" Width="60" Margin="195,0,0,170"></TextBox>
+    </Grid>
+</Window>

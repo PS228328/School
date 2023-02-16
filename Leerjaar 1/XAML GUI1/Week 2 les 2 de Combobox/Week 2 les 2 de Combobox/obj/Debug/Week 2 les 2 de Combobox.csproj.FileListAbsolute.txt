@@ -1,0 +1,15 @@
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Week 2 les 2 de Combobox\Week 2 les 2 de Combobox\bin\Debug\Week 2 les 2 de Combobox.exe.config
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Week 2 les 2 de Combobox\Week 2 les 2 de Combobox\bin\Debug\Week 2 les 2 de Combobox.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Week 2 les 2 de Combobox\Week 2 les 2 de Combobox\bin\Debug\Week 2 les 2 de Combobox.pdb
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Week 2 les 2 de Combobox\Week 2 les 2 de Combobox\obj\Debug\Week 2 les 2 de Combobox.csproj.AssemblyReference.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Week 2 les 2 de Combobox\Week 2 les 2 de Combobox\obj\Debug\MainWindow.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Week 2 les 2 de Combobox\Week 2 les 2 de Combobox\obj\Debug\App.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Week 2 les 2 de Combobox\Week 2 les 2 de Combobox\obj\Debug\Week 2 les 2 de Combobox_MarkupCompile.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Week 2 les 2 de Combobox\Week 2 les 2 de Combobox\obj\Debug\Week 2 les 2 de Combobox_MarkupCompile.lref
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Week 2 les 2 de Combobox\Week 2 les 2 de Combobox\obj\Debug\MainWindow.baml
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Week 2 les 2 de Combobox\Week 2 les 2 de Combobox\obj\Debug\Week 2 les 2 de Combobox.g.resources
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Week 2 les 2 de Combobox\Week 2 les 2 de Combobox\obj\Debug\Week_2_les_2_de_Combobox.Properties.Resources.resources
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Week 2 les 2 de Combobox\Week 2 les 2 de Combobox\obj\Debug\Week 2 les 2 de Combobox.csproj.GenerateResource.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Week 2 les 2 de Combobox\Week 2 les 2 de Combobox\obj\Debug\Week 2 les 2 de Combobox.csproj.CoreCompileInputs.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Week 2 les 2 de Combobox\Week 2 les 2 de Combobox\obj\Debug\Week 2 les 2 de Combobox.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\Week 2 les 2 de Combobox\Week 2 les 2 de Combobox\obj\Debug\Week 2 les 2 de Combobox.pdb

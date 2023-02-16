@@ -1,0 +1,17 @@
+C:\School\Programmeren 2\Extra opdracht dispatcherTimer en SecondScreen\bin\Debug\Extra opdracht dispatcherTimer en SecondScreen.exe.config
+C:\School\Programmeren 2\Extra opdracht dispatcherTimer en SecondScreen\bin\Debug\Extra opdracht dispatcherTimer en SecondScreen.exe
+C:\School\Programmeren 2\Extra opdracht dispatcherTimer en SecondScreen\bin\Debug\Extra opdracht dispatcherTimer en SecondScreen.pdb
+C:\School\Programmeren 2\Extra opdracht dispatcherTimer en SecondScreen\obj\Debug\Extra opdracht dispatcherTimer en SecondScreen.csproj.AssemblyReference.cache
+C:\School\Programmeren 2\Extra opdracht dispatcherTimer en SecondScreen\obj\Debug\MainWindow.g.cs
+C:\School\Programmeren 2\Extra opdracht dispatcherTimer en SecondScreen\obj\Debug\App.g.cs
+C:\School\Programmeren 2\Extra opdracht dispatcherTimer en SecondScreen\obj\Debug\Extra opdracht dispatcherTimer en SecondScreen_MarkupCompile.cache
+C:\School\Programmeren 2\Extra opdracht dispatcherTimer en SecondScreen\obj\Debug\Extra opdracht dispatcherTimer en SecondScreen_MarkupCompile.lref
+C:\School\Programmeren 2\Extra opdracht dispatcherTimer en SecondScreen\obj\Debug\MainWindow.baml
+C:\School\Programmeren 2\Extra opdracht dispatcherTimer en SecondScreen\obj\Debug\Extra opdracht dispatcherTimer en SecondScreen.g.resources
+C:\School\Programmeren 2\Extra opdracht dispatcherTimer en SecondScreen\obj\Debug\Extra_opdracht_dispatcherTimer_en_SecondScreen.Properties.Resources.resources
+C:\School\Programmeren 2\Extra opdracht dispatcherTimer en SecondScreen\obj\Debug\Extra opdracht dispatcherTimer en SecondScreen.csproj.GenerateResource.cache
+C:\School\Programmeren 2\Extra opdracht dispatcherTimer en SecondScreen\obj\Debug\Extra opdracht dispatcherTimer en SecondScreen.csproj.CoreCompileInputs.cache
+C:\School\Programmeren 2\Extra opdracht dispatcherTimer en SecondScreen\obj\Debug\Extra opdracht dispatcherTimer en SecondScreen.exe
+C:\School\Programmeren 2\Extra opdracht dispatcherTimer en SecondScreen\obj\Debug\Extra opdracht dispatcherTimer en SecondScreen.pdb
+C:\School\Programmeren 2\Extra opdracht dispatcherTimer en SecondScreen\obj\Debug\go.g.cs
+C:\School\Programmeren 2\Extra opdracht dispatcherTimer en SecondScreen\obj\Debug\go.baml

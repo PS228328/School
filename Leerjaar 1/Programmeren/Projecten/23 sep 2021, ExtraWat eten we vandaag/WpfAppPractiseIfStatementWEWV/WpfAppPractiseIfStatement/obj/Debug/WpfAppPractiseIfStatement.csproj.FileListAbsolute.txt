@@ -1,0 +1,66 @@
+C:\School\Programmeren\Projecten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\bin\Debug\Assets\Background.jpg
+C:\School\Programmeren\Projecten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\bin\Debug\WpfAppPractiseIfStatement.exe.config
+C:\School\Programmeren\Projecten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\bin\Debug\WpfAppPractiseIfStatement.exe
+C:\School\Programmeren\Projecten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\bin\Debug\WpfAppPractiseIfStatement.pdb
+C:\School\Programmeren\Projecten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.csprojAssemblyReference.cache
+C:\School\Programmeren\Projecten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\obj\Debug\MainWindow.g.cs
+C:\School\Programmeren\Projecten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\obj\Debug\App.g.cs
+C:\School\Programmeren\Projecten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement_Content.g.cs
+C:\School\Programmeren\Projecten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement_MarkupCompile.cache
+C:\School\Programmeren\Projecten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement_MarkupCompile.lref
+C:\School\Programmeren\Projecten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\obj\Debug\MainWindow.baml
+C:\School\Programmeren\Projecten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.g.resources
+C:\School\Programmeren\Projecten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.Properties.Resources.resources
+C:\School\Programmeren\Projecten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.csproj.GenerateResource.cache
+C:\School\Programmeren\Projecten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.exe
+C:\School\Programmeren\Projecten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.pdb
+X:\Niveau 4\SD Cohort 20-24\OP1\Vakken\Programmeren\Aanpassingen Curriculumn PRG1\Opdrachten programmeren\Extra opdrachten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\bin\Debug\Assets\Background.jpg
+X:\Niveau 4\SD Cohort 20-24\OP1\Vakken\Programmeren\Aanpassingen Curriculumn PRG1\Opdrachten programmeren\Extra opdrachten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\bin\Debug\WpfAppPractiseIfStatement.exe.config
+X:\Niveau 4\SD Cohort 20-24\OP1\Vakken\Programmeren\Aanpassingen Curriculumn PRG1\Opdrachten programmeren\Extra opdrachten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\bin\Debug\WpfAppPractiseIfStatement.exe
+X:\Niveau 4\SD Cohort 20-24\OP1\Vakken\Programmeren\Aanpassingen Curriculumn PRG1\Opdrachten programmeren\Extra opdrachten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\bin\Debug\WpfAppPractiseIfStatement.pdb
+X:\Niveau 4\SD Cohort 20-24\OP1\Vakken\Programmeren\Aanpassingen Curriculumn PRG1\Opdrachten programmeren\Extra opdrachten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\obj\Debug\MainWindow.g.cs
+X:\Niveau 4\SD Cohort 20-24\OP1\Vakken\Programmeren\Aanpassingen Curriculumn PRG1\Opdrachten programmeren\Extra opdrachten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\obj\Debug\App.g.cs
+X:\Niveau 4\SD Cohort 20-24\OP1\Vakken\Programmeren\Aanpassingen Curriculumn PRG1\Opdrachten programmeren\Extra opdrachten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement_Content.g.cs
+X:\Niveau 4\SD Cohort 20-24\OP1\Vakken\Programmeren\Aanpassingen Curriculumn PRG1\Opdrachten programmeren\Extra opdrachten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement_MarkupCompile.cache
+X:\Niveau 4\SD Cohort 20-24\OP1\Vakken\Programmeren\Aanpassingen Curriculumn PRG1\Opdrachten programmeren\Extra opdrachten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement_MarkupCompile.lref
+X:\Niveau 4\SD Cohort 20-24\OP1\Vakken\Programmeren\Aanpassingen Curriculumn PRG1\Opdrachten programmeren\Extra opdrachten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\obj\Debug\MainWindow.baml
+X:\Niveau 4\SD Cohort 20-24\OP1\Vakken\Programmeren\Aanpassingen Curriculumn PRG1\Opdrachten programmeren\Extra opdrachten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.g.resources
+X:\Niveau 4\SD Cohort 20-24\OP1\Vakken\Programmeren\Aanpassingen Curriculumn PRG1\Opdrachten programmeren\Extra opdrachten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.Properties.Resources.resources
+X:\Niveau 4\SD Cohort 20-24\OP1\Vakken\Programmeren\Aanpassingen Curriculumn PRG1\Opdrachten programmeren\Extra opdrachten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.csproj.GenerateResource.cache
+X:\Niveau 4\SD Cohort 20-24\OP1\Vakken\Programmeren\Aanpassingen Curriculumn PRG1\Opdrachten programmeren\Extra opdrachten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.exe
+X:\Niveau 4\SD Cohort 20-24\OP1\Vakken\Programmeren\Aanpassingen Curriculumn PRG1\Opdrachten programmeren\Extra opdrachten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.pdb
+X:\Niveau 4\SD Cohort 20-24\OP1\Vakken\Programmeren\Aanpassingen Curriculumn PRG1\Opdrachten programmeren\Extra opdrachten\WpfAppPractiseIfStatement\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.csproj.CoreCompileInputs.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\bin\Debug\Assets\Background.jpg
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\bin\Debug\WpfAppPractiseIfStatement.exe.config
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\bin\Debug\WpfAppPractiseIfStatement.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\bin\Debug\WpfAppPractiseIfStatement.pdb
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.csproj.AssemblyReference.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\MainWindow.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\App.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement_Content.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement_MarkupCompile.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement_MarkupCompile.lref
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\MainWindow.baml
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.g.resources
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.Properties.Resources.resources
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.csproj.GenerateResource.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.csproj.CoreCompileInputs.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.pdb
+C:\School\Programmeren\Projecten\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\bin\Debug\Assets\Background.jpg
+C:\School\Programmeren\Projecten\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\bin\Debug\WpfAppPractiseIfStatement.exe.config
+C:\School\Programmeren\Projecten\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\bin\Debug\WpfAppPractiseIfStatement.exe
+C:\School\Programmeren\Projecten\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\bin\Debug\WpfAppPractiseIfStatement.pdb
+C:\School\Programmeren\Projecten\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.csproj.AssemblyReference.cache
+C:\School\Programmeren\Projecten\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\MainWindow.g.cs
+C:\School\Programmeren\Projecten\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\App.g.cs
+C:\School\Programmeren\Projecten\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement_Content.g.cs
+C:\School\Programmeren\Projecten\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement_MarkupCompile.cache
+C:\School\Programmeren\Projecten\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement_MarkupCompile.lref
+C:\School\Programmeren\Projecten\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\MainWindow.baml
+C:\School\Programmeren\Projecten\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.g.resources
+C:\School\Programmeren\Projecten\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.Properties.Resources.resources
+C:\School\Programmeren\Projecten\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.csproj.GenerateResource.cache
+C:\School\Programmeren\Projecten\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.csproj.CoreCompileInputs.cache
+C:\School\Programmeren\Projecten\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.exe
+C:\School\Programmeren\Projecten\23 sep 2021, ExtraWat eten we vandaag\WpfAppPractiseIfStatementWEWV\WpfAppPractiseIfStatement\obj\Debug\WpfAppPractiseIfStatement.pdb

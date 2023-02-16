@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SDLCOpdrachtWeek7", "SDLCOpdrachtWeek7\SDLCOpdrachtWeek7.csproj", "{9A90038F-E9CF-44B3-B6C8-A806C77EBA21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDLCOpdrachtWeek7Tests", "SDLCOpdrachtWeek7Tests\SDLCOpdrachtWeek7Tests.csproj", "{D8527B5C-25C3-45C2-9A48-BD1DB3C29233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A90038F-E9CF-44B3-B6C8-A806C77EBA21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A90038F-E9CF-44B3-B6C8-A806C77EBA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A90038F-E9CF-44B3-B6C8-A806C77EBA21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A90038F-E9CF-44B3-B6C8-A806C77EBA21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8527B5C-25C3-45C2-9A48-BD1DB3C29233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8527B5C-25C3-45C2-9A48-BD1DB3C29233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8527B5C-25C3-45C2-9A48-BD1DB3C29233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8527B5C-25C3-45C2-9A48-BD1DB3C29233}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A636C572-9EE3-4099-8702-F95F568F6419}
+	EndGlobalSection
+EndGlobal

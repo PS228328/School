@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDLC2Week5Encryptie", "SDLC2Week5Encryptie\SDLC2Week5Encryptie.csproj", "{52B6823E-E716-40E3-90E7-0063463E3D43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52B6823E-E716-40E3-90E7-0063463E3D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B6823E-E716-40E3-90E7-0063463E3D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B6823E-E716-40E3-90E7-0063463E3D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B6823E-E716-40E3-90E7-0063463E3D43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11F94B4C-ADC6-482F-8825-FBC470B1B0C9}
+	EndGlobalSection
+EndGlobal

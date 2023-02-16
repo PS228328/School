@@ -1,0 +1,17 @@
+﻿<Window x:Class="Demo_Method.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Demo_Method"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Orientation="Vertical" Width="300" Margin="0,50,0,0">
+            <TextBox x:Name="tbGetal1" Background="Black" Foreground="White"></TextBox>
+            <TextBox x:Name="tbGetal2" Background="Black" Foreground="White"></TextBox>
+            <Button x:Name="btBereken" Background="Yellow" Content="Go!" Click="btBereken_Click"></Button>
+            <TextBlock x:Name="tbResult" FontSize="50"></TextBlock>
+        </StackPanel>
+    </Grid>
+</Window>

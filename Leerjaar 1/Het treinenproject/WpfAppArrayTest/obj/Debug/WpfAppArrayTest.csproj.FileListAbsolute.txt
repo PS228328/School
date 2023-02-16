@@ -1,0 +1,15 @@
+C:\School\Het treinenproject\WpfAppArrayTest\bin\Debug\WpfAppArrayTest.exe.config
+C:\School\Het treinenproject\WpfAppArrayTest\bin\Debug\WpfAppArrayTest.exe
+C:\School\Het treinenproject\WpfAppArrayTest\bin\Debug\WpfAppArrayTest.pdb
+C:\School\Het treinenproject\WpfAppArrayTest\obj\Debug\WpfAppArrayTest.csproj.AssemblyReference.cache
+C:\School\Het treinenproject\WpfAppArrayTest\obj\Debug\MainWindow.g.cs
+C:\School\Het treinenproject\WpfAppArrayTest\obj\Debug\App.g.cs
+C:\School\Het treinenproject\WpfAppArrayTest\obj\Debug\WpfAppArrayTest_MarkupCompile.cache
+C:\School\Het treinenproject\WpfAppArrayTest\obj\Debug\WpfAppArrayTest_MarkupCompile.lref
+C:\School\Het treinenproject\WpfAppArrayTest\obj\Debug\MainWindow.baml
+C:\School\Het treinenproject\WpfAppArrayTest\obj\Debug\WpfAppArrayTest.g.resources
+C:\School\Het treinenproject\WpfAppArrayTest\obj\Debug\WpfAppArrayTest.Properties.Resources.resources
+C:\School\Het treinenproject\WpfAppArrayTest\obj\Debug\WpfAppArrayTest.csproj.GenerateResource.cache
+C:\School\Het treinenproject\WpfAppArrayTest\obj\Debug\WpfAppArrayTest.csproj.CoreCompileInputs.cache
+C:\School\Het treinenproject\WpfAppArrayTest\obj\Debug\WpfAppArrayTest.exe
+C:\School\Het treinenproject\WpfAppArrayTest\obj\Debug\WpfAppArrayTest.pdb

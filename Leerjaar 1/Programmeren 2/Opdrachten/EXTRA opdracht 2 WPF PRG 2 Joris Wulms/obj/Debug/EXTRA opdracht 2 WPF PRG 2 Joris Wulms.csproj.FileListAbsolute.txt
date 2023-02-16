@@ -1,0 +1,17 @@
+C:\School\Programmeren 2\Studenten\EXTRA opdracht 2 WPF PRG 2 Joris Wulms\bin\Debug\EXTRA opdracht 2 WPF PRG 2 Joris Wulms.exe.config
+C:\School\Programmeren 2\Studenten\EXTRA opdracht 2 WPF PRG 2 Joris Wulms\bin\Debug\EXTRA opdracht 2 WPF PRG 2 Joris Wulms.exe
+C:\School\Programmeren 2\Studenten\EXTRA opdracht 2 WPF PRG 2 Joris Wulms\bin\Debug\EXTRA opdracht 2 WPF PRG 2 Joris Wulms.pdb
+C:\School\Programmeren 2\Studenten\EXTRA opdracht 2 WPF PRG 2 Joris Wulms\obj\Debug\EXTRA opdracht 2 WPF PRG 2 Joris Wulms.csproj.AssemblyReference.cache
+C:\School\Programmeren 2\Studenten\EXTRA opdracht 2 WPF PRG 2 Joris Wulms\obj\Debug\MainWindow.g.cs
+C:\School\Programmeren 2\Studenten\EXTRA opdracht 2 WPF PRG 2 Joris Wulms\obj\Debug\Window2.g.cs
+C:\School\Programmeren 2\Studenten\EXTRA opdracht 2 WPF PRG 2 Joris Wulms\obj\Debug\App.g.cs
+C:\School\Programmeren 2\Studenten\EXTRA opdracht 2 WPF PRG 2 Joris Wulms\obj\Debug\EXTRA opdracht 2 WPF PRG 2 Joris Wulms_MarkupCompile.cache
+C:\School\Programmeren 2\Studenten\EXTRA opdracht 2 WPF PRG 2 Joris Wulms\obj\Debug\EXTRA opdracht 2 WPF PRG 2 Joris Wulms_MarkupCompile.lref
+C:\School\Programmeren 2\Studenten\EXTRA opdracht 2 WPF PRG 2 Joris Wulms\obj\Debug\MainWindow.baml
+C:\School\Programmeren 2\Studenten\EXTRA opdracht 2 WPF PRG 2 Joris Wulms\obj\Debug\Window2.baml
+C:\School\Programmeren 2\Studenten\EXTRA opdracht 2 WPF PRG 2 Joris Wulms\obj\Debug\EXTRA opdracht 2 WPF PRG 2 Joris Wulms.g.resources
+C:\School\Programmeren 2\Studenten\EXTRA opdracht 2 WPF PRG 2 Joris Wulms\obj\Debug\EXTRA_opdracht_2_WPF_PRG_2_Joris_Wulms.Properties.Resources.resources
+C:\School\Programmeren 2\Studenten\EXTRA opdracht 2 WPF PRG 2 Joris Wulms\obj\Debug\EXTRA opdracht 2 WPF PRG 2 Joris Wulms.csproj.GenerateResource.cache
+C:\School\Programmeren 2\Studenten\EXTRA opdracht 2 WPF PRG 2 Joris Wulms\obj\Debug\EXTRA opdracht 2 WPF PRG 2 Joris Wulms.csproj.CoreCompileInputs.cache
+C:\School\Programmeren 2\Studenten\EXTRA opdracht 2 WPF PRG 2 Joris Wulms\obj\Debug\EXTRA opdracht 2 WPF PRG 2 Joris Wulms.exe
+C:\School\Programmeren 2\Studenten\EXTRA opdracht 2 WPF PRG 2 Joris Wulms\obj\Debug\EXTRA opdracht 2 WPF PRG 2 Joris Wulms.pdb

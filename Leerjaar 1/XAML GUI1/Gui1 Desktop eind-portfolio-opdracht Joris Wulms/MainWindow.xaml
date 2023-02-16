@@ -1,0 +1,91 @@
+﻿<Window x:Class="Gui1_Desktop_eind_portfolio_opdracht_Joris_Wulms.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gui1_Desktop_eind_portfolio_opdracht_Joris_Wulms"
+        mc:Ignorable="d"
+        Title="Inschrijfformulier schaak vereniging" Height="600" Width="1000" ResizeMode="CanMinimize">
+    <Grid Background="gray">
+        <Image Source="Foto's achtergrond/Foto1 GUI1.jpg" HorizontalAlignment="Left" Width="300" VerticalAlignment="Top" Opacity="0.3"></Image>
+        <Image Source="Foto's achtergrond/Foto2 GUI1.jpg" HorizontalAlignment="Center" Width="298" VerticalAlignment="Top" Margin="0,0,100,0" Opacity="0.3"></Image>
+        <Image Source="Foto's achtergrond/Foto3 GUI1.jpg" HorizontalAlignment="Center" Width="680" Height="270" VerticalAlignment="Bottom" Opacity="0.3"></Image>
+        <Image Source="Foto's achtergrond/GUI1 Pawn.jpg" Height="265" HorizontalAlignment="Left" VerticalAlignment="Bottom" Opacity="0.3"></Image>
+        <Image Source="Foto's achtergrond/GUI1 Pawn.jpg" Height="264" HorizontalAlignment="Right" VerticalAlignment="Bottom" Opacity="0.3"></Image>
+        
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,550,450" Background="Blue" TextAlignment="Center" FontSize="40" Width="400" Height="110" FontWeight="Bold">
+            <Run Text="Inschrijfformulier"></Run>
+            <LineBreak/>
+            <Run Text="SV Joris"></Run>
+        </TextBlock>
+
+        <TextBlock x:Name="Titel" Background="Transparent" HorizontalAlignment="Right" VerticalAlignment="Top" Text="SV Joris" FontSize="80" Margin="0,0,30,0" FontWeight="Bold" FontFamily="Arial Rounded MT Bold"></TextBlock>
+        <TextBlock x:Name="Zin1" Background="Transparent" HorizontalAlignment="Right" VerticalAlignment="Top" Text="'Beginnen als pion..." Margin="0,110,60,0" FontSize="30" FontStyle="Italic"></TextBlock>
+        <TextBlock x:Name="Zin2" Background="Transparent" HorizontalAlignment="Right" VerticalAlignment="Top" Text="...eindigen als koning'" Margin="0,150,40,0" FontSize="30" FontStyle="Italic"></TextBlock>
+        
+        <StackPanel Margin="40,150,0,0" Width="160" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <TextBlock FontSize="18" FontStyle="Normal" FontFamily="arial" Foreground="White" Background="Black">Voornaam</TextBlock>
+            <TextBox x:Name="tbVoornaam" FontSize="16" FontStyle="Normal" FontFamily="arial"></TextBox>
+            <TextBlock FontSize="18" FontStyle="Normal" FontFamily="arial" Foreground="White" Background="Black" Margin="0,10,0,0">Geslacht</TextBlock>
+            <TextBlock Background="White" Height="45"></TextBlock>
+            <TextBlock FontSize="18" FontStyle="Normal" FontFamily="arial" Foreground="White" Background="Black" Margin="0,10,0,0">Straat + Huisnr</TextBlock>
+            <TextBox x:Name="tbStraatHuisnr" FontSize="16" FontStyle="Normal" FontFamily="arial"></TextBox>
+            <TextBlock FontSize="18" FontStyle="Normal" FontFamily="arial" Foreground="White" Background="Black" Margin="0,10,0,0">Postcode</TextBlock>
+            <TextBox x:Name="tbPostcode" FontSize="16" FontStyle="Normal" FontFamily="arial"></TextBox>
+            <TextBlock FontSize="18" FontStyle="Normal" FontFamily="arial" Foreground="White" Background="Black" Margin="0,10,0,0">Woonplaats</TextBlock>
+            <TextBox x:Name="tbWoonplaats" FontSize="16" FontStyle="Normal" FontFamily="arial"></TextBox>
+            <TextBlock FontSize="18" FontStyle="Normal" FontFamily="arial" Foreground="White" Background="Black" Margin="0,10,0,0">Telefoonnr.</TextBlock>
+            <TextBox x:Name="tbTelefoonnr" FontSize="16" FontStyle="Normal" FontFamily="arial"></TextBox>
+            <TextBlock FontSize="18" FontStyle="Normal" FontFamily="arial" Foreground="White" Background="Black" Margin="0,10,0,0">Email</TextBlock>
+            <TextBox x:Name="tbEmail" FontSize="16" FontStyle="Normal" FontFamily="arial"></TextBox>
+        </StackPanel>
+        
+        <StackPanel Margin="240,150,0,0" Width="160" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <TextBlock FontSize="18" FontStyle="Normal" FontFamily="arial" Foreground="White" Background="Black">Achternaam</TextBlock>
+            <TextBox x:Name="tbAchternaam" FontSize="16" FontStyle="Normal" FontFamily="arial"></TextBox>
+            <TextBlock FontSize="18" FontStyle="Normal" FontFamily="arial" Foreground="White" Background="Black" Margin="0,10,0,0">Geboortedatum</TextBlock>
+            <DatePicker x:Name="tbGeboortedatum" FontSize="12" FontStyle="Normal" FontFamily="arial" FirstDayOfWeek="Monday"></DatePicker>
+            <TextBlock FontSize="13" FontStyle="Normal" FontFamily="arial" Foreground="White" Background="Black" Margin="0,10,0,0">Hoe heb je ons gevonden?</TextBlock>
+            <ComboBox x:Name="tbCombobox" FontSize="15">
+                <ComboBoxItem>Via vrienden of familie</ComboBoxItem>
+                <ComboBoxItem>Via social media</ComboBoxItem>
+                <ComboBoxItem>Via onze website</ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+        
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,300,150,0" Background="Orange" TextAlignment="Center" FontSize="20" Width="400" Height="170" FontWeight="Bold">
+        <Run Text="Wat leuk dat je interesse hebt in onze"></Run>
+        <LineBreak/>
+        <Run Text="vereniging! We vinden het belangrijk"></Run>
+        <LineBreak/>
+        <Run Text="dat je weet wat je kan verwachten."></Run>
+        <LineBreak/>
+        <Run Text="Daarom willen we een"></Run>
+        <LineBreak/>
+        <Run Text="kennismakingsgesprek houden. Kies"></Run>
+         <LineBreak/>
+        <Run Text="hiernaast een datum en tijdstip:"></Run>
+        </TextBlock>
+        
+        <RadioButton Margin="45,223,0,0" Background="DeepPink" Width="70" Height="20" HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="arial" FontSize="15">Man</RadioButton>
+        <RadioButton Margin="115,223,0,0" Background="DeepPink" Width="70" Height="20" HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="arial" FontSize="15">Vrouw</RadioButton>
+        <RadioButton Margin="45,243,0,0" Background="DeepPink" Width="140" Height="20" HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="arial" FontSize="15">Wil ik niet zeggen</RadioButton>
+        <CheckBox x:Name="checkboxav" Background="LightCyan" HorizontalAlignment="Right" VerticalAlignment="Bottom" Content="Ik heb de algemene voorwaarden gelezen en ga hiermee akkoord" FontSize="17" FontWeight="ExtraBold" FontFamily="Arial" FontStretch="Medium" FontStyle="Oblique" Foreground="White" Margin="0,0,160,0"></CheckBox>
+        
+        <StackPanel HorizontalAlignment="Left" VerticalAlignment="Top" Margin="630,350,0,0">
+            <DatePicker x:Name="tbAfspaakdatum" FontSize="15" FontStyle="Normal" FontFamily="arial" Width="200" FirstDayOfWeek="Monday"></DatePicker>
+            <ListBox Margin="0,10,0,0" x:Name="tbTijd">
+                <ListBoxItem>09:00</ListBoxItem>
+                <ListBoxItem>10:00</ListBoxItem>
+                <ListBoxItem>11:00</ListBoxItem>
+                <ListBoxItem>13:00</ListBoxItem>
+                <ListBoxItem>14:00</ListBoxItem>
+                <ListBoxItem>15:00</ListBoxItem>
+            </ListBox>
+        </StackPanel>
+        
+        <Calendar HorizontalAlignment="Center" VerticalAlignment="Top" Margin="40,0,0,0" FirstDayOfWeek="Monday"></Calendar>
+        <Button Width="250" Height="20" Margin="430,490,0,0" Content="Verstuur mijn gegevens en bevestig afspraak" Click="Button_Click"></Button>
+        <TextBlock x:Name="Inschrijvingvoltooid" Width="450" Height="40" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,300,180,0" Background="LightBlue" Visibility="Hidden"></TextBlock>
+    </Grid>
+</Window>

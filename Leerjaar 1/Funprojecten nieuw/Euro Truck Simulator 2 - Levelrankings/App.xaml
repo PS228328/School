@@ -1,0 +1,9 @@
+﻿<Application x:Class="Euro_Truck_Simulator_2___Levelrankings.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Euro_Truck_Simulator_2___Levelrankings"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

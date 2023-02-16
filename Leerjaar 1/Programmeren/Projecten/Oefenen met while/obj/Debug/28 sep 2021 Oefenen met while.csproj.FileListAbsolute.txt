@@ -1,0 +1,22 @@
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\28 sep 2021 Oefenen met while\bin\Debug\28 sep 2021 Oefenen met while.exe.config
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\28 sep 2021 Oefenen met while\bin\Debug\28 sep 2021 Oefenen met while.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\28 sep 2021 Oefenen met while\bin\Debug\28 sep 2021 Oefenen met while.pdb
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\28 sep 2021 Oefenen met while\obj\Debug\28 sep 2021 Oefenen met while.csproj.AssemblyReference.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\28 sep 2021 Oefenen met while\obj\Debug\MainWindow.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\28 sep 2021 Oefenen met while\obj\Debug\App.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\28 sep 2021 Oefenen met while\obj\Debug\28 sep 2021 Oefenen met while_MarkupCompile.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\28 sep 2021 Oefenen met while\obj\Debug\28 sep 2021 Oefenen met while_MarkupCompile.lref
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\28 sep 2021 Oefenen met while\obj\Debug\MainWindow.baml
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\28 sep 2021 Oefenen met while\obj\Debug\28 sep 2021 Oefenen met while.g.resources
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\28 sep 2021 Oefenen met while\obj\Debug\_28_sep_2021_Oefenen_met_while.Properties.Resources.resources
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\28 sep 2021 Oefenen met while\obj\Debug\28 sep 2021 Oefenen met while.csproj.GenerateResource.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\28 sep 2021 Oefenen met while\obj\Debug\28 sep 2021 Oefenen met while.csproj.CoreCompileInputs.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\28 sep 2021 Oefenen met while\obj\Debug\28 sep 2021 Oefenen met while.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\28 sep 2021 Oefenen met while\obj\Debug\28 sep 2021 Oefenen met while.pdb
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\Oefenen met while\obj\Debug\28 sep 2021 Oefenen met while.csproj.AssemblyReference.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\Oefenen met while\obj\Debug\MainWindow.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\Oefenen met while\obj\Debug\App.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\Oefenen met while\obj\Debug\28 sep 2021 Oefenen met while_MarkupCompile.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\Oefenen met while\obj\Debug\28 sep 2021 Oefenen met while_MarkupCompile.lref
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\Oefenen met while\obj\Debug\28 sep 2021 Oefenen met while.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\Oefenen met while\obj\Debug\28 sep 2021 Oefenen met while.pdb

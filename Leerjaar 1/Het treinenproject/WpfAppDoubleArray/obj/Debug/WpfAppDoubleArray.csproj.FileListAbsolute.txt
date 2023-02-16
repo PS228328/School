@@ -1,0 +1,15 @@
+C:\School\Het treinenproject\WpfAppDoubleArray\bin\Debug\WpfAppDoubleArray.exe.config
+C:\School\Het treinenproject\WpfAppDoubleArray\bin\Debug\WpfAppDoubleArray.exe
+C:\School\Het treinenproject\WpfAppDoubleArray\bin\Debug\WpfAppDoubleArray.pdb
+C:\School\Het treinenproject\WpfAppDoubleArray\obj\Debug\WpfAppDoubleArray.csproj.AssemblyReference.cache
+C:\School\Het treinenproject\WpfAppDoubleArray\obj\Debug\MainWindow.g.cs
+C:\School\Het treinenproject\WpfAppDoubleArray\obj\Debug\App.g.cs
+C:\School\Het treinenproject\WpfAppDoubleArray\obj\Debug\WpfAppDoubleArray_MarkupCompile.cache
+C:\School\Het treinenproject\WpfAppDoubleArray\obj\Debug\WpfAppDoubleArray_MarkupCompile.lref
+C:\School\Het treinenproject\WpfAppDoubleArray\obj\Debug\MainWindow.baml
+C:\School\Het treinenproject\WpfAppDoubleArray\obj\Debug\WpfAppDoubleArray.g.resources
+C:\School\Het treinenproject\WpfAppDoubleArray\obj\Debug\WpfAppDoubleArray.Properties.Resources.resources
+C:\School\Het treinenproject\WpfAppDoubleArray\obj\Debug\WpfAppDoubleArray.csproj.GenerateResource.cache
+C:\School\Het treinenproject\WpfAppDoubleArray\obj\Debug\WpfAppDoubleArray.csproj.CoreCompileInputs.cache
+C:\School\Het treinenproject\WpfAppDoubleArray\obj\Debug\WpfAppDoubleArray.exe
+C:\School\Het treinenproject\WpfAppDoubleArray\obj\Debug\WpfAppDoubleArray.pdb

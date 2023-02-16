@@ -1,0 +1,15 @@
+C:\School\Funprojecten nieuw\LED\bin\Debug\LED.exe.config
+C:\School\Funprojecten nieuw\LED\bin\Debug\LED.exe
+C:\School\Funprojecten nieuw\LED\bin\Debug\LED.pdb
+C:\School\Funprojecten nieuw\LED\obj\Debug\LED.csproj.AssemblyReference.cache
+C:\School\Funprojecten nieuw\LED\obj\Debug\MainWindow.g.cs
+C:\School\Funprojecten nieuw\LED\obj\Debug\App.g.cs
+C:\School\Funprojecten nieuw\LED\obj\Debug\LED_MarkupCompile.cache
+C:\School\Funprojecten nieuw\LED\obj\Debug\LED_MarkupCompile.lref
+C:\School\Funprojecten nieuw\LED\obj\Debug\MainWindow.baml
+C:\School\Funprojecten nieuw\LED\obj\Debug\LED.g.resources
+C:\School\Funprojecten nieuw\LED\obj\Debug\LED.Properties.Resources.resources
+C:\School\Funprojecten nieuw\LED\obj\Debug\LED.csproj.GenerateResource.cache
+C:\School\Funprojecten nieuw\LED\obj\Debug\LED.csproj.CoreCompileInputs.cache
+C:\School\Funprojecten nieuw\LED\obj\Debug\LED.exe
+C:\School\Funprojecten nieuw\LED\obj\Debug\LED.pdb

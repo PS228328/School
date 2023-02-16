@@ -1,0 +1,15 @@
+C:\School\Programmeren\Projecten\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\School\Programmeren\Projecten\WpfApp1\bin\Debug\WpfApp1.exe
+C:\School\Programmeren\Projecten\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\School\Programmeren\Projecten\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\School\Programmeren\Projecten\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\School\Programmeren\Projecten\WpfApp1\obj\Debug\App.g.cs
+C:\School\Programmeren\Projecten\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\School\Programmeren\Projecten\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\School\Programmeren\Projecten\WpfApp1\obj\Debug\MainWindow.baml
+C:\School\Programmeren\Projecten\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\School\Programmeren\Projecten\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\School\Programmeren\Projecten\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\School\Programmeren\Projecten\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\School\Programmeren\Projecten\WpfApp1\obj\Debug\WpfApp1.exe
+C:\School\Programmeren\Projecten\WpfApp1\obj\Debug\WpfApp1.pdb

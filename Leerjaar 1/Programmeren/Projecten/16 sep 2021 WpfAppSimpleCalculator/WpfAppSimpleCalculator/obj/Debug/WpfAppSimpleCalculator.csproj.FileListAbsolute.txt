@@ -1,0 +1,60 @@
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\WpfAppSimpleCalculator\WpfAppSimpleCalculator\bin\Debug\WpfAppSimpleCalculator.exe.config
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\WpfAppSimpleCalculator\WpfAppSimpleCalculator\bin\Debug\WpfAppSimpleCalculator.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\WpfAppSimpleCalculator\WpfAppSimpleCalculator\bin\Debug\WpfAppSimpleCalculator.pdb
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\App.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator_MarkupCompile.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator_MarkupCompile.lref
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\MainWindow.baml
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.g.resources
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.Properties.Resources.resources
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.csproj.GenerateResource.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\GUI 1\Visual Studio 2019\WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.pdb
+D:\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\bin\Debug\WpfAppSimpleCalculator.exe.config
+D:\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\bin\Debug\WpfAppSimpleCalculator.exe
+D:\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\bin\Debug\WpfAppSimpleCalculator.pdb
+D:\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.csproj.AssemblyReference.cache
+D:\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\MainWindow.g.cs
+D:\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\App.g.cs
+D:\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator_MarkupCompile.cache
+D:\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator_MarkupCompile.lref
+D:\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\MainWindow.baml
+D:\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.g.resources
+D:\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.Properties.Resources.resources
+D:\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.csproj.GenerateResource.cache
+D:\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.csproj.CoreCompileInputs.cache
+D:\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.exe
+D:\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.pdb
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\bin\Debug\WpfAppSimpleCalculator.exe.config
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\bin\Debug\WpfAppSimpleCalculator.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\bin\Debug\WpfAppSimpleCalculator.pdb
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\App.g.cs
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator_MarkupCompile.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator_MarkupCompile.lref
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\MainWindow.baml
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.g.resources
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.Properties.Resources.resources
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.csproj.GenerateResource.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.exe
+C:\Users\joris\OneDrive - Summacollege\Summa\Leerjaar 1\Programmeren 1\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.pdb
+C:\School\Programmeren\Projecten\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\bin\Debug\WpfAppSimpleCalculator.exe.config
+C:\School\Programmeren\Projecten\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\bin\Debug\WpfAppSimpleCalculator.exe
+C:\School\Programmeren\Projecten\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\bin\Debug\WpfAppSimpleCalculator.pdb
+C:\School\Programmeren\Projecten\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.csproj.AssemblyReference.cache
+C:\School\Programmeren\Projecten\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\MainWindow.g.cs
+C:\School\Programmeren\Projecten\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\App.g.cs
+C:\School\Programmeren\Projecten\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator_MarkupCompile.cache
+C:\School\Programmeren\Projecten\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator_MarkupCompile.lref
+C:\School\Programmeren\Projecten\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\MainWindow.baml
+C:\School\Programmeren\Projecten\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.g.resources
+C:\School\Programmeren\Projecten\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.Properties.Resources.resources
+C:\School\Programmeren\Projecten\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.csproj.GenerateResource.cache
+C:\School\Programmeren\Projecten\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.csproj.CoreCompileInputs.cache
+C:\School\Programmeren\Projecten\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.exe
+C:\School\Programmeren\Projecten\16 sep 2021 WpfAppSimpleCalculator\WpfAppSimpleCalculator\obj\Debug\WpfAppSimpleCalculator.pdb
